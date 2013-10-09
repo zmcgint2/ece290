@@ -1,3 +1,8 @@
 
 ihelo:w
+<<<<<<< HEAD
 ece290
+=======
+
+testing 2 modification
+>>>>>>> d2a365aeabbb3d71b3e30403f4a0b5989a5b79e6
