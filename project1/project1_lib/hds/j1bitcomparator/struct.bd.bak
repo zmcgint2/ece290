@@ -119,19 +119,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/j1bitcomparator"
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/15/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "15"
 )
 (vvPair
 variable "entity_name"
@@ -159,7 +159,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-09.ews.illinois.edu"
+value "gelib-057-16.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -168,6 +168,10 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
 )
 (vvPair
 variable "mm"
@@ -247,7 +251,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "19:33:41"
+value "18:28:57"
 )
 (vvPair
 variable "unit"
@@ -3562,12 +3566,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "793,72,1808,762"
-viewArea "-4900,-2800,52124,34712"
+windowSize "787,74,1802,764"
+viewArea "-4900,-2800,44204,29502"
 cachedDiagramExtent "0,0,69000,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 460,0
+lastUid 483,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

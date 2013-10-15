@@ -1,0 +1,368 @@
+DESIGN j7bitcomparator
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 604,0 14 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 594,0 15 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 584,0 16 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 574,0 17 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 564,0 18 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 554,0 19 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 544,0 20 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 609,0 21 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 599,0 22 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 589,0 23 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 579,0 24 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 569,0 25 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 559,0 26 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 549,0 27 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 384,0 28 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 419,0 29 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 389,0 30 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 1,0 33 0 
+DESIGN j7bitcomparator
+VIEW symbol.sb
+GRAPHIC 1,0 34 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 41,0 46 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 0,0 52 2 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6192,0 57 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6198,0 58 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6204,0 59 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6210,0 60 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6216,0 61 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 6222,0 62 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7523,0 63 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7873,0 64 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8135,0 65 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9226,0 66 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9542,0 67 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9102,0 68 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9232,0 69 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9238,0 70 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9244,0 71 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9384,0 72 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8946,0 73 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8709,0 74 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8370,0 75 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8240,0 76 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7989,0 77 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8458,0 78 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8848,0 79 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9012,0 80 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9208,0 81 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9214,0 82 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9220,0 83 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9500,0 84 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9506,0 85 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9512,0 86 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9518,0 87 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9530,0 88 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9536,0 89 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 90
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 91
+LIBRARY project1_lib
+DESIGN j1bitcomparator
+VIEW struct
+GRAPHIC 129,0 93 0 
+DESIGN j1bitcomparator
+VIEW symbol.sb
+GRAPHIC 118,0 95 0 
+DESIGN j1bitcomparator
+VIEW symbol.sb
+GRAPHIC 123,0 96 0 
+DESIGN j1bitcomparator
+VIEW symbol.sb
+GRAPHIC 128,0 97 0 
+DESIGN j1bitcomparator
+VIEW symbol.sb
+GRAPHIC 138,0 98 0 
+DESIGN j1bitcomparator
+VIEW symbol.sb
+GRAPHIC 133,0 99 0 
+LIBRARY project1_lib
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 102
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 129,0 105 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 108
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7443,0 110 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7769,0 114 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7885,0 118 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8001,0 122 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8147,0 126 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8252,0 130 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8376,0 133 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8470,0 136 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8715,0 139 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8860,0 142 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8952,0 145 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9032,0 148 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9284,0 151 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9158,0 154 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9426,0 158 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 162
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 129,0 164 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9714,0 166 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9722,0 167 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9544,0 169 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9228,0 170 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 139,0 172 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9730,0 174 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9738,0 175 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9386,0 177 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9104,0 178 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 169,0 180 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9746,0 182 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9754,0 183 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9018,0 185 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8948,0 186 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 199,0 188 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9762,0 190 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9770,0 191 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8854,0 193 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8711,0 194 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 259,0 196 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9778,0 198 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9786,0 199 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8464,0 201 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8372,0 202 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 289,0 204 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9794,0 206 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9802,0 207 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8246,0 209 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 8137,0 210 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 319,0 212 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9810,0 214 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9818,0 215 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7525,0 216 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7995,0 217 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 7875,0 218 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 221

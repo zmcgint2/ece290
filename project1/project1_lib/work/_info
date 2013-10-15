@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
+Ej1bitcomparator
+Z1 w1381879990
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
+Z6 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Z7 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+l0
+L13
+V7Tgd]bm1:O;4@9efE3ehC1
+!s100 8L]9f<@aY=g=_mMRHJZTJ2
+Z8 OE;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1381879990.280641
+Z10 !s90 -work|project1_lib|-nologo|-f|/tmp/Files0|
+Z11 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
+Z12 o-work project1_lib -nologo
+Z13 tExplicit 1
+Astruct
+DEx4 work 15 j1bitcomparator 0 22 7Tgd]bm1:O;4@9efE3ehC1
+R2
+R3
+R4
+l51
+L40
+V6iF6Fe8AhSWPL1[cdSLaI3
+!s100 Vj^zokS580?bNa0a>3el>1
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Ej7bitcomparator
+w1381879816
+R2
+R3
+R4
+R5
+8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+l0
+L13
+VXX7]GdbdRK[?M0j1hnVg:3
+R8
+32
+R12
+R13
+!s100 GDb`Sibg3OQmE>aDLJ>oV1
+!i10b 1
+!s108 1381879816.910972
+R10
+!s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|

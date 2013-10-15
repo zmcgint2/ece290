@@ -119,19 +119,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/j1bitcomparator"
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/15/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "15"
 )
 (vvPair
 variable "entity_name"
@@ -159,7 +159,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-09.ews.illinois.edu"
+value "gelib-057-16.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -168,6 +168,10 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
 )
 (vvPair
 variable "mm"
@@ -247,7 +251,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "19:33:45"
+value "18:29:11"
 )
 (vvPair
 variable "unit"
@@ -671,7 +675,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 6
+o 5
 suid 1,0
 )
 )
@@ -724,7 +728,7 @@ thePort (LogicalPort
 decl (Decl
 n "din0"
 t "std_logic"
-o 5
+o 7
 suid 2,0
 )
 )
@@ -1036,7 +1040,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 8
+o 4
 suid 1,0
 )
 )
@@ -1089,7 +1093,7 @@ thePort (LogicalPort
 decl (Decl
 n "din0"
 t "std_logic"
-o 7
+o 8
 suid 2,0
 )
 )
@@ -1401,7 +1405,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 3
+o 6
 suid 1,0
 )
 )
@@ -1965,7 +1969,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 3
+o 6
 suid 1,0
 )
 )
@@ -2040,7 +2044,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 4
+o 3
 suid 2,0
 )
 )
@@ -2290,7 +2294,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 5
+o 7
 suid 2,0
 )
 )
@@ -2542,7 +2546,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 7
+o 8
 suid 2,0
 )
 )
@@ -2660,7 +2664,7 @@ uid 326,0
 decl (Decl
 n "dout"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 declText (MLText
@@ -2669,7 +2673,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,7200,34500,8100"
-st "SIGNAL dout      : std_logic"
+st "SIGNAL dout      : std_logic
+"
 )
 )
 *105 (PortIoOut
@@ -2731,7 +2736,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,1800,31000,2700"
-st "A         : std_logic"
+st "A         : std_logic
+"
 )
 )
 *107 (Net
@@ -2748,7 +2754,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,2700,31000,3600"
-st "B         : std_logic"
+st "B         : std_logic
+"
 )
 )
 *108 (Net
@@ -2756,7 +2763,7 @@ uid 350,0
 decl (Decl
 n "AequalsB"
 t "std_logic"
-o 4
+o 3
 suid 8,0
 )
 declText (MLText
@@ -2765,7 +2772,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,3600,31000,4500"
-st "AequalsB  : std_logic"
+st "AequalsB  : std_logic
+"
 )
 )
 *109 (Net
@@ -2773,7 +2781,7 @@ uid 358,0
 decl (Decl
 n "dout1"
 t "std_logic"
-o 5
+o 7
 suid 9,0
 )
 declText (MLText
@@ -2782,7 +2790,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,8100,34500,9000"
-st "SIGNAL dout1     : std_logic"
+st "SIGNAL dout1     : std_logic
+"
 )
 )
 *110 (PortIoOut
@@ -2835,7 +2844,7 @@ uid 382,0
 decl (Decl
 n "BgreaterA"
 t "std_logic"
-o 6
+o 5
 suid 11,0
 )
 declText (MLText
@@ -2844,7 +2853,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,5400,31000,6300"
-st "BgreaterA : std_logic"
+st "BgreaterA : std_logic
+"
 )
 )
 *112 (Net
@@ -2852,7 +2862,7 @@ uid 402,0
 decl (Decl
 n "dout2"
 t "std_logic"
-o 7
+o 8
 suid 13,0
 )
 declText (MLText
@@ -2861,7 +2871,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,9000,34500,9900"
-st "SIGNAL dout2     : std_logic"
+st "SIGNAL dout2     : std_logic
+"
 )
 )
 *113 (PortIoOut
@@ -2914,7 +2925,7 @@ uid 420,0
 decl (Decl
 n "AgreaterB"
 t "std_logic"
-o 8
+o 4
 suid 15,0
 )
 declText (MLText
@@ -2923,7 +2934,8 @@ va (VaSet
 font "courier,8,0"
 )
 xt "20000,4500,31000,5400"
-st "AgreaterB : std_logic"
+st "AgreaterB : std_logic
+"
 )
 )
 *115 (Wire
@@ -3562,12 +3574,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "793,72,1808,762"
-viewArea "-4900,-2800,52124,34712"
+windowSize "787,74,1802,764"
+viewArea "-4900,-2800,44204,29502"
 cachedDiagramExtent "0,0,69000,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 460,0
+lastUid 483,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -4670,7 +4682,7 @@ m 4
 decl (Decl
 n "dout"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 )
@@ -4704,7 +4716,7 @@ m 1
 decl (Decl
 n "AequalsB"
 t "std_logic"
-o 4
+o 3
 suid 8,0
 )
 )
@@ -4716,7 +4728,7 @@ m 4
 decl (Decl
 n "dout1"
 t "std_logic"
-o 5
+o 7
 suid 9,0
 )
 )
@@ -4728,7 +4740,7 @@ m 1
 decl (Decl
 n "BgreaterA"
 t "std_logic"
-o 6
+o 5
 suid 11,0
 )
 )
@@ -4740,7 +4752,7 @@ m 4
 decl (Decl
 n "dout2"
 t "std_logic"
-o 7
+o 8
 suid 13,0
 )
 )
@@ -4752,7 +4764,7 @@ m 1
 decl (Decl
 n "AgreaterB"
 t "std_logic"
-o 8
+o 4
 suid 15,0
 )
 )
@@ -4810,49 +4822,49 @@ uid 72,0
 )
 *188 (MRCItem
 litem &175
-pos 0
+pos 5
 dimension 20
 uid 423,0
 )
 *189 (MRCItem
 litem &176
-pos 1
+pos 0
 dimension 20
 uid 425,0
 )
 *190 (MRCItem
 litem &177
-pos 2
+pos 1
 dimension 20
 uid 427,0
 )
 *191 (MRCItem
 litem &178
-pos 3
+pos 2
 dimension 20
 uid 429,0
 )
 *192 (MRCItem
 litem &179
-pos 4
+pos 6
 dimension 20
 uid 431,0
 )
 *193 (MRCItem
 litem &180
-pos 5
+pos 3
 dimension 20
 uid 433,0
 )
 *194 (MRCItem
 litem &181
-pos 6
+pos 7
 dimension 20
 uid 435,0
 )
 *195 (MRCItem
 litem &182
-pos 7
+pos 4
 dimension 20
 uid 437,0
 )

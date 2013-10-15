@@ -1,3 +1,5 @@
+[ModelSim]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/work
 [hdl]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
 [hds]

@@ -275,7 +275,7 @@ font "courier,10,0"
 )
 emptyMRCItem *32 (MRCItem
 litem &1
-pos 17
+pos 3
 dimension 20
 )
 uid 68,0
@@ -535,7 +535,7 @@ font "courier,10,0"
 )
 emptyMRCItem *74 (MRCItem
 litem &61
-pos 0
+pos 3
 dimension 20
 )
 uid 96,0
@@ -721,10 +721,6 @@ variable "library"
 value "project1_lib"
 )
 (vvPair
-variable "library_downstream_ModelSimCompiler"
-value "$HDS_PROJECT_DIR/project1_lib/work"
-)
-(vvPair
 variable "mm"
 value "10"
 )
@@ -802,7 +798,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "18:29:27"
+value "18:26:35"
 )
 (vvPair
 variable "unit"
@@ -2023,10 +2019,9 @@ tm "PackageList"
 )
 ]
 )
-windowSize "378,110,1393,800"
-viewArea "-500,-500,70780,43870"
-cachedDiagramExtent "0,0,69000,51000"
-hasePageBreakOrigin 1
+windowSize "0,0,1015,690"
+viewArea "0,0,0,0"
+cachedDiagramExtent "0,0,0,0"
 pageBreakOrigin "0,0"
 defaultCommentText (CommentText
 shape (Rectangle
@@ -2296,8 +2291,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 659,0
-okToSyncOnLoad 1
-OkToSyncGenericsOnLoad 1
+lastUid 636,0
 activeModelName "Symbol:CDM"
 )

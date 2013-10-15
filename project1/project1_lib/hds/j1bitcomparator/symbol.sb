@@ -143,7 +143,7 @@ font "courier,10,0"
 )
 emptyMRCItem *20 (MRCItem
 litem &1
-pos 3
+pos 5
 dimension 20
 )
 uid 68,0
@@ -331,7 +331,7 @@ font "courier,10,0"
 )
 emptyMRCItem *50 (MRCItem
 litem &37
-pos 3
+pos 0
 dimension 20
 )
 uid 96,0
@@ -466,19 +466,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/j1bitcomparator"
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/15/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "15"
 )
 (vvPair
 variable "entity_name"
@@ -506,7 +506,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-09.ews.illinois.edu"
+value "gelib-057-16.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -515,6 +515,10 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
 )
 (vvPair
 variable "mm"
@@ -594,7 +598,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "19:28:51"
+value "18:30:49"
 )
 (vvPair
 variable "unit"
@@ -1287,9 +1291,10 @@ tm "PackageList"
 )
 ]
 )
-windowSize "0,0,1015,690"
-viewArea "0,0,0,0"
-cachedDiagramExtent "0,0,0,0"
+windowSize "186,56,1201,746"
+viewArea "-500,-500,70780,48730"
+cachedDiagramExtent "0,0,69000,51000"
+hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
 defaultCommentText (CommentText
 shape (Rectangle
@@ -1559,6 +1564,8 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 165,0
+lastUid 188,0
+okToSyncOnLoad 1
+OkToSyncGenericsOnLoad 1
 activeModelName "Symbol:CDM"
 )
