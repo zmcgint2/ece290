@@ -18,78 +18,119 @@ VzhZPTfS3kdm<]gPz9aVCZ1
 R1
 n@_opt1
 R2
-Ej1bitcomparator
-Z4 w1381881232
-Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
-Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
-Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
 R3
-Z8 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
-Z9 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Efull_adder
+w1381708389
+Z4 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R3
+8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+l0
+L13
+VjXH20en6623bZD5PX:0Ki1
+!s100 g6[Fi<MnYQ@nh3nAgo_jm1
+Z7 OE;C;10.1d;51
+32
+!i10b 1
+!s108 1381953469.456596
+Z8 !s90 -work|project1_lib|-nologo|-f|/tmp/Files0|
+!s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd|
+Z9 o-work project1_lib -nologo
+Z10 tExplicit 1
+Efull_adder_8bit
+w1381953439
+R4
+R5
+R6
+R3
+8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+l0
+L13
+Vl]mSZb2@0i?N^kWKTOFA;0
+R7
+32
+R8
+R9
+R10
+!s100 ^^oi:ojUEkTSE12cM?62:2
+!i10b 1
+!s108 1381953440.408200
+!s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
+Ej1bitcomparator
+Z11 w1381881232
+R4
+R5
+R6
+R3
+Z12 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Z13 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 l0
 L13
 V7Tgd]bm1:O;4@9efE3ehC1
-Z10 OE;C;10.1d;51
+R7
 32
-Z11 !s108 1381881232.505885
-Z12 !s90 -work|project1_lib|-nologo|-f|/tmp/Files0|
-Z13 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
-Z14 o-work project1_lib -nologo
-Z15 tExplicit 1
+Z14 !s108 1381881232.505885
+R8
+Z15 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
+R9
+R10
 !s100 8L]9f<@aY=g=_mMRHJZTJ2
 !i10b 1
 Astruct
 DEx4 work 15 j1bitcomparator 0 22 7Tgd]bm1:O;4@9efE3ehC1
+R4
 R5
 R6
-R7
 l51
 L40
 V6iF6Fe8AhSWPL1[cdSLaI3
-R10
+R7
 32
-R11
-R12
-R13
 R14
+R8
 R15
+R9
+R10
 !s100 Vj^zokS580?bNa0a>3el>1
 !i10b 1
 Ej7bitcomparator
 Z16 w1381939487
+R4
 R5
 R6
-R7
 R3
 Z17 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 Z18 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 l0
 L13
 VXX7]GdbdRK[?M0j1hnVg:3
-R10
+R7
 32
 Z19 !s108 1381939487.548861
-R12
+R8
 Z20 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|
-R14
-R15
+R9
+R10
 !s100 GDb`Sibg3OQmE>aDLJ>oV1
 !i10b 1
 Astruct
 DEx12 project1_lib 15 j1bitcomparator 0 22 7Tgd]bm1:O;4@9efE3ehC1
 DEx4 work 15 j7bitcomparator 0 22 XX7]GdbdRK[?M0j1hnVg:3
+R4
 R5
 R6
-R7
 l110
 L53
 VU>0QfFmJz56GZ8QQCnGjH0
-R10
+R7
 32
 R19
-R12
+R8
 R20
-R14
-R15
+R9
+R10
 !s100 631KeQATd5FZ=eLh4[iJ43
 !i10b 1

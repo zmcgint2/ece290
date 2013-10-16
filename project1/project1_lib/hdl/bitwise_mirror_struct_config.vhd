@@ -5,11 +5,7 @@
 --   Regular libraries   : use library name
 --   View name           : include
 --   
-LIBRARY lab22_lib;
-CONFIGURATION full_adder_struct_config OF full_adder IS
+CONFIGURATION bitwise_mirror_struct_config OF bitwise_mirror IS
    FOR struct
-      FOR ALL : myxor
-         USE CONFIGURATION lab22_lib.myxor_struct_config;
-      END FOR;
    END FOR;
-END full_adder_struct_config;
+END bitwise_mirror_struct_config;
