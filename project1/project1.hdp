@@ -1,5 +1,7 @@
 [ModelSim]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/work
+[ModelSim_Invoke_Dir]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/sim
 [hdl]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
 [hds]

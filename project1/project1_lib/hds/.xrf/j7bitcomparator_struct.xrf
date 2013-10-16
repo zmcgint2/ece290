@@ -48,13 +48,13 @@ VIEW symbol.sb
 GRAPHIC 549,0 27 0 
 DESIGN j7bitcomparator
 VIEW symbol.sb
-GRAPHIC 384,0 28 0 
+GRAPHIC 754,0 28 0 
 DESIGN j7bitcomparator
 VIEW symbol.sb
-GRAPHIC 419,0 29 0 
+GRAPHIC 906,0 29 0 
 DESIGN j7bitcomparator
 VIEW symbol.sb
-GRAPHIC 389,0 30 0 
+GRAPHIC 853,0 30 0 
 DESIGN j7bitcomparator
 VIEW symbol.sb
 GRAPHIC 1,0 33 0 
@@ -75,103 +75,103 @@ VIEW struct.bd
 GRAPHIC 0,0 52 2 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6192,0 57 0 
+GRAPHIC 11757,0 57 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6198,0 58 0 
+GRAPHIC 11763,0 58 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6204,0 59 0 
+GRAPHIC 11769,0 59 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6210,0 60 0 
+GRAPHIC 11775,0 60 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6216,0 61 0 
+GRAPHIC 11781,0 61 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 6222,0 62 0 
+GRAPHIC 11787,0 62 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7523,0 63 0 
+GRAPHIC 11793,0 63 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7873,0 64 0 
+GRAPHIC 13521,0 64 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8135,0 65 0 
+GRAPHIC 14862,0 65 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9226,0 66 0 
+GRAPHIC 14300,0 66 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9542,0 67 0 
+GRAPHIC 14216,0 67 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9102,0 68 0 
+GRAPHIC 14413,0 68 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9232,0 69 0 
+GRAPHIC 14592,0 69 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9238,0 70 0 
+GRAPHIC 14642,0 70 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9244,0 71 0 
+GRAPHIC 14912,0 71 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9384,0 72 0 
+GRAPHIC 14080,0 72 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8946,0 73 0 
+GRAPHIC 13721,0 73 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8709,0 74 0 
+GRAPHIC 13515,0 74 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8370,0 75 0 
+GRAPHIC 12503,0 75 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8240,0 76 0 
+GRAPHIC 12157,0 76 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7989,0 77 0 
+GRAPHIC 12163,0 77 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8458,0 78 0 
+GRAPHIC 12637,0 78 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8848,0 79 0 
+GRAPHIC 13942,0 79 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9012,0 80 0 
+GRAPHIC 14546,0 80 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9208,0 81 0 
+GRAPHIC 14568,0 81 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9214,0 82 0 
+GRAPHIC 14800,0 82 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9220,0 83 0 
+GRAPHIC 14574,0 83 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9500,0 84 0 
+GRAPHIC 14598,0 84 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9506,0 85 0 
+GRAPHIC 14604,0 85 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9512,0 86 0 
+GRAPHIC 14764,0 86 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9518,0 87 0 
+GRAPHIC 14770,0 87 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9530,0 88 0 
+GRAPHIC 14776,0 88 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9536,0 89 0 
+GRAPHIC 14794,0 89 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
 NO_GRAPHIC 90
@@ -209,160 +209,178 @@ VIEW struct.bd
 NO_GRAPHIC 108
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7443,0 110 0 
+GRAPHIC 11713,0 110 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7769,0 114 0 
+GRAPHIC 11841,0 114 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7885,0 118 0 
+GRAPHIC 11993,0 118 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8001,0 122 0 
+GRAPHIC 12317,0 122 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8147,0 126 0 
+GRAPHIC 12509,0 126 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8252,0 130 0 
+GRAPHIC 12739,0 130 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8376,0 133 0 
+GRAPHIC 13235,0 133 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8470,0 136 0 
+GRAPHIC 13535,0 137 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8715,0 139 0 
+GRAPHIC 13733,0 140 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8860,0 142 0 
+GRAPHIC 13962,0 143 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8952,0 145 0 
+GRAPHIC 14094,0 146 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9032,0 148 0 
+GRAPHIC 14230,0 149 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9284,0 151 0 
+GRAPHIC 14306,0 152 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9158,0 154 0 
+GRAPHIC 14502,0 155 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9426,0 158 0 
+GRAPHIC 14720,0 159 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-NO_GRAPHIC 162
+NO_GRAPHIC 163
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 129,0 164 0 
+GRAPHIC 129,0 165 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9714,0 166 0 
+GRAPHIC 9714,0 167 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9722,0 167 0 
+GRAPHIC 9722,0 168 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9544,0 169 0 
+GRAPHIC 11759,0 169 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9228,0 170 0 
+GRAPHIC 14988,0 170 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 139,0 172 0 
+GRAPHIC 14616,0 171 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9730,0 174 0 
+GRAPHIC 139,0 173 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9738,0 175 0 
+GRAPHIC 9730,0 175 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9386,0 177 0 
+GRAPHIC 9738,0 176 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9104,0 178 0 
+GRAPHIC 11765,0 177 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 169,0 180 0 
+GRAPHIC 14654,0 178 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9746,0 182 0 
+GRAPHIC 14302,0 179 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9754,0 183 0 
+GRAPHIC 169,0 181 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9018,0 185 0 
+GRAPHIC 9746,0 183 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8948,0 186 0 
+GRAPHIC 9754,0 184 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 199,0 188 0 
+GRAPHIC 11771,0 185 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9762,0 190 0 
+GRAPHIC 14222,0 186 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9770,0 191 0 
+GRAPHIC 14586,0 187 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8854,0 193 0 
+GRAPHIC 199,0 189 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8711,0 194 0 
+GRAPHIC 9762,0 191 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 259,0 196 0 
+GRAPHIC 9770,0 192 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9778,0 198 0 
+GRAPHIC 11777,0 193 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9786,0 199 0 
+GRAPHIC 13727,0 194 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8464,0 201 0 
+GRAPHIC 13948,0 195 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8372,0 202 0 
+GRAPHIC 259,0 197 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 289,0 204 0 
+GRAPHIC 9778,0 199 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9794,0 206 0 
+GRAPHIC 9786,0 200 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9802,0 207 0 
+GRAPHIC 11783,0 201 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8246,0 209 0 
+GRAPHIC 13529,0 202 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 8137,0 210 0 
+GRAPHIC 13517,0 203 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 319,0 212 0 
+GRAPHIC 289,0 205 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9810,0 214 0 
+GRAPHIC 9794,0 207 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 9818,0 215 0 
+GRAPHIC 9802,0 208 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7525,0 216 0 
+GRAPHIC 11789,0 209 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7995,0 217 0 
+GRAPHIC 13445,0 210 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-GRAPHIC 7875,0 218 0 
+GRAPHIC 12687,0 211 0 
 DESIGN j7bitcomparator
 VIEW struct.bd
-NO_GRAPHIC 221
+GRAPHIC 319,0 213 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9810,0 215 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 9818,0 216 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 11795,0 217 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 12271,0 218 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+GRAPHIC 12205,0 219 0 
+DESIGN j7bitcomparator
+VIEW struct.bd
+NO_GRAPHIC 222
