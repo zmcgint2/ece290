@@ -97,23 +97,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd.info"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd.user"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -129,27 +129,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "d_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/16/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Wed"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Wednesday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "16"
 )
 (vvPair
 variable "entity_name"
@@ -177,7 +177,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-15.ews.illinois.edu"
+value "gelib-057-26.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -186,6 +186,14 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
+)
+(vvPair
+variable "library_downstream_ModelSimSimulator"
+value "$HDS_PROJECT_DIR/project1_lib/sim"
 )
 (vvPair
 variable "mm"
@@ -205,11 +213,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -233,7 +241,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "<TBD>"
+value "/software/mentor/ModelSim-SE-10.1d/modeltech/bin"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -265,7 +273,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "12:33:34"
+value "11:27:31"
 )
 (vvPair
 variable "unit"
@@ -273,7 +281,7 @@ value "full_adder_8bit"
 )
 (vvPair
 variable "user"
-value "zmcgint2"
+value "jschen3"
 )
 (vvPair
 variable "version"
@@ -446,9 +454,9 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "49200,47200,60200,48100"
+xt "49200,47200,69200,48100"
 st "
-<enter comments here>
+A7 and B7 are the most significant bits
 "
 tm "CommentText"
 wrapOption 3
@@ -3498,8 +3506,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,17100,31000,18000"
-st "cout  : std_logic
-"
+st "cout  : std_logic"
 )
 )
 *102 (Net
@@ -3516,8 +3523,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,18000,31000,18900"
-st "s     : std_logic
-"
+st "s     : std_logic"
 )
 )
 *103 (Net
@@ -3534,8 +3540,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,18900,31000,19800"
-st "s1    : std_logic
-"
+st "s1    : std_logic"
 )
 )
 *104 (Net
@@ -3552,8 +3557,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,19800,31000,20700"
-st "s2    : std_logic
-"
+st "s2    : std_logic"
 )
 )
 *105 (Net
@@ -3570,8 +3574,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,20700,31000,21600"
-st "s3    : std_logic
-"
+st "s3    : std_logic"
 )
 )
 *106 (Net
@@ -3588,8 +3591,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,21600,31000,22500"
-st "s4    : std_logic
-"
+st "s4    : std_logic"
 )
 )
 *107 (Net
@@ -3606,8 +3608,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,22500,31000,23400"
-st "s5    : std_logic
-"
+st "s5    : std_logic"
 )
 )
 *108 (PortIoOut
@@ -3669,8 +3670,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,23400,31000,24300"
-st "s6    : std_logic
-"
+st "s6    : std_logic"
 )
 )
 *110 (Net
@@ -3687,8 +3687,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,24300,31000,25200"
-st "s7    : std_logic
-"
+st "s7    : std_logic"
 )
 )
 *111 (Net
@@ -3705,8 +3704,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,16200,31000,17100"
-st "cin   : std_logic
-"
+st "cin   : std_logic"
 )
 )
 *112 (Net
@@ -3723,8 +3721,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9000,31000,9900"
-st "b     : std_logic
-"
+st "b     : std_logic"
 )
 )
 *113 (Net
@@ -3741,8 +3738,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,31000,2700"
-st "a     : std_logic
-"
+st "a     : std_logic"
 )
 )
 *114 (Net
@@ -3759,8 +3755,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9900,31000,10800"
-st "b1    : std_logic
-"
+st "b1    : std_logic"
 )
 )
 *115 (Net
@@ -3777,8 +3772,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,31000,3600"
-st "a1    : std_logic
-"
+st "a1    : std_logic"
 )
 )
 *116 (Net
@@ -3795,8 +3789,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,10800,31000,11700"
-st "b2    : std_logic
-"
+st "b2    : std_logic"
 )
 )
 *117 (Net
@@ -3813,8 +3806,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,3600,31000,4500"
-st "a2    : std_logic
-"
+st "a2    : std_logic"
 )
 )
 *118 (Net
@@ -3831,8 +3823,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,11700,31000,12600"
-st "b3    : std_logic
-"
+st "b3    : std_logic"
 )
 )
 *119 (Net
@@ -3849,8 +3840,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,4500,31000,5400"
-st "a3    : std_logic
-"
+st "a3    : std_logic"
 )
 )
 *120 (PortIoIn
@@ -4280,8 +4270,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,12600,31000,13500"
-st "b4    : std_logic
-"
+st "b4    : std_logic"
 )
 )
 *130 (Net
@@ -4298,8 +4287,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,31000,6300"
-st "a4    : std_logic
-"
+st "a4    : std_logic"
 )
 )
 *131 (Net
@@ -4316,8 +4304,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,13500,31000,14400"
-st "b5    : std_logic
-"
+st "b5    : std_logic"
 )
 )
 *132 (Net
@@ -4334,8 +4321,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,31000,7200"
-st "a5    : std_logic
-"
+st "a5    : std_logic"
 )
 )
 *133 (Net
@@ -4352,8 +4338,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,14400,31000,15300"
-st "b6    : std_logic
-"
+st "b6    : std_logic"
 )
 )
 *134 (Net
@@ -4370,8 +4355,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,31000,8100"
-st "a6    : std_logic
-"
+st "a6    : std_logic"
 )
 )
 *135 (Net
@@ -4388,8 +4372,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,15300,31000,16200"
-st "b7    : std_logic
-"
+st "b7    : std_logic"
 )
 )
 *136 (Net
@@ -4406,8 +4389,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,8100,31000,9000"
-st "a7    : std_logic
-"
+st "a7    : std_logic"
 )
 )
 *137 (Net
@@ -4424,8 +4406,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,26100,34500,27000"
-st "SIGNAL cout1 : std_logic
-"
+st "SIGNAL cout1 : std_logic"
 )
 )
 *138 (Net
@@ -4442,8 +4423,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,27000,34500,27900"
-st "SIGNAL cout2 : std_logic
-"
+st "SIGNAL cout2 : std_logic"
 )
 )
 *139 (Net
@@ -4460,8 +4440,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,27900,34500,28800"
-st "SIGNAL cout3 : std_logic
-"
+st "SIGNAL cout3 : std_logic"
 )
 )
 *140 (Net
@@ -4478,8 +4457,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,28800,34500,29700"
-st "SIGNAL cout4 : std_logic
-"
+st "SIGNAL cout4 : std_logic"
 )
 )
 *141 (Net
@@ -4496,8 +4474,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,29700,34500,30600"
-st "SIGNAL cout5 : std_logic
-"
+st "SIGNAL cout5 : std_logic"
 )
 )
 *142 (Net
@@ -4514,8 +4491,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,30600,34500,31500"
-st "SIGNAL cout6 : std_logic
-"
+st "SIGNAL cout6 : std_logic"
 )
 )
 *143 (Net
@@ -4532,8 +4508,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,31500,34500,32400"
-st "SIGNAL cout7 : std_logic
-"
+st "SIGNAL cout7 : std_logic"
 )
 )
 *144 (Wire
@@ -6033,12 +6008,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "145,9,1160,699"
-viewArea "-53172,10332,13356,54096"
+windowSize "139,11,1154,701"
+viewArea "23120,14044,80144,51556"
 cachedDiagramExtent "-47500,0,82000,51000"
 hasePageBreakOrigin 1
-pageBreakOrigin "0,0"
-lastUid 774,0
+pageBreakOrigin "-69000,0"
+lastUid 797,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

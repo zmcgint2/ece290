@@ -789,23 +789,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.info"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.user"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -821,27 +821,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "d_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/16/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Wed"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Wednesday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "16"
 )
 (vvPair
 variable "entity_name"
@@ -869,7 +869,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-15.ews.illinois.edu"
+value "gelib-057-26.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -878,6 +878,14 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
+)
+(vvPair
+variable "library_downstream_ModelSimSimulator"
+value "$HDS_PROJECT_DIR/project1_lib/sim"
 )
 (vvPair
 variable "mm"
@@ -897,11 +905,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
+value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -925,7 +933,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "<TBD>"
+value "/software/mentor/ModelSim-SE-10.1d/modeltech/bin"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -957,7 +965,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "12:33:34"
+value "11:27:31"
 )
 (vvPair
 variable "unit"
@@ -965,7 +973,7 @@ value "full_adder_8bit"
 )
 (vvPair
 variable "user"
-value "zmcgint2"
+value "jschen3"
 )
 (vvPair
 variable "version"
@@ -1025,8 +1033,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,17100,57500,18000"
-st "cout : OUT    std_logic  ;
-"
+st "cout : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1072,8 +1079,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,18000,57500,18900"
-st "s    : OUT    std_logic  ;
-"
+st "s    : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1119,8 +1125,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,18900,57500,19800"
-st "s1   : OUT    std_logic  ;
-"
+st "s1   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1166,8 +1171,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,19800,57500,20700"
-st "s2   : OUT    std_logic  ;
-"
+st "s2   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1213,8 +1217,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,20700,57500,21600"
-st "s3   : OUT    std_logic  ;
-"
+st "s3   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1260,8 +1263,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,21600,57500,22500"
-st "s4   : OUT    std_logic  ;
-"
+st "s4   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1307,8 +1309,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,22500,57500,23400"
-st "s5   : OUT    std_logic  ;
-"
+st "s5   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1354,8 +1355,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,23400,57500,24300"
-st "s6   : OUT    std_logic  ;
-"
+st "s6   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
@@ -1401,8 +1401,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,24300,56500,25200"
-st "s7   : OUT    std_logic 
-"
+st "s7   : OUT    std_logic "
 )
 thePort (LogicalPort
 m 1
@@ -1447,8 +1446,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,16200,57500,17100"
-st "cin  : IN     std_logic  ;
-"
+st "cin  : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1492,8 +1490,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,9000,57500,9900"
-st "b    : IN     std_logic  ;
-"
+st "b    : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1537,8 +1534,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,1800,57500,2700"
-st "a    : IN     std_logic  ;
-"
+st "a    : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1582,8 +1578,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,9900,57500,10800"
-st "b1   : IN     std_logic  ;
-"
+st "b1   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1627,8 +1622,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,2700,57500,3600"
-st "a1   : IN     std_logic  ;
-"
+st "a1   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1672,8 +1666,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,10800,57500,11700"
-st "b2   : IN     std_logic  ;
-"
+st "b2   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1717,8 +1710,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,3600,57500,4500"
-st "a2   : IN     std_logic  ;
-"
+st "a2   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1762,8 +1754,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,11700,57500,12600"
-st "b3   : IN     std_logic  ;
-"
+st "b3   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1807,8 +1798,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,4500,57500,5400"
-st "a3   : IN     std_logic  ;
-"
+st "a3   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1852,8 +1842,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,12600,57500,13500"
-st "b4   : IN     std_logic  ;
-"
+st "b4   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1897,8 +1886,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,5400,57500,6300"
-st "a4   : IN     std_logic  ;
-"
+st "a4   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1942,8 +1930,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,13500,57500,14400"
-st "b5   : IN     std_logic  ;
-"
+st "b5   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1987,8 +1974,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,6300,57500,7200"
-st "a5   : IN     std_logic  ;
-"
+st "a5   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -2032,8 +2018,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,14400,57500,15300"
-st "b6   : IN     std_logic  ;
-"
+st "b6   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -2077,8 +2062,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,7200,57500,8100"
-st "a6   : IN     std_logic  ;
-"
+st "a6   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -2122,8 +2106,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,15300,57500,16200"
-st "b7   : IN     std_logic  ;
-"
+st "b7   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -2167,8 +2150,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,8100,57500,9000"
-st "a7   : IN     std_logic  ;
-"
+st "a7   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -2884,6 +2866,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 289,0
+lastUid 312,0
 activeModelName "Symbol:CDM"
 )
