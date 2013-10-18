@@ -380,7 +380,7 @@ font "courier,10,0"
 )
 emptyMRCItem *41 (MRCItem
 litem &1
-pos 3
+pos 26
 dimension 20
 )
 uid 68,0
@@ -694,7 +694,7 @@ font "courier,10,0"
 )
 emptyMRCItem *92 (MRCItem
 litem &79
-pos 3
+pos 0
 dimension 20
 )
 uid 96,0
@@ -869,7 +869,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-26.ews.illinois.edu"
+value "siebl-0224-31.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -965,7 +965,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "11:27:31"
+value "15:11:35"
 )
 (vvPair
 variable "unit"
@@ -2244,7 +2244,7 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "32200,50050,45700,50950"
+xt "32200,50050,45200,50950"
 st "
 by %user on %dd %month %year
 "
@@ -2594,9 +2594,10 @@ tm "PackageList"
 )
 ]
 )
-windowSize "0,0,1015,690"
-viewArea "0,0,0,0"
-cachedDiagramExtent "0,0,0,0"
+windowSize "-8,25,1448,883"
+viewArea "-500,-500,110470,63850"
+cachedDiagramExtent "0,0,69000,51000"
+hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
 defaultCommentText (CommentText
 shape (Rectangle
@@ -2866,6 +2867,8 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 312,0
+lastUid 335,0
+okToSyncOnLoad 1
+OkToSyncGenericsOnLoad 1
 activeModelName "Symbol:CDM"
 )

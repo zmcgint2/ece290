@@ -7,33 +7,23 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.j7bitcomparator(struct) 
-# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
-# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.full_adder_8bit(struct) 
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
-# Loading work.j7bitcomparator(struct)#1
-# Loading work.j1bitcomparator(struct)#1
-do j7bitcomparator.do
-add wave -position insertpoint  \
-sim:/j7bitcomparator/A7equalsB7
-add wave -position insertpoint  \
-sim:/j7bitcomparator/A7greaterB7
-add wave -position insertpoint  \
-sim:/j7bitcomparator/B7greaterA7
+# Loading work.full_adder_8bit(struct)#1
+# Loading work.full_adder(struct)#1
+gvim full_adder_8bit.do
+do full_adder_8bit.do
 run 20
-# Causality operation skipped due to absense of debug database file
-emacs j7bitcomparator.do
-do j7bitcomparator.do
-# ** Error: Time value must be greater than "now": 0
-# Error in macro ./j7bitcomparator.do line 1
-# Time value must be greater than "now": 0
-#     while executing
-# "force /A0 0 @0, 1 @5, 0 @10,1 @15,0 @20,1 @25,1 @30,0 @35"
+add wave -position insertpoint  \
+sim:/full_adder_8bit/b
+add wave -position insertpoint  \
+sim:/full_adder_8bit/b7
+add wave -position insertpoint  \
+sim:/full_adder_8bit/s7
 restart -f
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
-do j7bitcomparator.do
-run 50
+run 20

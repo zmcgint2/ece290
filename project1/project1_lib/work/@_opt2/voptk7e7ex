@@ -4,12 +4,13 @@ K3
 cModel Technology
 Z0 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
 T_opt
-VjhU<YKbjLg3OM42j3z1=40
-04 15 6 work full_adder_8bit struct 1
-=1-80c16ee1ba8b-525ef8df-affa9-1287
+VL@VoMion0zFEmj93oh<A^2
+04 15 6 work j1bitcomparator struct 1
+=1-2c27d73b42b4-525dd696-729f4-f07
 Z1 o-quiet +acc -auto_acc_if_foreign -work project1_lib -L project1_lib
 n@_opt
 Z2 OE;O;10.1d;51
+Z3 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
 T_opt1
 VzhZPTfS3kdm<]gPz9aVCZ1
 04 15 6 work j7bitcomparator struct 1
@@ -17,7 +18,7 @@ VzhZPTfS3kdm<]gPz9aVCZ1
 R1
 n@_opt1
 R2
-Z3 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
+R3
 T_opt2
 ViMoHLIO?zbSZ7mFV^]FKE1
 04 10 6 work full_adder struct 1
@@ -25,7 +26,6 @@ ViMoHLIO?zbSZ7mFV^]FKE1
 R1
 n@_opt2
 R2
-R3
 Efull_adder
 Z4 w1381955743
 Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
@@ -64,7 +64,7 @@ R15
 !s100 9<_UN<?M4ZdBc3gPmz@i62
 !i10b 1
 Efull_adder_8bit
-Z16 w1381955796
+Z16 w1381954445
 R5
 R6
 R7
@@ -76,7 +76,7 @@ L13
 Vl]mSZb2@0i?N^kWKTOFA;0
 R10
 32
-Z19 !s108 1381955797.366316
+Z19 !s108 1381954445.989185
 R12
 Z20 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
 R14
@@ -84,14 +84,14 @@ R15
 !s100 ^^oi:ojUEkTSE12cM?62:2
 !i10b 1
 Astruct
-DEx12 project1_lib 10 full_adder 0 22 ;i>A:8f5lLked@2g`85:[2
+DEx12 project1_lib 10 full_adder 0 22 jXH20en6623bZD5PX:0Ki1
 DEx4 work 15 full_adder_8bit 0 22 l]mSZb2@0i?N^kWKTOFA;0
 R5
 R6
 R7
 l93
 L62
-Vizn[XOIPHQ=lQ[Dh<5hS`0
+V5BUoR`DaSW<zRYC7;zWmX3
 R10
 32
 R19
@@ -99,7 +99,7 @@ R12
 R20
 R14
 R15
-!s100 =@EB2YalK]UT7E?J23CTb0
+!s100 ^VW]GUaU1Hjam<6;]Y80V2
 !i10b 1
 Ej1bitcomparator
 Z21 w1381881232
