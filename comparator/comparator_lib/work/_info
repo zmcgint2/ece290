@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/hkiang2/HDS/comparator/comparator_lib/work
+T_opt
+Vh?`B<TE`jSOoG8BiEDZ:91
+04 16 6 work comparator_8_bit struct 1
+=1-8851fb5d65de-5260c396-65779-35e0
+Z1 o-quiet +acc -auto_acc_if_foreign -work comparator_lib -L comparator_lib
+n@_opt
+Z2 OE;O;10.1d;51
+Z3 d/home/hkiang2/HDS/comparator/comparator_lib/work
+T_opt1
+V6ARGI<;JGz^o25L>7GBV?0
+04 23 6 work signed_2s_compl_compare struct 1
+=1-80c16ee1b9e4-5260d429-879dd-32d0
+R1
+n@_opt1
+R2
+Ecomparator_8_bit
+Z4 w1382073225
+Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R3
+Z8 8/home/hkiang2/HDS/comparator/comparator_lib/hdl/comparator_8_bit_struct.vhd
+Z9 F/home/hkiang2/HDS/comparator/comparator_lib/hdl/comparator_8_bit_struct.vhd
+l0
+L13
+V8VIOOkkK07DhPl9D5mo0K3
+Z10 OE;C;10.1d;51
+32
+Z11 !s108 1382073225.341891
+Z12 !s90 -work|comparator_lib|-nologo|-f|/tmp/Files0|
+Z13 !s107 /home/hkiang2/HDS/comparator/comparator_lib/hdl/comparator_8_bit_struct.vhd|
+Z14 o-work comparator_lib -nologo
+Z15 tExplicit 1
+!s100 HgL=?21]@=P0J=1TbEUBC1
+!i10b 1
+Astruct
+DEx4 work 16 comparator_8_bit 0 22 8VIOOkkK07DhPl9D5mo0K3
+R5
+R6
+R7
+l105
+L54
+V^YJDJVFZFhdz6cgO_@[HH3
+R10
+32
+R11
+R12
+R13
+R14
+R15
+!s100 li`YlOlV]0a@Lj]D1<8U50
+!i10b 1
+Esigned_2s_compl_compare
+Z16 w1382077471
+R5
+R6
+R7
+R3
+Z17 8/home/hkiang2/HDS/comparator/comparator_lib/hdl/signed_2s_compl_compare_struct.vhd
+Z18 F/home/hkiang2/HDS/comparator/comparator_lib/hdl/signed_2s_compl_compare_struct.vhd
+l0
+L13
+VH`O>iHkFhinZfMIk>LMU]0
+R10
+32
+Z19 !s108 1382077471.599067
+R12
+Z20 !s107 /home/hkiang2/HDS/comparator/comparator_lib/hdl/signed_2s_compl_compare_struct.vhd|
+R14
+R15
+!s100 J1e`[dfLn>gH=F0B;7nkl0
+!i10b 1
+Astruct
+DEx4 work 23 signed_2s_compl_compare 0 22 H`O>iHkFhinZfMIk>LMU]0
+R5
+R6
+R7
+l51
+L43
+V?UKj_iYk]02IfzH;KFG^<0
+R10
+32
+R19
+R12
+R20
+R14
+R15
+!s100 aVR014BTa>`A`^lF1gDH:0
+!i10b 1
