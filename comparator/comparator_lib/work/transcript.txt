@@ -1,0 +1,30 @@
+# //  ModelSim SE 10.1d Nov  1 2012 Linux 2.6.32-220.23.1.el6.engrit1.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L comparator_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} comparator_lib.signed_2s_compl_compare(struct) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.signed_2s_compl_compare(struct)#1
+add wave -position insertpoint  \
+sim:/signed_2s_compl_compare/din0 \
+sim:/signed_2s_compl_compare/din1 \
+sim:/signed_2s_compl_compare/eq \
+sim:/signed_2s_compl_compare/ge \
+sim:/signed_2s_compl_compare/gt \
+sim:/signed_2s_compl_compare/le \
+sim:/signed_2s_compl_compare/lt \
+sim:/signed_2s_compl_compare/ne
+emacs signed_2s_compl_compare.do 
+do signed_2s_compl_compare.do
+run 80
