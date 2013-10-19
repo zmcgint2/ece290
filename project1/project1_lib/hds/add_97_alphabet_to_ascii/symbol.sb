@@ -62,9 +62,9 @@ tm "EolColHdrMgr"
 *14 (LogPort
 port (LogicalPort
 decl (Decl
-n "a4"
+n "a7"
 t "std_logic"
-o 5
+o 8
 suid 1,0
 )
 )
@@ -73,9 +73,9 @@ uid 109,0
 *15 (LogPort
 port (LogicalPort
 decl (Decl
-n "a3"
+n "a6"
 t "std_logic"
-o 4
+o 7
 suid 2,0
 )
 )
@@ -84,9 +84,9 @@ uid 111,0
 *16 (LogPort
 port (LogicalPort
 decl (Decl
-n "a2"
+n "a5"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 )
@@ -95,9 +95,9 @@ uid 113,0
 *17 (LogPort
 port (LogicalPort
 decl (Decl
-n "a1"
+n "a4"
 t "std_logic"
-o 2
+o 5
 suid 4,0
 )
 )
@@ -105,11 +105,10 @@ uid 115,0
 )
 *18 (LogPort
 port (LogicalPort
-m 1
 decl (Decl
-n "s1"
+n "a3"
 t "std_logic"
-o 11
+o 4
 suid 5,0
 )
 )
@@ -117,11 +116,10 @@ uid 117,0
 )
 *19 (LogPort
 port (LogicalPort
-m 1
 decl (Decl
-n "s"
+n "a2"
 t "std_logic"
-o 10
+o 3
 suid 6,0
 )
 )
@@ -130,9 +128,9 @@ uid 119,0
 *20 (LogPort
 port (LogicalPort
 decl (Decl
-n "a"
+n "a1"
 t "std_logic"
-o 1
+o 2
 suid 7,0
 )
 )
@@ -140,11 +138,10 @@ uid 121,0
 )
 *21 (LogPort
 port (LogicalPort
-m 1
 decl (Decl
-n "cout"
+n "a"
 t "std_logic"
-o 9
+o 1
 suid 8,0
 )
 )
@@ -152,10 +149,11 @@ uid 123,0
 )
 *22 (LogPort
 port (LogicalPort
+m 1
 decl (Decl
-n "a6"
+n "cout"
 t "std_logic"
-o 7
+o 9
 suid 9,0
 )
 )
@@ -163,10 +161,11 @@ uid 125,0
 )
 *23 (LogPort
 port (LogicalPort
+m 1
 decl (Decl
-n "a5"
+n "s1"
 t "std_logic"
-o 6
+o 11
 suid 10,0
 )
 )
@@ -176,9 +175,9 @@ uid 127,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s7"
+n "s"
 t "std_logic"
-o 17
+o 10
 suid 11,0
 )
 )
@@ -188,9 +187,9 @@ uid 129,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s6"
+n "s2"
 t "std_logic"
-o 16
+o 12
 suid 12,0
 )
 )
@@ -200,9 +199,9 @@ uid 131,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s5"
+n "s3"
 t "std_logic"
-o 15
+o 13
 suid 13,0
 )
 )
@@ -212,9 +211,9 @@ uid 133,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s4"
+n "s5"
 t "std_logic"
-o 14
+o 15
 suid 14,0
 )
 )
@@ -222,10 +221,11 @@ uid 135,0
 )
 *28 (LogPort
 port (LogicalPort
+m 1
 decl (Decl
-n "a7"
+n "s4"
 t "std_logic"
-o 8
+o 14
 suid 15,0
 )
 )
@@ -235,9 +235,9 @@ uid 137,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s2"
+n "s7"
 t "std_logic"
-o 12
+o 17
 suid 16,0
 )
 )
@@ -247,9 +247,9 @@ uid 139,0
 port (LogicalPort
 m 1
 decl (Decl
-n "s3"
+n "s6"
 t "std_logic"
-o 13
+o 16
 suid 17,0
 )
 )
@@ -644,11 +644,11 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift/symbol.sb.info"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift/symbol.sb.user"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
@@ -668,11 +668,11 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "d_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "date"
@@ -692,7 +692,7 @@ value "18"
 )
 (vvPair
 variable "entity_name"
-value "add_97_lowercase_shift"
+value "add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "ext"
@@ -740,7 +740,7 @@ value "10"
 )
 (vvPair
 variable "module_name"
-value "add_97_lowercase_shift"
+value "add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "month"
@@ -752,11 +752,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_lowercase_shift/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -812,11 +812,11 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "13:26:34"
+value "21:19:31"
 )
 (vvPair
 variable "unit"
-value "add_97_lowercase_shift"
+value "add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "user"
@@ -868,7 +868,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "16000,6550,17000,7450"
-st "a4"
+st "a7"
 blo "16000,7250"
 tm "CptPortNameMgr"
 )
@@ -878,14 +878,14 @@ uid 146,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,5400,57500,6300"
-st "a4   : IN     std_logic  ;"
+xt "44000,8100,57500,9000"
+st "a7   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
-n "a4"
+n "a7"
 t "std_logic"
-o 5
+o 8
 suid 1,0
 )
 )
@@ -912,7 +912,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "16000,7550,17000,8450"
-st "a3"
+st "a6"
 blo "16000,8250"
 tm "CptPortNameMgr"
 )
@@ -922,14 +922,14 @@ uid 151,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,4500,57500,5400"
-st "a3   : IN     std_logic  ;"
+xt "44000,7200,57500,8100"
+st "a6   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
-n "a3"
+n "a6"
 t "std_logic"
-o 4
+o 7
 suid 2,0
 )
 )
@@ -956,7 +956,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "16000,8550,17000,9450"
-st "a2"
+st "a5"
 blo "16000,9250"
 tm "CptPortNameMgr"
 )
@@ -966,14 +966,14 @@ uid 156,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,3600,57500,4500"
-st "a2   : IN     std_logic  ;"
+xt "44000,6300,57500,7200"
+st "a5   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
-n "a2"
+n "a5"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 )
@@ -1000,7 +1000,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "16000,9550,17000,10450"
-st "a1"
+st "a4"
 blo "16000,10250"
 tm "CptPortNameMgr"
 )
@@ -1010,14 +1010,14 @@ uid 161,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,2700,57500,3600"
-st "a1   : IN     std_logic  ;"
+xt "44000,5400,57500,6300"
+st "a4   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
-n "a1"
+n "a4"
 t "std_logic"
-o 2
+o 5
 suid 4,0
 )
 )
@@ -1032,21 +1032,20 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,6625,39750,7375"
+xt "14250,10625,15000,11375"
 )
 tg (CPTG
 uid 164,0
 ps "CptPortTextPlaceStrategy"
-stg "RightVerticalLayoutStrategy"
+stg "VerticalLayoutStrategy"
 f (Text
 uid 165,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37000,6550,38000,7450"
-st "s1"
-ju 2
-blo "38000,7250"
+xt "16000,10550,17000,11450"
+st "a3"
+blo "16000,11250"
 tm "CptPortNameMgr"
 )
 )
@@ -1055,15 +1054,14 @@ uid 166,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,10800,57500,11700"
-st "s1   : OUT    std_logic  ;"
+xt "44000,4500,57500,5400"
+st "a3   : IN     std_logic  ;"
 )
 thePort (LogicalPort
-m 1
 decl (Decl
-n "s1"
+n "a3"
 t "std_logic"
-o 11
+o 4
 suid 5,0
 )
 )
@@ -1078,21 +1076,20 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,7625,39750,8375"
+xt "14250,11625,15000,12375"
 )
 tg (CPTG
 uid 169,0
 ps "CptPortTextPlaceStrategy"
-stg "RightVerticalLayoutStrategy"
+stg "VerticalLayoutStrategy"
 f (Text
 uid 170,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37500,7550,38000,8450"
-st "s"
-ju 2
-blo "38000,8250"
+xt "16000,11550,17000,12450"
+st "a2"
+blo "16000,12250"
 tm "CptPortNameMgr"
 )
 )
@@ -1101,15 +1098,14 @@ uid 171,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,9900,57500,10800"
-st "s    : OUT    std_logic  ;"
+xt "44000,3600,57500,4500"
+st "a2   : IN     std_logic  ;"
 )
 thePort (LogicalPort
-m 1
 decl (Decl
-n "s"
+n "a2"
 t "std_logic"
-o 10
+o 3
 suid 6,0
 )
 )
@@ -1124,7 +1120,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,10625,15000,11375"
+xt "14250,12625,15000,13375"
 )
 tg (CPTG
 uid 174,0
@@ -1135,9 +1131,9 @@ uid 175,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,10550,16500,11450"
-st "a"
-blo "16000,11250"
+xt "16000,12550,17000,13450"
+st "a1"
+blo "16000,13250"
 tm "CptPortNameMgr"
 )
 )
@@ -1146,14 +1142,14 @@ uid 176,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,1800,57500,2700"
-st "a    : IN     std_logic  ;"
+xt "44000,2700,57500,3600"
+st "a1   : IN     std_logic  ;"
 )
 thePort (LogicalPort
 decl (Decl
-n "a"
+n "a1"
 t "std_logic"
-o 1
+o 2
 suid 7,0
 )
 )
@@ -1168,21 +1164,20 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,8625,39750,9375"
+xt "14250,13625,15000,14375"
 )
 tg (CPTG
 uid 179,0
 ps "CptPortTextPlaceStrategy"
-stg "RightVerticalLayoutStrategy"
+stg "VerticalLayoutStrategy"
 f (Text
 uid 180,0
 va (VaSet
 font "courier,8,0"
 )
-xt "36000,8550,38000,9450"
-st "cout"
-ju 2
-blo "38000,9250"
+xt "16000,13550,16500,14450"
+st "a"
+blo "16000,14250"
 tm "CptPortNameMgr"
 )
 )
@@ -1191,15 +1186,14 @@ uid 181,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,9000,57500,9900"
-st "cout : OUT    std_logic  ;"
+xt "44000,1800,57500,2700"
+st "a    : IN     std_logic  ;"
 )
 thePort (LogicalPort
-m 1
 decl (Decl
-n "cout"
+n "a"
 t "std_logic"
-o 9
+o 1
 suid 8,0
 )
 )
@@ -1214,20 +1208,21 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,11625,15000,12375"
+xt "39000,6625,39750,7375"
 )
 tg (CPTG
 uid 184,0
 ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
+stg "RightVerticalLayoutStrategy"
 f (Text
 uid 185,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,11550,17000,12450"
-st "a6"
-blo "16000,12250"
+xt "36000,6550,38000,7450"
+st "cout"
+ju 2
+blo "38000,7250"
 tm "CptPortNameMgr"
 )
 )
@@ -1236,14 +1231,15 @@ uid 186,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,7200,57500,8100"
-st "a6   : IN     std_logic  ;"
+xt "44000,9000,57500,9900"
+st "cout : OUT    std_logic  ;"
 )
 thePort (LogicalPort
+m 1
 decl (Decl
-n "a6"
+n "cout"
 t "std_logic"
-o 7
+o 9
 suid 9,0
 )
 )
@@ -1258,20 +1254,21 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,12625,15000,13375"
+xt "39000,7625,39750,8375"
 )
 tg (CPTG
 uid 189,0
 ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
+stg "RightVerticalLayoutStrategy"
 f (Text
 uid 190,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,12550,17000,13450"
-st "a5"
-blo "16000,13250"
+xt "37000,7550,38000,8450"
+st "s1"
+ju 2
+blo "38000,8250"
 tm "CptPortNameMgr"
 )
 )
@@ -1280,14 +1277,15 @@ uid 191,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,6300,57500,7200"
-st "a5   : IN     std_logic  ;"
+xt "44000,10800,57500,11700"
+st "s1   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
+m 1
 decl (Decl
-n "a5"
+n "s1"
 t "std_logic"
-o 6
+o 11
 suid 10,0
 )
 )
@@ -1302,7 +1300,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,9625,39750,10375"
+xt "39000,8625,39750,9375"
 )
 tg (CPTG
 uid 194,0
@@ -1313,10 +1311,10 @@ uid 195,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37000,9550,38000,10450"
-st "s7"
+xt "37500,8550,38000,9450"
+st "s"
 ju 2
-blo "38000,10250"
+blo "38000,9250"
 tm "CptPortNameMgr"
 )
 )
@@ -1325,15 +1323,15 @@ uid 196,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,16200,56500,17100"
-st "s7   : OUT    std_logic "
+xt "44000,9900,57500,10800"
+st "s    : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s7"
+n "s"
 t "std_logic"
-o 17
+o 10
 suid 11,0
 )
 )
@@ -1348,7 +1346,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,10625,39750,11375"
+xt "39000,9625,39750,10375"
 )
 tg (CPTG
 uid 199,0
@@ -1359,10 +1357,10 @@ uid 200,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37000,10550,38000,11450"
-st "s6"
+xt "37000,9550,38000,10450"
+st "s2"
 ju 2
-blo "38000,11250"
+blo "38000,10250"
 tm "CptPortNameMgr"
 )
 )
@@ -1371,15 +1369,15 @@ uid 201,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,15300,57500,16200"
-st "s6   : OUT    std_logic  ;"
+xt "44000,11700,57500,12600"
+st "s2   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s6"
+n "s2"
 t "std_logic"
-o 16
+o 12
 suid 12,0
 )
 )
@@ -1394,7 +1392,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,11625,39750,12375"
+xt "39000,10625,39750,11375"
 )
 tg (CPTG
 uid 204,0
@@ -1405,10 +1403,10 @@ uid 205,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37000,11550,38000,12450"
-st "s5"
+xt "37000,10550,38000,11450"
+st "s3"
 ju 2
-blo "38000,12250"
+blo "38000,11250"
 tm "CptPortNameMgr"
 )
 )
@@ -1417,15 +1415,15 @@ uid 206,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,14400,57500,15300"
-st "s5   : OUT    std_logic  ;"
+xt "44000,12600,57500,13500"
+st "s3   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s5"
+n "s3"
 t "std_logic"
-o 15
+o 13
 suid 13,0
 )
 )
@@ -1440,7 +1438,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "39000,12625,39750,13375"
+xt "39000,11625,39750,12375"
 )
 tg (CPTG
 uid 209,0
@@ -1451,10 +1449,10 @@ uid 210,0
 va (VaSet
 font "courier,8,0"
 )
-xt "37000,12550,38000,13450"
-st "s4"
+xt "37000,11550,38000,12450"
+st "s5"
 ju 2
-blo "38000,13250"
+blo "38000,12250"
 tm "CptPortNameMgr"
 )
 )
@@ -1463,15 +1461,15 @@ uid 211,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,13500,57500,14400"
-st "s4   : OUT    std_logic  ;"
+xt "44000,14400,57500,15300"
+st "s5   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s4"
+n "s5"
 t "std_logic"
-o 14
+o 15
 suid 14,0
 )
 )
@@ -1486,20 +1484,21 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,13625,15000,14375"
+xt "39000,12625,39750,13375"
 )
 tg (CPTG
 uid 214,0
 ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
+stg "RightVerticalLayoutStrategy"
 f (Text
 uid 215,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,13550,17000,14450"
-st "a7"
-blo "16000,14250"
+xt "37000,12550,38000,13450"
+st "s4"
+ju 2
+blo "38000,13250"
 tm "CptPortNameMgr"
 )
 )
@@ -1508,14 +1507,15 @@ uid 216,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,8100,57500,9000"
-st "a7   : IN     std_logic  ;"
+xt "44000,13500,57500,14400"
+st "s4   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
+m 1
 decl (Decl
-n "a7"
+n "s4"
 t "std_logic"
-o 8
+o 14
 suid 15,0
 )
 )
@@ -1542,7 +1542,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "37000,13550,38000,14450"
-st "s2"
+st "s7"
 ju 2
 blo "38000,14250"
 tm "CptPortNameMgr"
@@ -1553,15 +1553,15 @@ uid 221,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,11700,57500,12600"
-st "s2   : OUT    std_logic  ;"
+xt "44000,16200,56500,17100"
+st "s7   : OUT    std_logic "
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s2"
+n "s7"
 t "std_logic"
-o 12
+o 17
 suid 16,0
 )
 )
@@ -1588,7 +1588,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "37000,14550,38000,15450"
-st "s3"
+st "s6"
 ju 2
 blo "38000,15250"
 tm "CptPortNameMgr"
@@ -1599,15 +1599,15 @@ uid 226,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,12600,57500,13500"
-st "s3   : OUT    std_logic  ;"
+xt "44000,15300,57500,16200"
+st "s6   : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "s3"
+n "s6"
 t "std_logic"
-o 13
+o 16
 suid 17,0
 )
 )
@@ -1641,8 +1641,8 @@ uid 12,0
 va (VaSet
 font "courier,8,1"
 )
-xt "24750,16000,36250,16900"
-st "add_97_lowercase_shift"
+xt "24750,16000,37250,16900"
+st "add_97_alphabet_to_ascii"
 blo "24750,16700"
 )
 )
@@ -2317,6 +2317,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 295,0
+lastUid 249,0
 activeModelName "Symbol:CDM"
 )

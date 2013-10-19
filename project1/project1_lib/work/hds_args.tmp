@@ -1,1 +1,1 @@
- -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.full_adder_8bit(struct)
+ -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.add_97_lowercase_shift(struct)

@@ -137,19 +137,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "date"
-value "10/16/13"
+value "10/18/13"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "16"
+value "18"
 )
 (vvPair
 variable "entity_name"
@@ -177,7 +177,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "siebl-0224-31.ews.illinois.edu"
+value "gelib-057-14.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -273,7 +273,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "15:32:48"
+value "11:55:26"
 )
 (vvPair
 variable "unit"
@@ -1426,8 +1426,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,17100,31000,18000"
-st "cout  : std_logic
-"
+st "cout  : std_logic"
 )
 )
 *30 (Net
@@ -1444,8 +1443,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,18000,31000,18900"
-st "s     : std_logic
-"
+st "s     : std_logic"
 )
 )
 *31 (Net
@@ -1462,8 +1460,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,18900,31000,19800"
-st "s1    : std_logic
-"
+st "s1    : std_logic"
 )
 )
 *32 (Net
@@ -1480,8 +1477,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,19800,31000,20700"
-st "s2    : std_logic
-"
+st "s2    : std_logic"
 )
 )
 *33 (Net
@@ -1498,8 +1494,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,20700,31000,21600"
-st "s3    : std_logic
-"
+st "s3    : std_logic"
 )
 )
 *34 (Net
@@ -1516,8 +1511,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,21600,31000,22500"
-st "s4    : std_logic
-"
+st "s4    : std_logic"
 )
 )
 *35 (Net
@@ -1534,8 +1528,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,22500,31000,23400"
-st "s5    : std_logic
-"
+st "s5    : std_logic"
 )
 )
 *36 (PortIoOut
@@ -1597,8 +1590,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,23400,31000,24300"
-st "s6    : std_logic
-"
+st "s6    : std_logic"
 )
 )
 *38 (Net
@@ -1615,8 +1607,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,24300,31000,25200"
-st "s7    : std_logic
-"
+st "s7    : std_logic"
 )
 )
 *39 (Net
@@ -1633,8 +1624,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,16200,31000,17100"
-st "cin   : std_logic
-"
+st "cin   : std_logic"
 )
 )
 *40 (Net
@@ -1651,8 +1641,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9000,31000,9900"
-st "b     : std_logic
-"
+st "b     : std_logic"
 )
 )
 *41 (Net
@@ -1669,8 +1658,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,31000,2700"
-st "a     : std_logic
-"
+st "a     : std_logic"
 )
 )
 *42 (Net
@@ -1687,8 +1675,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9900,31000,10800"
-st "b1    : std_logic
-"
+st "b1    : std_logic"
 )
 )
 *43 (Net
@@ -1705,8 +1692,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,31000,3600"
-st "a1    : std_logic
-"
+st "a1    : std_logic"
 )
 )
 *44 (Net
@@ -1723,8 +1709,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,10800,31000,11700"
-st "b2    : std_logic
-"
+st "b2    : std_logic"
 )
 )
 *45 (Net
@@ -1741,8 +1726,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,3600,31000,4500"
-st "a2    : std_logic
-"
+st "a2    : std_logic"
 )
 )
 *46 (Net
@@ -1759,8 +1743,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,11700,31000,12600"
-st "b3    : std_logic
-"
+st "b3    : std_logic"
 )
 )
 *47 (Net
@@ -1777,8 +1760,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,4500,31000,5400"
-st "a3    : std_logic
-"
+st "a3    : std_logic"
 )
 )
 *48 (PortIoIn
@@ -2208,8 +2190,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,12600,31000,13500"
-st "b4    : std_logic
-"
+st "b4    : std_logic"
 )
 )
 *58 (Net
@@ -2226,8 +2207,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,31000,6300"
-st "a4    : std_logic
-"
+st "a4    : std_logic"
 )
 )
 *59 (Net
@@ -2244,8 +2224,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,13500,31000,14400"
-st "b5    : std_logic
-"
+st "b5    : std_logic"
 )
 )
 *60 (Net
@@ -2262,8 +2241,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,31000,7200"
-st "a5    : std_logic
-"
+st "a5    : std_logic"
 )
 )
 *61 (Net
@@ -2280,8 +2258,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,14400,31000,15300"
-st "b6    : std_logic
-"
+st "b6    : std_logic"
 )
 )
 *62 (Net
@@ -2298,8 +2275,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,31000,8100"
-st "a6    : std_logic
-"
+st "a6    : std_logic"
 )
 )
 *63 (Net
@@ -2316,8 +2292,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,15300,31000,16200"
-st "b7    : std_logic
-"
+st "b7    : std_logic"
 )
 )
 *64 (Net
@@ -2334,8 +2309,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,8100,31000,9000"
-st "a7    : std_logic
-"
+st "a7    : std_logic"
 )
 )
 *65 (Net
@@ -2352,8 +2326,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,26100,34500,27000"
-st "SIGNAL cout1 : std_logic
-"
+st "SIGNAL cout1 : std_logic"
 )
 )
 *66 (Net
@@ -2370,8 +2343,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,27000,34500,27900"
-st "SIGNAL cout2 : std_logic
-"
+st "SIGNAL cout2 : std_logic"
 )
 )
 *67 (Net
@@ -2388,8 +2360,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,27900,34500,28800"
-st "SIGNAL cout3 : std_logic
-"
+st "SIGNAL cout3 : std_logic"
 )
 )
 *68 (Net
@@ -2406,8 +2377,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,28800,34500,29700"
-st "SIGNAL cout4 : std_logic
-"
+st "SIGNAL cout4 : std_logic"
 )
 )
 *69 (Net
@@ -2424,8 +2394,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,29700,34500,30600"
-st "SIGNAL cout5 : std_logic
-"
+st "SIGNAL cout5 : std_logic"
 )
 )
 *70 (Net
@@ -2442,8 +2411,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,30600,34500,31500"
-st "SIGNAL cout6 : std_logic
-"
+st "SIGNAL cout6 : std_logic"
 )
 )
 *71 (Net
@@ -2460,8 +2428,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,31500,34500,32400"
-st "SIGNAL cout7 : std_logic
-"
+st "SIGNAL cout7 : std_logic"
 )
 )
 *72 (SaComponent
@@ -2715,9 +2682,9 @@ vasetType 1
 fg "49152,49152,49152"
 )
 xt "-22750,37250,-21250,38750"
-iconName "VhdlFileViewIcon.png"
-iconMaskName "VhdlFileViewIcon.msk"
-ftype 10
+iconName "BlockDiagram.png"
+iconMaskName "BlockDiagram.msk"
+ftype 1
 )
 ordering 1
 viewiconposition 0
@@ -2976,9 +2943,9 @@ vasetType 1
 fg "49152,49152,49152"
 )
 xt "-37750,37250,-36250,38750"
-iconName "VhdlFileViewIcon.png"
-iconMaskName "VhdlFileViewIcon.msk"
-ftype 10
+iconName "BlockDiagram.png"
+iconMaskName "BlockDiagram.msk"
+ftype 1
 )
 ordering 1
 viewiconposition 0
@@ -6085,12 +6052,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-6,25,1434,879"
-viewArea "15715,13960,82650,53065"
+windowSize "-6,27,1434,881"
+viewArea "39772,14000,101839,50261"
 cachedDiagramExtent "-47500,0,82000,51000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-69000,0"
-lastUid 1503,0
+lastUid 1526,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

@@ -7,23 +7,35 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.full_adder_8bit(struct) 
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.add_97_lowercase_shift(struct) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
+# Loading work.add_97_lowercase_shift(struct)#1
 # Loading work.full_adder_8bit(struct)#1
 # Loading work.full_adder(struct)#1
-gvim full_adder_8bit.do
-do full_adder_8bit.do
-run 20
 add wave -position insertpoint  \
-sim:/full_adder_8bit/b
+sim:/add_97_lowercase_shift/a \
+sim:/add_97_lowercase_shift/a1 \
+sim:/add_97_lowercase_shift/a2 \
+sim:/add_97_lowercase_shift/a3 \
+sim:/add_97_lowercase_shift/a4 \
+sim:/add_97_lowercase_shift/a5 \
+sim:/add_97_lowercase_shift/a6 \
+sim:/add_97_lowercase_shift/a7
 add wave -position insertpoint  \
-sim:/full_adder_8bit/b7
-add wave -position insertpoint  \
-sim:/full_adder_8bit/s7
-restart -f
-# Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
-run 20
+sim:/add_97_lowercase_shift/s \
+sim:/add_97_lowercase_shift/s1 \
+sim:/add_97_lowercase_shift/s2 \
+sim:/add_97_lowercase_shift/s3 \
+sim:/add_97_lowercase_shift/s4 \
+sim:/add_97_lowercase_shift/s5 \
+sim:/add_97_lowercase_shift/s6 \
+sim:/add_97_lowercase_shift/s7 \
+sim:/add_97_lowercase_shift/b \
+sim:/add_97_lowercase_shift/dout
+emacs test97add.do

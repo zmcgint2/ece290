@@ -130,7 +130,7 @@ NO_GRAPHIC 74
 LIBRARY project1_lib
 DESIGN full_adder
 VIEW struct
-GRAPHIC 1434,0 76 0 
+GRAPHIC 1750,0 76 0 
 DESIGN full_adder
 VIEW symbol.sb
 GRAPHIC 58,0 78 0 
@@ -152,7 +152,7 @@ VIEW struct.bd
 NO_GRAPHIC 85
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1434,0 88 0 
+GRAPHIC 1750,0 88 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 NO_GRAPHIC 91
@@ -161,7 +161,7 @@ VIEW struct.bd
 NO_GRAPHIC 93
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1434,0 95 0 
+GRAPHIC 1750,0 95 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 681,0 97 0 
@@ -179,7 +179,7 @@ VIEW struct.bd
 GRAPHIC 675,0 101 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1404,0 103 0 
+GRAPHIC 1720,0 103 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 687,0 105 0 
@@ -197,7 +197,7 @@ VIEW struct.bd
 GRAPHIC 681,0 109 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1464,0 111 0 
+GRAPHIC 1780,0 111 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 675,0 113 0 
@@ -215,7 +215,7 @@ VIEW struct.bd
 GRAPHIC 669,0 117 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1344,0 119 0 
+GRAPHIC 1690,0 119 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 693,0 121 0 
@@ -233,7 +233,7 @@ VIEW struct.bd
 GRAPHIC 687,0 125 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1494,0 127 0 
+GRAPHIC 1810,0 127 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 669,0 129 0 
@@ -251,7 +251,7 @@ VIEW struct.bd
 GRAPHIC 453,0 133 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1374,0 135 0 
+GRAPHIC 1660,0 135 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 GRAPHIC 699,0 137 0 
@@ -269,40 +269,40 @@ VIEW struct.bd
 GRAPHIC 693,0 141 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1111,0 143 0 
+GRAPHIC 1630,0 143 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 537,0 145 0 
+GRAPHIC 705,0 145 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 531,0 146 0 
+GRAPHIC 537,0 146 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 705,0 147 0 
+GRAPHIC 531,0 147 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 699,0 148 0 
+GRAPHIC 501,0 148 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 501,0 149 0 
+GRAPHIC 699,0 149 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 1231,0 151 0 
+GRAPHIC 1570,0 151 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 525,0 153 0 
+GRAPHIC 513,0 153 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 519,0 154 0 
+GRAPHIC 525,0 154 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 513,0 155 0 
+GRAPHIC 519,0 155 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 705,0 156 0 
+GRAPHIC 507,0 156 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
-GRAPHIC 507,0 157 0 
+GRAPHIC 705,0 157 0 
 DESIGN full_adder_8bit
 VIEW struct.bd
 NO_GRAPHIC 160
