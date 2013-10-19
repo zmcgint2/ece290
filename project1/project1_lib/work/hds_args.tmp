@@ -1,1 +1,1 @@
- -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays -nopsl project1_lib.alphabet_5bit_decoder(struct)
+ -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.function_cipher_decrypt(struct)

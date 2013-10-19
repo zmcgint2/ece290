@@ -52,23 +52,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd.info"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd.user"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -84,27 +84,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "d_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "date"
-value "10/18/13"
+value "10/19/13"
 )
 (vvPair
 variable "day"
-value "Fri"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Friday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "18"
+value "19"
 )
 (vvPair
 variable "entity_name"
@@ -132,7 +132,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "linux-v1.ews.illinois.edu"
+value "gelib-057-06.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -168,11 +168,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd"
+value "/home/hkiang2/ece290_super/ece290/project1/project1_lib/hds/add_97_alphabet_to_ascii/struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -196,7 +196,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "<TBD>"
+value "/software/mentor/ModelSim-SE-10.1d/modeltech/bin"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -228,7 +228,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "23:37:48"
+value "15:06:11"
 )
 (vvPair
 variable "unit"
@@ -236,7 +236,7 @@ value "add_97_alphabet_to_ascii"
 )
 (vvPair
 variable "user"
-value "zmcgint2"
+value "hkiang2"
 )
 (vvPair
 variable "version"
@@ -413,7 +413,7 @@ xt "49200,47200,62700,49900"
 st "
 input 5-bit (a-z)=(1-26), 
 Then outputs ascii value
-(a-z)=(27-122) or whatever
+(a-z)=(97-122) or whatever
 "
 tm "CommentText"
 wrapOption 3
@@ -1777,7 +1777,7 @@ uid 500,0
 decl (Decl
 n "a7"
 t "std_logic"
-o 1
+o 8
 suid 1,0
 )
 declText (MLText
@@ -1795,7 +1795,7 @@ uid 502,0
 decl (Decl
 n "a6"
 t "std_logic"
-o 2
+o 7
 suid 2,0
 )
 declText (MLText
@@ -1813,7 +1813,7 @@ uid 504,0
 decl (Decl
 n "a5"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 declText (MLText
@@ -1831,7 +1831,7 @@ uid 506,0
 decl (Decl
 n "a4"
 t "std_logic"
-o 4
+o 5
 suid 4,0
 )
 declText (MLText
@@ -1849,7 +1849,7 @@ uid 508,0
 decl (Decl
 n "a3"
 t "std_logic"
-o 5
+o 4
 suid 5,0
 )
 declText (MLText
@@ -1867,7 +1867,7 @@ uid 510,0
 decl (Decl
 n "a2"
 t "std_logic"
-o 6
+o 3
 suid 6,0
 )
 declText (MLText
@@ -1885,7 +1885,7 @@ uid 512,0
 decl (Decl
 n "a1"
 t "std_logic"
-o 7
+o 2
 suid 7,0
 )
 declText (MLText
@@ -1903,7 +1903,7 @@ uid 514,0
 decl (Decl
 n "a"
 t "std_logic"
-o 8
+o 1
 suid 8,0
 )
 declText (MLText
@@ -1939,7 +1939,7 @@ uid 518,0
 decl (Decl
 n "s1"
 t "std_logic"
-o 10
+o 11
 suid 10,0
 )
 declText (MLText
@@ -1957,7 +1957,7 @@ uid 520,0
 decl (Decl
 n "s"
 t "std_logic"
-o 11
+o 10
 suid 11,0
 )
 declText (MLText
@@ -2011,7 +2011,7 @@ uid 526,0
 decl (Decl
 n "s5"
 t "std_logic"
-o 14
+o 15
 suid 14,0
 )
 declText (MLText
@@ -2029,7 +2029,7 @@ uid 528,0
 decl (Decl
 n "s4"
 t "std_logic"
-o 15
+o 14
 suid 15,0
 )
 declText (MLText
@@ -2047,7 +2047,7 @@ uid 530,0
 decl (Decl
 n "s7"
 t "std_logic"
-o 16
+o 17
 suid 16,0
 )
 declText (MLText
@@ -2065,7 +2065,7 @@ uid 532,0
 decl (Decl
 n "s6"
 t "std_logic"
-o 17
+o 16
 suid 17,0
 )
 declText (MLText
@@ -4340,12 +4340,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,25,1928,1208"
-viewArea "-14750,11424,77340,67334"
+windowSize "-6,2,1926,1082"
+viewArea "-14800,11400,80904,63872"
 cachedDiagramExtent "-972,0,69000,75360"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 745,0
+lastUid 768,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -5447,7 +5447,7 @@ port (LogicalPort
 decl (Decl
 n "a7"
 t "std_logic"
-o 1
+o 8
 suid 1,0
 )
 )
@@ -5458,7 +5458,7 @@ port (LogicalPort
 decl (Decl
 n "a6"
 t "std_logic"
-o 2
+o 7
 suid 2,0
 )
 )
@@ -5469,7 +5469,7 @@ port (LogicalPort
 decl (Decl
 n "a5"
 t "std_logic"
-o 3
+o 6
 suid 3,0
 )
 )
@@ -5480,7 +5480,7 @@ port (LogicalPort
 decl (Decl
 n "a4"
 t "std_logic"
-o 4
+o 5
 suid 4,0
 )
 )
@@ -5491,7 +5491,7 @@ port (LogicalPort
 decl (Decl
 n "a3"
 t "std_logic"
-o 5
+o 4
 suid 5,0
 )
 )
@@ -5502,7 +5502,7 @@ port (LogicalPort
 decl (Decl
 n "a2"
 t "std_logic"
-o 6
+o 3
 suid 6,0
 )
 )
@@ -5513,7 +5513,7 @@ port (LogicalPort
 decl (Decl
 n "a1"
 t "std_logic"
-o 7
+o 2
 suid 7,0
 )
 )
@@ -5524,7 +5524,7 @@ port (LogicalPort
 decl (Decl
 n "a"
 t "std_logic"
-o 8
+o 1
 suid 8,0
 )
 )
@@ -5548,7 +5548,7 @@ m 1
 decl (Decl
 n "s1"
 t "std_logic"
-o 10
+o 11
 suid 10,0
 )
 )
@@ -5560,7 +5560,7 @@ m 1
 decl (Decl
 n "s"
 t "std_logic"
-o 11
+o 10
 suid 11,0
 )
 )
@@ -5596,7 +5596,7 @@ m 1
 decl (Decl
 n "s5"
 t "std_logic"
-o 14
+o 15
 suid 14,0
 )
 )
@@ -5608,7 +5608,7 @@ m 1
 decl (Decl
 n "s4"
 t "std_logic"
-o 15
+o 14
 suid 15,0
 )
 )
@@ -5620,7 +5620,7 @@ m 1
 decl (Decl
 n "s7"
 t "std_logic"
-o 16
+o 17
 suid 16,0
 )
 )
@@ -5632,7 +5632,7 @@ m 1
 decl (Decl
 n "s6"
 t "std_logic"
-o 17
+o 16
 suid 17,0
 )
 )
