@@ -12,6 +12,7 @@ Z1 o-quiet +acc -auto_acc_if_foreign -work project1_lib -L project1_lib
 n@_opt
 Z2 OE;O;10.1d;51
 Z3 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
+<<<<<<< HEAD
 T_opt1
 Ve19zZIlC^Qz>E:K7l9bbb0
 04 23 6 work function_cipher_decrypt struct 1
@@ -27,15 +28,24 @@ Z4 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
 T_opt1
 VDGCQDKa9`L2QTzlbdo:@Z0
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+T_opt1
+VjDUAT]OR8kZkc^LQBGTiO3
+04 14 6 work z_ascii_mirror struct 1
+=1-80c16ee65ef5-52630c81-42a04-6e9f
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R1
 =1-80c16ee1bad4-5262f7c8-62dd8-466d
 R2
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 n@_opt1
 R3
 R4
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 T_opt2
 V4<E;Z]3Wga<I78QmQ9]kW3
 04 18 6 work jceasarshiftdecode struct 1
@@ -43,6 +53,7 @@ V4<E;Z]3Wga<I78QmQ9]kW3
 R2
 n@_opt2
 R3
+<<<<<<< HEAD
 Eadd_97_alphabet_to_ascii
 Z5 w1382157500
 Z6 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
@@ -65,6 +76,68 @@ Z17 tExplicit 1
 !i10b 1
 Astruct
 Z18 DEx12 project1_lib 15 full_adder_8bit 0 22 l]mSZb2@0i?N^kWKTOFA;0
+=======
+Eadd_13
+Z4 w1382222961
+Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 d/home/zmcgint2/ece290.work/ece290/project1/project1_lib/work
+Z9 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_13_struct.vhd
+Z10 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_13_struct.vhd
+l0
+L13
+V_[4>YeXN0<^[PSPGN;0?A0
+Z11 OE;C;10.1d;51
+32
+Z12 !s108 1382222962.617037
+Z13 !s90 -work|project1_lib|-nologo|-f|/tmp/Files0|
+Z14 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_13_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_to_ascii_bus_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd|
+Z15 o-work project1_lib -nologo
+Z16 tExplicit 1
+!s100 dk`fJ:W6ZcHX@MXVi54gS1
+!i10b 1
+Astruct
+Z17 DEx12 project1_lib 15 full_adder_8bit 0 22 l]mSZb2@0i?N^kWKTOFA;0
+DEx4 work 6 add_13 0 22 _[4>YeXN0<^[PSPGN;0?A0
+R5
+R6
+R7
+l85
+L38
+V6Z24YV>bFm2I>_mL34NK^0
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 >TERVdJa<7[LVBBZ7nGjz2
+!i10b 1
+Eadd_97_alphabet_to_ascii
+Z18 w1382157500
+R5
+R6
+R7
+R8
+Z19 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_alphabet_to_ascii_struct.vhd
+Z20 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_alphabet_to_ascii_struct.vhd
+l0
+L13
+VZ7^HanLd]XX=]Ul3_O9^82
+R11
+32
+Z21 !s108 1382157508.015782
+R13
+Z22 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_alphabet_to_ascii_struct.vhd|
+R15
+R16
+!s100 @cJb?1=04eheJi`CEiJ_J0
+!i10b 1
+Astruct
+R17
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 DEx4 work 24 add_97_alphabet_to_ascii 0 22 Z7^HanLd]XX=]Ul3_O9^82
 R6
 R7
@@ -72,10 +145,16 @@ R8
 l100
 L53
 Vhm=>N@z6>CPB59na968]Z2
+<<<<<<< HEAD
 R12
 32
+=======
+R11
+32
+R21
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R13
-R14
+R22
 R15
 R16
 R17
@@ -83,7 +162,11 @@ R17
 !i10b 1
 Eadd_97_lowercase_shift
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z18 w1382219800
+=======
+Z23 w1382120834
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
@@ -95,19 +178,30 @@ Z19 w1382120834
 R6
 R7
 R8
+<<<<<<< HEAD
 R9
 Z20 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd
 Z21 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z24 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd
+Z25 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 Vo`4@78GN[dz2aM]_UU_5i1
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z22 !s108 1382219800.982664
 R13
 Z23 !s107 /home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/function_cipher_decrypt_struct.vhd|/home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd|
+=======
+Z26 !s108 1382120835.514120
+R13
+Z27 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/add_97_lowercase_shift_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z22 !s108 1382120835.514120
@@ -129,10 +223,16 @@ L53
 VEzVNNXN2U[D=5jZNlh?eB2
 R12
 32
+<<<<<<< HEAD
 R22
 <<<<<<< HEAD
 R13
 R23
+=======
+R26
+R13
+R27
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R14
@@ -143,12 +243,17 @@ R17
 !s100 `_>JP:4]RDmJ`kP6`Tjj=1
 !i10b 1
 Ealphabet_5bit_decoder
+<<<<<<< HEAD
 Z24 w1382162672
 <<<<<<< HEAD
+=======
+Z28 w1382162672
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
 R8
+<<<<<<< HEAD
 =======
 R6
 R7
@@ -157,15 +262,25 @@ R9
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
 Z25 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd
 Z26 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd
+=======
+Z29 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd
+Z30 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 VcfaRbGn9EUjhC:IzNg`l>1
 R12
 32
+<<<<<<< HEAD
 Z27 !s108 1382162673.626865
 <<<<<<< HEAD
 R13
 Z28 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd|
+=======
+Z31 !s108 1382162673.626865
+R13
+Z32 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_5bit_decoder_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R14
@@ -185,10 +300,16 @@ L36
 V[WICPU07Of86Bo_V5C_0]3
 R12
 32
+<<<<<<< HEAD
 R27
 <<<<<<< HEAD
 R13
 R28
+=======
+R31
+R13
+R32
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R14
@@ -198,7 +319,84 @@ R16
 R17
 !s100 YjYPnXd3>>VY[lDDoVg=k0
 !i10b 1
+Ealphabet_to_ascii_bus
+R4
+R5
+R6
+R7
+R8
+Z33 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_to_ascii_bus_struct.vhd
+Z34 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/alphabet_to_ascii_bus_struct.vhd
+l0
+L13
+V3Azf=Zk@e53HDj@1^7>km2
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 fI`<7W2?eV7zl@XAhIRgU2
+!i10b 1
+Astruct
+R17
+DEx4 work 21 alphabet_to_ascii_bus 0 22 3Azf=Zk@e53HDj@1^7>km2
+R5
+R6
+R7
+l86
+L39
+V[N]D9BVCQzHHQbzTk59XQ0
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 0?7iWm`0n=e=C;HA8YK]^2
+!i10b 1
+Eascii_to_alphabet_bus
+R4
+R5
+R6
+R7
+R8
+Z35 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
+Z36 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
+l0
+L13
+V;g=jo9;OE3]Q1MU9U`GUD3
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 M=WEV^laYD1ekXX24D@W51
+!i10b 1
+Astruct
+R17
+DEx4 work 21 ascii_to_alphabet_bus 0 22 ;g=jo9;OE3]Q1MU9U`GUD3
+R5
+R6
+R7
+l87
+L39
+Vg6F?_1a8cE?@d]HHK97l:0
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 MaeUd=R4W@^hM9GSdnzW@3
+!i10b 1
 Efull_adder
+<<<<<<< HEAD
 <<<<<<< HEAD
 Z29 w1382213601
 R5
@@ -216,15 +414,30 @@ R4
 Z30 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
 Z31 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z37 w1381955743
+R5
+R6
+R7
+R3
+Z38 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+Z39 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 V;i>A:8f5lLked@2g`85:[2
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z32 !s108 1382213602.440092
 R13
 Z33 !s107 /home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/function_cipher_struct.vhd|/home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd|/home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|/home/hkiang2/ece290_super/ece290/project1/project1_lib/hdl/full_adder_struct.vhd|
+=======
+Z40 !s108 1381955743.430604
+R13
+Z41 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z32 !s108 1381955743.430604
@@ -236,8 +449,12 @@ R17
 !s100 OfJKScBF1>AclP8nccCHl3
 !i10b 1
 Astruct
+<<<<<<< HEAD
 Z34 DEx4 work 10 full_adder 0 22 ;i>A:8f5lLked@2g`85:[2
 <<<<<<< HEAD
+=======
+Z42 DEx4 work 10 full_adder 0 22 ;i>A:8f5lLked@2g`85:[2
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
@@ -253,16 +470,26 @@ L51
 VCg[XNbmZ3cm^F^W6ZeLPJ0
 R12
 32
+<<<<<<< HEAD
 R32
 <<<<<<< HEAD
 R13
 R33
+=======
+R40
+R13
+R41
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 R16
 !s100 1Go=e9<51HbCgVoELK2RJ3
 !i10b 1
 Efull_adder_8bit
+<<<<<<< HEAD
 R29
+=======
+Z43 w1382155310
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
@@ -281,19 +508,30 @@ Z35 w1382155310
 R6
 R7
 R8
+<<<<<<< HEAD
 R9
 Z36 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
 Z37 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z44 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+Z45 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 Vl]mSZb2@0i?N^kWKTOFA;0
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R32
 R13
 R33
+=======
+Z46 !s108 1382155311.144459
+R13
+Z47 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z38 !s108 1382155311.144459
@@ -316,9 +554,15 @@ V7kFOOVXg^mDmZ7N_DQ38a3
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R32
 R13
 R33
+=======
+R46
+R13
+R47
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R38
@@ -329,6 +573,44 @@ R16
 R17
 !s100 m7C;eB<b7geoM6Uo0m<WK3
 !i10b 1
+Efull_adder_8bit_bus
+R4
+R5
+R6
+R7
+R8
+Z48 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
+Z49 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
+l0
+L13
+V=WNWWAX?lZTA7RlJG^@h92
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 XZ[0^X:4fn_Ak=;?YfWL;1
+!i10b 1
+Astruct
+R17
+DEx4 work 19 full_adder_8bit_bus 0 22 =WNWWAX?lZTA7RlJG^@h92
+R5
+R6
+R7
+l86
+L41
+ViAD^VeTBo@_CX6J8iSI_f1
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 7L<UYQ36dXf4FYCDW^DFm0
+!i10b 1
 Cfull_adder_struct_config
 astruct
 efull_adder
@@ -336,7 +618,11 @@ DAx4 work 10 full_adder 6 struct 22 Cg[XNbmZ3cm^F^W6ZeLPJ0
 R6
 R7
 <<<<<<< HEAD
+<<<<<<< HEAD
 R34
+=======
+R42
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 w1382117871
 =======
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
@@ -358,6 +644,7 @@ R17
 !i10b 0
 !s108 1382120528.317835
 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct_config.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_struct_config.vhd|
+<<<<<<< HEAD
 Efunction_cipher
 Z37 w1382216084
 R5
@@ -439,10 +726,53 @@ R16
 Ej1bitcomparator
 <<<<<<< HEAD
 Z44 w1381881232
+=======
+Einv_and_add1_bus
+R4
+R5
+R6
+R7
+R8
+Z50 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
+Z51 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
+l0
+L13
+VimJIZ2n=4mPE;W1_VHQO<1
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 V47JIjU`R4Wo?:fX:oFFO3
+!i10b 1
+Astruct
+R17
+DEx4 work 16 inv_and_add1_bus 0 22 imJIZ2n=4mPE;W1_VHQO<1
+R5
+R6
+R7
+l94
+L38
+Vj>M3b^gjoLbijHRNm]`^B2
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 >B6MFl?oZ4f_TM;TYI96E3
+!i10b 1
+Ej1bitcomparator
+Z52 w1381881232
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
 R3
+<<<<<<< HEAD
 Z45 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 Z46 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 =======
@@ -454,15 +784,25 @@ R4
 Z41 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 Z42 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z53 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Z54 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 V7Tgd]bm1:O;4@9efE3ehC1
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z47 !s108 1381881232.505885
 R13
 Z48 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
+=======
+Z55 !s108 1381881232.505885
+R13
+Z56 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z43 !s108 1381881232.505885
@@ -484,9 +824,15 @@ V6iF6Fe8AhSWPL1[cdSLaI3
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R47
 R13
 R48
+=======
+R55
+R13
+R56
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R43
@@ -536,11 +882,16 @@ R17
 !i10b 1
 Ej7bitcomparator
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z49 w1381939487
+=======
+Z57 w1381939487
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
 R3
+<<<<<<< HEAD
 Z50 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 Z51 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 =======
@@ -552,15 +903,25 @@ R4
 Z51 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 Z52 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z58 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+Z59 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 VXX7]GdbdRK[?M0j1hnVg:3
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 Z52 !s108 1381939487.548861
 R13
 Z53 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|
+=======
+Z60 !s108 1381939487.548861
+R13
+Z61 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z53 !s108 1381939487.548861
@@ -583,9 +944,15 @@ VU>0QfFmJz56GZ8QQCnGjH0
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R52
 R13
 R53
+=======
+R60
+R13
+R61
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R53
@@ -678,7 +1045,11 @@ R17
 !i10b 1
 Esubtract_97_lowercase_shift
 <<<<<<< HEAD
+<<<<<<< HEAD
 R29
+=======
+Z62 w1382161345
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R5
 R6
 R7
@@ -690,19 +1061,30 @@ Z67 w1382161345
 R6
 R7
 R8
+<<<<<<< HEAD
 R9
 Z68 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
 Z69 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
 >>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
+=======
+Z63 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
+Z64 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 l0
 L13
 VHKW0CHG[KeSZWDA2jjz1m3
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R32
 R13
 R33
+=======
+Z65 !s108 1382161346.291774
+R13
+Z66 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd|
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 Z70 !s108 1382161346.291774
@@ -725,9 +1107,15 @@ VP?=kho7OZ?W2>zOh;ZzK:1
 R12
 32
 <<<<<<< HEAD
+<<<<<<< HEAD
 R32
 R13
 R33
+=======
+R65
+R13
+R66
+>>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
 R15
 =======
 R70
@@ -737,4 +1125,46 @@ R71
 R16
 R17
 !s100 Yeb;ENRh8W8I_m@XaL=IW0
+!i10b 1
+Ez_ascii_mirror
+R4
+R5
+R6
+R7
+R8
+Z67 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+Z68 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+l0
+L13
+VL@m?fFgWm]5m><F9?OXh?3
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 EfHYb;b0TzfjIhzdn82NH2
+!i10b 1
+Astruct
+DEx12 project1_lib 16 inv_and_add1_bus 0 22 imJIZ2n=4mPE;W1_VHQO<1
+DEx12 project1_lib 19 full_adder_8bit_bus 0 22 =WNWWAX?lZTA7RlJG^@h92
+DEx12 project1_lib 21 ascii_to_alphabet_bus 0 22 ;g=jo9;OE3]Q1MU9U`GUD3
+DEx12 project1_lib 21 alphabet_to_ascii_bus 0 22 3Azf=Zk@e53HDj@1^7>km2
+DEx12 project1_lib 6 add_13 0 22 _[4>YeXN0<^[PSPGN;0?A0
+DEx4 work 14 z_ascii_mirror 0 22 L@m?fFgWm]5m><F9?OXh?3
+R5
+R6
+R7
+l98
+L38
+VHbiG]_n6io[d_O]P@;z9G1
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 1V]No2T7PHk@k<aV5GKno3
 !i10b 1

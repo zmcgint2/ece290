@@ -8,17 +8,20 @@
 LIBRARY project1_lib;
 CONFIGURATION z_ascii_mirror_struct_config OF z_ascii_mirror IS
    FOR struct
-      FOR ALL : add_97_alphabet_to_ascii
-         USE CONFIGURATION project1_lib.add_97_alphabet_to_ascii_struct_config;
+      FOR ALL : add_13
+         USE CONFIGURATION project1_lib.add_13_struct_config;
       END FOR;
-      FOR ALL : full_adder_8bit
-         USE CONFIGURATION project1_lib.full_adder_8bit_struct_config;
+      FOR ALL : alphabet_to_ascii_bus
+         USE CONFIGURATION project1_lib.alphabet_to_ascii_bus_struct_config;
       END FOR;
-      FOR ALL : inv_add1
-         USE CONFIGURATION project1_lib.inv_add1_struct_config;
+      FOR ALL : ascii_to_alphabet_bus
+         USE CONFIGURATION project1_lib.ascii_to_alphabet_bus_struct_config;
       END FOR;
-      FOR ALL : subtract_97_lowercase_shift
-         USE CONFIGURATION project1_lib.subtract_97_lowercase_shift_struct_config;
+      FOR ALL : full_adder_8bit_bus
+         USE CONFIGURATION project1_lib.full_adder_8bit_bus_struct_config;
+      END FOR;
+      FOR ALL : inv_and_add1_bus
+         USE CONFIGURATION project1_lib.inv_and_add1_bus_struct_config;
       END FOR;
    END FOR;
 END z_ascii_mirror_struct_config;
