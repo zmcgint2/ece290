@@ -20,7 +20,7 @@ appVersion "2012.1 (Build 6)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 3,0
+suid 4,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -62,27 +62,27 @@ tm "EolColHdrMgr"
 *14 (LogPort
 port (LogicalPort
 decl (Decl
-n "ascii_in"
+n "pos_in"
 t "std_logic_vector"
 b "(8 DOWNTO 0)"
 o 1
-suid 2,0
+suid 3,0
 )
 )
-uid 139,0
+uid 146,0
 )
 *15 (LogPort
 port (LogicalPort
 m 1
 decl (Decl
-n "mirror_out"
+n "neg_out"
 t "std_logic_vector"
 b "(8 DOWNTO 0)"
 o 2
-suid 3,0
+suid 4,0
 )
 )
-uid 141,0
+uid 148,0
 )
 ]
 )
@@ -138,13 +138,13 @@ uid 71,0
 litem &14
 pos 0
 dimension 20
-uid 138,0
+uid 145,0
 )
 *22 (MRCItem
 litem &15
 pos 1
 dimension 20
-uid 140,0
+uid 147,0
 )
 ]
 )
@@ -383,11 +383,11 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror/symbol.sb.info"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1/symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror/symbol.sb.user"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1/symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
@@ -407,11 +407,11 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1"
 )
 (vvPair
 variable "d_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1"
 )
 (vvPair
 variable "date"
@@ -431,7 +431,7 @@ value "19"
 )
 (vvPair
 variable "entity_name"
-value "z_ascii_mirror"
+value "inv_add1"
 )
 (vvPair
 variable "ext"
@@ -479,7 +479,7 @@ value "10"
 )
 (vvPair
 variable "module_name"
-value "z_ascii_mirror"
+value "inv_add1"
 )
 (vvPair
 variable "month"
@@ -491,11 +491,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1/symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirror/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_add1/symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -551,11 +551,11 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "14:48:21"
+value "07:37:17"
 )
 (vvPair
 variable "unit"
-value "z_ascii_mirror"
+value "inv_add1"
 )
 (vvPair
 variable "user"
@@ -586,10 +586,10 @@ optionalChildren [
 uid 8,0
 optionalChildren [
 *56 (CptPort
-uid 142,0
+uid 149,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 143,0
+uid 150,0
 ro 90
 va (VaSet
 vasetType 1
@@ -598,44 +598,44 @@ fg "0,65535,0"
 xt "14250,6625,15000,7375"
 )
 tg (CPTG
-uid 144,0
+uid 151,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 145,0
+uid 152,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,6550,24500,7450"
-st "ascii_in : (8:0)"
+xt "16000,6550,23500,7450"
+st "pos_in : (8:0)"
 blo "16000,7250"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 146,0
+uid 153,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,1800,70000,2700"
-st "ascii_in   : IN     std_logic_vector (8 DOWNTO 0) ;
+xt "44000,1800,68500,2700"
+st "pos_in  : IN     std_logic_vector (8 DOWNTO 0) ;
 "
 )
 thePort (LogicalPort
 decl (Decl
-n "ascii_in"
+n "pos_in"
 t "std_logic_vector"
 b "(8 DOWNTO 0)"
 o 1
-suid 2,0
+suid 3,0
 )
 )
 )
 *57 (CptPort
-uid 147,0
+uid 154,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 148,0
+uid 155,0
 ro 90
 va (VaSet
 vasetType 1
@@ -644,38 +644,38 @@ fg "0,65535,0"
 xt "39000,6625,39750,7375"
 )
 tg (CPTG
-uid 149,0
+uid 156,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 150,0
+uid 157,0
 va (VaSet
 font "courier,8,0"
 )
-xt "28500,6550,38000,7450"
-st "mirror_out : (8:0)"
+xt "30000,6550,38000,7450"
+st "neg_out : (8:0)"
 ju 2
 blo "38000,7250"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 151,0
+uid 158,0
 va (VaSet
 font "courier,8,0"
 )
-xt "44000,2700,69000,3600"
-st "mirror_out : OUT    std_logic_vector (8 DOWNTO 0)
+xt "44000,2700,67500,3600"
+st "neg_out : OUT    std_logic_vector (8 DOWNTO 0)
 "
 )
 thePort (LogicalPort
 m 1
 decl (Decl
-n "mirror_out"
+n "neg_out"
 t "std_logic_vector"
 b "(8 DOWNTO 0)"
 o 2
-suid 3,0
+suid 4,0
 )
 )
 )
@@ -708,8 +708,8 @@ uid 12,0
 va (VaSet
 font "courier,8,1"
 )
-xt "24750,16000,32250,16900"
-st "z_ascii_mirror"
+xt "24750,16000,28750,16900"
+st "inv_add1"
 blo "24750,16700"
 )
 )
@@ -1384,6 +1384,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 151,0
+lastUid 158,0
 activeModelName "Symbol:CDM"
 )
