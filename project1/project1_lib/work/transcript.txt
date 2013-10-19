@@ -7,12 +7,19 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
+<<<<<<< HEAD
 # vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.function_cipher_decrypt(struct) 
+=======
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.jceasarshiftdecode(struct) 
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+>>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
+<<<<<<< HEAD
 # Loading work.function_cipher_decrypt(struct)#1
 # Loading work.add_97_lowercase_shift(struct)#1
 # Loading work.full_adder_8bit(struct)#1
@@ -37,3 +44,11 @@ sim:/function_cipher_decrypt/out7
 emacs function_cipher_decrypt.do
 do function_cipher_decrypt.do
 run 40
+=======
+# Loading work.jceasarshiftdecode(struct)#1
+# Loading work.full_adder_8bit(struct)#1
+# Loading work.full_adder(struct)#1
+# Loading work.j21mux(struct)#1
+# Loading work.j7bitcomparator(struct)#1
+# Loading work.j1bitcomparator(struct)#1
+>>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.function_cipher_decrypt(struct)
+=======
+ -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.jceasarshiftdecode(struct)
+>>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
