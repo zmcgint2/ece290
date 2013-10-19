@@ -412,151 +412,151 @@ uid 108,0
 )
 *46 (MRCItem
 litem &15
-pos 1
+pos 25
 dimension 20
 uid 110,0
 )
 *47 (MRCItem
 litem &16
-pos 2
+pos 24
 dimension 20
 uid 112,0
 )
 *48 (MRCItem
 litem &17
-pos 3
+pos 23
 dimension 20
 uid 114,0
 )
 *49 (MRCItem
 litem &18
-pos 4
+pos 22
 dimension 20
 uid 116,0
 )
 *50 (MRCItem
 litem &19
-pos 5
+pos 21
 dimension 20
 uid 118,0
 )
 *51 (MRCItem
 litem &20
-pos 6
+pos 20
 dimension 20
 uid 120,0
 )
 *52 (MRCItem
 litem &21
-pos 7
+pos 19
 dimension 20
 uid 122,0
 )
 *53 (MRCItem
 litem &22
-pos 8
+pos 18
 dimension 20
 uid 124,0
 )
 *54 (MRCItem
 litem &23
-pos 9
+pos 1
 dimension 20
 uid 126,0
 )
 *55 (MRCItem
 litem &24
-pos 10
+pos 2
 dimension 20
 uid 128,0
 )
 *56 (MRCItem
 litem &25
-pos 11
+pos 3
 dimension 20
 uid 130,0
 )
 *57 (MRCItem
 litem &26
-pos 12
+pos 4
 dimension 20
 uid 132,0
 )
 *58 (MRCItem
 litem &27
-pos 13
+pos 5
 dimension 20
 uid 134,0
 )
 *59 (MRCItem
 litem &28
-pos 14
+pos 6
 dimension 20
 uid 136,0
 )
 *60 (MRCItem
 litem &29
-pos 15
+pos 7
 dimension 20
 uid 138,0
 )
 *61 (MRCItem
 litem &30
-pos 16
+pos 8
 dimension 20
 uid 140,0
 )
 *62 (MRCItem
 litem &31
-pos 17
+pos 9
 dimension 20
 uid 142,0
 )
 *63 (MRCItem
 litem &32
-pos 18
+pos 10
 dimension 20
 uid 144,0
 )
 *64 (MRCItem
 litem &33
-pos 19
+pos 11
 dimension 20
 uid 146,0
 )
 *65 (MRCItem
 litem &34
-pos 20
+pos 12
 dimension 20
 uid 148,0
 )
 *66 (MRCItem
 litem &35
-pos 21
+pos 13
 dimension 20
 uid 150,0
 )
 *67 (MRCItem
 litem &36
-pos 22
+pos 14
 dimension 20
 uid 152,0
 )
 *68 (MRCItem
 litem &37
-pos 23
+pos 15
 dimension 20
 uid 154,0
 )
 *69 (MRCItem
 litem &38
-pos 24
+pos 16
 dimension 20
 uid 156,0
 )
 *70 (MRCItem
 litem &39
-pos 25
+pos 17
 dimension 20
 uid 158,0
 )
@@ -789,23 +789,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hdl"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.info"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.user"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -821,27 +821,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "d_logical"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit"
 )
 (vvPair
 variable "date"
-value "10/16/13"
+value "10/18/13"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "16"
+value "18"
 )
 (vvPair
 variable "entity_name"
@@ -869,7 +869,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "siebl-0224-31.ews.illinois.edu"
+value "linux-v1.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -905,11 +905,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/full_adder_8bit/symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -933,7 +933,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "/software/mentor/ModelSim-SE-10.1d/modeltech/bin"
+value "<TBD>"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -965,7 +965,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "15:11:35"
+value "23:01:22"
 )
 (vvPair
 variable "unit"
@@ -973,7 +973,7 @@ value "full_adder_8bit"
 )
 (vvPair
 variable "user"
-value "jschen3"
+value "zmcgint2"
 )
 (vvPair
 variable "version"
@@ -2244,7 +2244,7 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "32200,50050,45200,50950"
+xt "32200,50050,45700,50950"
 st "
 by %user on %dd %month %year
 "
@@ -2867,7 +2867,7 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 335,0
+lastUid 404,0
 okToSyncOnLoad 1
 OkToSyncGenericsOnLoad 1
 activeModelName "Symbol:CDM"

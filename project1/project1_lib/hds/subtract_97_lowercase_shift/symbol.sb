@@ -676,19 +676,19 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/subtract_97_l
 )
 (vvPair
 variable "date"
-value "10/13/13"
+value "10/19/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "13"
+value "19"
 )
 (vvPair
 variable "entity_name"
@@ -716,7 +716,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-15.ews.illinois.edu"
+value "linux-v1.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -725,6 +725,14 @@ value "VHDL"
 (vvPair
 variable "library"
 value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
+)
+(vvPair
+variable "library_downstream_ModelSimSimulator"
+value "$HDS_PROJECT_DIR/project1_lib/sim"
 )
 (vvPair
 variable "mm"
@@ -804,7 +812,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "12:53:47"
+value "00:04:46"
 )
 (vvPair
 variable "unit"
@@ -2309,6 +2317,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 295,0
+lastUid 318,0
 activeModelName "Symbol:CDM"
 )

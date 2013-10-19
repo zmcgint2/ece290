@@ -434,19 +434,19 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/alphabetsoup"
 )
 (vvPair
 variable "date"
-value "10/18/13"
+value "10/19/13"
 )
 (vvPair
 variable "day"
-value "Fri"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "Friday"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "18"
+value "19"
 )
 (vvPair
 variable "entity_name"
@@ -570,7 +570,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "22:34:35"
+value "01:01:05"
 )
 (vvPair
 variable "unit"
@@ -638,8 +638,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,3600,61000,4500"
-st "ERROR         : OUT    std_logic 
-"
+st "ERROR         : OUT    std_logic "
 )
 thePort (LogicalPort
 m 1
@@ -685,8 +684,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,2700,71500,3600"
-st "ASCIIBUS      : OUT    std_logic_vector (8 DOWNTO 0) ;
-"
+st "ASCIIBUS      : OUT    std_logic_vector (8 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 m 1
@@ -732,8 +730,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,1800,73500,2700"
-st "ALPHABET_5BIT : IN     std_logic_vector (5 DOWNTO 0) BUS ;
-"
+st "ALPHABET_5BIT : IN     std_logic_vector (5 DOWNTO 0) BUS ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -1451,6 +1448,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 227,0
+lastUid 250,0
 activeModelName "Symbol:CDM"
 )
