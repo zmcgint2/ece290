@@ -228,7 +228,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "21:19:30"
+value "21:24:29"
 )
 (vvPair
 variable "unit"
@@ -409,9 +409,11 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "49200,47200,60200,48100"
+xt "49200,47200,62700,49900"
 st "
-<enter comments here>
+input 5-bit (a-z)=(1-26), 
+Then outputs ascii value
+(a-z)=(27-122) or whatever
 "
 tm "CommentText"
 wrapOption 3
