@@ -1,0 +1,13 @@
+[ModelSim]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/work
+[hdl]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/hdl
+[hds]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/hds
+[hds_settings]
+default_library = comparator_lib
+version = 2
+[library_type]
+comparator_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

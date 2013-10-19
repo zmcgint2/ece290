@@ -1,0 +1,278 @@
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 177,0 14 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 172,0 15 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 167,0 16 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 162,0 17 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 157,0 18 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 152,0 19 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 147,0 20 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 142,0 21 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 182,0 22 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 192,0 23 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 187,0 24 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 197,0 25 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 202,0 26 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 212,0 27 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 207,0 28 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 222,0 29 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 217,0 30 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 1,0 33 0 
+DESIGN subtract_97_lowercase_shift
+VIEW symbol.sb
+GRAPHIC 1,0 34 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 41,0 46 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 0,0 52 2 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 571,0 57 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 583,0 58 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 642,0 59 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 60
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 61
+LIBRARY project1_lib
+DESIGN full_adder_8bit
+VIEW struct
+GRAPHIC 1119,0 63 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 215,0 65 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 225,0 66 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 235,0 67 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 245,0 68 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 255,0 69 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 265,0 70 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 275,0 71 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 285,0 72 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 210,0 73 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 220,0 74 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 230,0 75 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 240,0 76 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 250,0 77 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 260,0 78 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 270,0 79 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 280,0 80 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 205,0 81 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 160,0 82 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 165,0 83 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 170,0 84 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 175,0 85 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 180,0 86 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 185,0 87 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 190,0 88 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 195,0 89 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 200,0 90 0 
+LIBRARY project1_lib
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 93
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 1119,0 96 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 99
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 280,0 101 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 632,0 104 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 301,0 107 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 110
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 1119,0 112 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 367,0 114 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 361,0 115 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 355,0 116 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 343,0 117 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 337,0 118 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 331,0 119 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 319,0 120 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 313,0 121 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 585,0 122 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 589,0 123 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 595,0 124 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 601,0 125 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 607,0 126 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 573,0 127 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 573,0 128 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 585,0 129 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 644,0 130 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 481,0 131 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 493,0 132 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 487,0 133 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 499,0 134 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 505,0 135 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 517,0 136 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 511,0 137 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 529,0 138 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+GRAPHIC 523,0 139 0 
+DESIGN subtract_97_lowercase_shift
+VIEW struct.bd
+NO_GRAPHIC 142

@@ -1,0 +1,381 @@
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 212,0 14 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 202,0 15 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 192,0 16 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 182,0 17 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 172,0 18 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 162,0 19 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 152,0 20 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 217,0 21 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 207,0 22 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 197,0 23 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 187,0 24 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 177,0 25 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 167,0 26 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 157,0 27 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1324,0 28 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1329,0 29 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1106,0 30 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1116,0 31 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1111,0 32 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1,0 35 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW symbol.sb
+GRAPHIC 1,0 36 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 41,0 48 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 51
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 0,0 53 2 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8156,0 58 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8158,0 59 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8302,0 60 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5838,0 61 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8515,0 62 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8290,0 63 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4279,0 64 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5826,0 65 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6261,0 66 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1859,0 67 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1938,0 68 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3157,0 69 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8284,0 70 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3318,0 71 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6398,0 72 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3841,0 73 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3961,0 74 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4085,0 75 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6267,0 76 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6404,0 77 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8115,0 78 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8464,0 79 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4249,0 80 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4255,0 81 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4261,0 82 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4267,0 83 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4273,0 84 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8470,0 85 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6273,0 86 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7731,0 87 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7733,0 88 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6279,0 89 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1460,0 90 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1543,0 91 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1622,0 92 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1701,0 93 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1780,0 94 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3606,0 95 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6014,0 96 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6012,0 97 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5777,0 98 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5775,0 99 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5773,0 100 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5771,0 101 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 102
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7737,0 104 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7743,0 105 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 107
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 108
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6389,0 110 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7650,0 113 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8232,0 116 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1409,0 119 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1490,0 122 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1569,0 125 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1648,0 128 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1727,0 131 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1806,0 134 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1885,0 137 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8304,0 140 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5783,0 143 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7100,0 146 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 2901,0 149 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3169,0 152 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3461,0 155 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3624,0 158 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3857,0 161 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3145,0 164 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3285,0 167 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3573,0 170 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3808,0 173 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 3928,0 176 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4052,0 179 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6326,0 182 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 6337,0 185 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8172,0 188 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8196,0 191 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7602,0 194 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7626,0 197 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1443,0 200 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1466,0 203 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1545,0 206 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1624,0 209 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1703,0 212 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1782,0 215 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 1861,0 218 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 4188,0 221 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 8364,0 225 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5199,0 228 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5295,0 231 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5343,0 234 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5391,0 237 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5439,0 240 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5487,0 243 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 5535,0 246 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7052,0 249 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 252
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7737,0 256 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+GRAPHIC 7743,0 257 0 
+DESIGN signed_2s_complement_8_bit_comparator
+VIEW struct.bd
+NO_GRAPHIC 259
