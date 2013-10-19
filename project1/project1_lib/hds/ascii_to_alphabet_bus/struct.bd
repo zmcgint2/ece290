@@ -237,7 +237,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "18:02:09"
+value "18:54:53"
 )
 (vvPair
 variable "unit"
@@ -2201,8 +2201,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,38000,6300"
-st "SIGNAL b6           : std_logic
-"
+st "SIGNAL b6           : std_logic"
 )
 )
 *68 (Net
@@ -2219,8 +2218,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,38000,7200"
-st "SIGNAL b7           : std_logic
-"
+st "SIGNAL b7           : std_logic"
 )
 )
 *69 (Net
@@ -2237,8 +2235,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,38000,8100"
-st "SIGNAL dout         : std_logic
-"
+st "SIGNAL dout         : std_logic"
 )
 )
 *70 (PortIoIn
@@ -2391,8 +2388,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,3600,34500,4500"
-st "cout         : std_logic
-"
+st "cout         : std_logic"
 )
 )
 *74 (Net
@@ -2410,8 +2406,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,44000,2700"
-st "ascii_in     : std_logic_vector(7 DOWNTO 0)
-"
+st "ascii_in     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *75 (Net
@@ -2429,8 +2424,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,44000,3600"
-st "alphabet_out : std_logic_vector(7 DOWNTO 0)
-"
+st "alphabet_out : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *76 (Wire
@@ -3959,8 +3953,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-6,2,1009,692"
-viewArea "90132,0,156660,43764"
+windowSize "278,139,1293,829"
+viewArea "75341,-5503,158501,49202"
 cachedDiagramExtent "0,0,151500,59360"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"

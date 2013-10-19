@@ -569,7 +569,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "18:02:09"
+value "18:54:53"
 )
 (vvPair
 variable "unit"
@@ -637,8 +637,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,3600,60500,4500"
-st "cout         : OUT    std_logic 
-"
+st "cout         : OUT    std_logic "
 )
 thePort (LogicalPort
 m 1
@@ -683,8 +682,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,1800,71000,2700"
-st "ascii_in     : IN     std_logic_vector (7 DOWNTO 0) ;
-"
+st "ascii_in     : IN     std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -730,8 +728,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,2700,71000,3600"
-st "alphabet_out : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "alphabet_out : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 m 1
@@ -1449,6 +1446,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 128,0
+lastUid 151,0
 activeModelName "Symbol:CDM"
 )
