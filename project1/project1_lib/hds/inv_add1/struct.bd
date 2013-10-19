@@ -300,7 +300,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "07:37:16"
+value "14:52:09"
 )
 (vvPair
 variable "unit"
@@ -3694,8 +3694,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,35500,6300"
-st "SIGNAL b7      : std_logic
-"
+st "SIGNAL b7      : std_logic"
 )
 )
 *124 (Net
@@ -3712,8 +3711,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,4500,35500,5400"
-st "SIGNAL a       : std_logic
-"
+st "SIGNAL a       : std_logic"
 )
 )
 *125 (Net
@@ -3730,8 +3728,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,35500,7200"
-st "SIGNAL dout    : std_logic
-"
+st "SIGNAL dout    : std_logic"
 )
 )
 *126 (Net
@@ -3748,8 +3745,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,35500,8100"
-st "SIGNAL dout1   : std_logic
-"
+st "SIGNAL dout1   : std_logic"
 )
 )
 *127 (Net
@@ -3766,8 +3762,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,8100,35500,9000"
-st "SIGNAL dout2   : std_logic
-"
+st "SIGNAL dout2   : std_logic"
 )
 )
 *128 (Net
@@ -3784,8 +3779,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9000,35500,9900"
-st "SIGNAL dout3   : std_logic
-"
+st "SIGNAL dout3   : std_logic"
 )
 )
 *129 (Net
@@ -3802,8 +3796,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9900,35500,10800"
-st "SIGNAL dout4   : std_logic
-"
+st "SIGNAL dout4   : std_logic"
 )
 )
 *130 (MWC
@@ -4226,8 +4219,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,10800,35500,11700"
-st "SIGNAL dout5   : std_logic
-"
+st "SIGNAL dout5   : std_logic"
 )
 )
 *148 (Net
@@ -4244,8 +4236,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,11700,35500,12600"
-st "SIGNAL dout6   : std_logic
-"
+st "SIGNAL dout6   : std_logic"
 )
 )
 *149 (Net
@@ -4262,8 +4253,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,12600,35500,13500"
-st "SIGNAL dout7   : std_logic
-"
+st "SIGNAL dout7   : std_logic"
 )
 )
 *150 (PortIoOut
@@ -4326,8 +4316,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,41500,2700"
-st "pos_in  : std_logic_vector(8 DOWNTO 0)
-"
+st "pos_in  : std_logic_vector(8 DOWNTO 0)"
 )
 )
 *152 (Net
@@ -4345,8 +4334,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,41500,3600"
-st "neg_out : std_logic_vector(8 DOWNTO 0)
-"
+st "neg_out : std_logic_vector(8 DOWNTO 0)"
 )
 )
 *153 (Wire

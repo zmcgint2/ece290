@@ -20,7 +20,7 @@ appVersion "2012.1 (Build 6)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 3,0
+suid 6,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -61,28 +61,28 @@ tm "EolColHdrMgr"
 )
 *14 (LogPort
 port (LogicalPort
-decl (Decl
-n "ascii_in"
-t "std_logic_vector"
-b "(8 DOWNTO 0)"
-o 1
-suid 2,0
-)
-)
-uid 139,0
-)
-*15 (LogPort
-port (LogicalPort
 m 1
 decl (Decl
 n "mirror_out"
 t "std_logic_vector"
-b "(8 DOWNTO 0)"
+b "(7 DOWNTO 0)"
 o 2
 suid 3,0
 )
 )
 uid 141,0
+)
+*15 (LogPort
+port (LogicalPort
+decl (Decl
+n "mirror_in"
+t "std_logic_vector"
+b "(7 DOWNTO 0)"
+o 1
+suid 6,0
+)
+)
+uid 282,0
 )
 ]
 )
@@ -138,13 +138,13 @@ uid 71,0
 litem &14
 pos 0
 dimension 20
-uid 138,0
+uid 140,0
 )
 *22 (MRCItem
 litem &15
 pos 1
 dimension 20
-uid 140,0
+uid 281,0
 )
 ]
 )
@@ -455,7 +455,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "linux-v1.ews.illinois.edu"
+value "gelib-057-26.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -551,7 +551,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "14:48:21"
+value "18:24:55"
 )
 (vvPair
 variable "unit"
@@ -586,52 +586,6 @@ optionalChildren [
 uid 8,0
 optionalChildren [
 *56 (CptPort
-uid 142,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 143,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "14250,6625,15000,7375"
-)
-tg (CPTG
-uid 144,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 145,0
-va (VaSet
-font "courier,8,0"
-)
-xt "16000,6550,24500,7450"
-st "ascii_in : (8:0)"
-blo "16000,7250"
-tm "CptPortNameMgr"
-)
-)
-dt (MLText
-uid 146,0
-va (VaSet
-font "courier,8,0"
-)
-xt "44000,1800,70000,2700"
-st "ascii_in   : IN     std_logic_vector (8 DOWNTO 0) ;
-"
-)
-thePort (LogicalPort
-decl (Decl
-n "ascii_in"
-t "std_logic_vector"
-b "(8 DOWNTO 0)"
-o 1
-suid 2,0
-)
-)
-)
-*57 (CptPort
 uid 147,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -653,7 +607,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "28500,6550,38000,7450"
-st "mirror_out : (8:0)"
+st "mirror_out : (7:0)"
 ju 2
 blo "38000,7250"
 tm "CptPortNameMgr"
@@ -665,17 +619,61 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,2700,69000,3600"
-st "mirror_out : OUT    std_logic_vector (8 DOWNTO 0)
-"
+st "mirror_out : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 m 1
 decl (Decl
 n "mirror_out"
 t "std_logic_vector"
-b "(8 DOWNTO 0)"
+b "(7 DOWNTO 0)"
 o 2
 suid 3,0
+)
+)
+)
+*57 (CptPort
+uid 283,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 284,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "14250,6625,15000,7375"
+)
+tg (CPTG
+uid 285,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 286,0
+va (VaSet
+font "courier,8,0"
+)
+xt "16000,6550,25000,7450"
+st "mirror_in : (7:0)"
+blo "16000,7250"
+tm "CptPortNameMgr"
+)
+)
+dt (MLText
+uid 287,0
+va (VaSet
+font "courier,8,0"
+)
+xt "44000,1800,70000,2700"
+st "mirror_in  : IN     std_logic_vector (7 DOWNTO 0) ;"
+)
+thePort (LogicalPort
+decl (Decl
+n "mirror_in"
+t "std_logic_vector"
+b "(7 DOWNTO 0)"
+o 1
+suid 6,0
 )
 )
 )
@@ -1384,6 +1382,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 151,0
+lastUid 333,0
 activeModelName "Symbol:CDM"
 )
