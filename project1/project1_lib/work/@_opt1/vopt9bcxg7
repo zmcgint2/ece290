@@ -12,9 +12,9 @@ n@_opt
 Z2 OE;O;10.1d;51
 Z3 d/home/jschen3/ece290git/ece290/project1/project1_lib/work
 T_opt1
-VjDUAT]OR8kZkc^LQBGTiO3
+V=0BR6OKo``CcdZk=]>D4`2
 04 14 6 work z_ascii_mirror struct 1
-=1-80c16ee65ef5-52630c81-42a04-6e9f
+=1-80c16ee65ef5-526315ef-e597d-794c
 R1
 n@_opt1
 R2
@@ -216,21 +216,21 @@ R16
 !s100 0?7iWm`0n=e=C;HA8YK]^2
 !i10b 1
 Eascii_to_alphabet_bus
-R4
+Z35 w1382225379
 R5
 R6
 R7
 R8
-Z35 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
-Z36 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
+Z36 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
+Z37 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd
 l0
 L13
 V;g=jo9;OE3]Q1MU9U`GUD3
 R11
 32
-R12
+Z38 !s108 1382225380.650205
 R13
-R14
+Z39 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/ascii_to_alphabet_bus_struct.vhd|
 R15
 R16
 !s100 M=WEV^laYD1ekXX24D@W51
@@ -246,35 +246,35 @@ L39
 Vg6F?_1a8cE?@d]HHK97l:0
 R11
 32
-R12
+R38
 R13
-R14
+R39
 R15
 R16
 !s100 MaeUd=R4W@^hM9GSdnzW@3
 !i10b 1
 Efull_adder
-Z37 w1381955743
+Z40 w1381955743
 R5
 R6
 R7
 R3
-Z38 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
-Z39 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+Z41 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
+Z42 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd
 l0
 L13
 V;i>A:8f5lLked@2g`85:[2
 R11
 32
-Z40 !s108 1381955743.430604
+Z43 !s108 1381955743.430604
 R13
-Z41 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd|
+Z44 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/full_adder_struct.vhd|
 R15
 R16
 !s100 OfJKScBF1>AclP8nccCHl3
 !i10b 1
 Astruct
-Z42 DEx4 work 10 full_adder 0 22 ;i>A:8f5lLked@2g`85:[2
+Z45 DEx4 work 10 full_adder 0 22 ;i>A:8f5lLked@2g`85:[2
 R5
 R6
 R7
@@ -283,29 +283,29 @@ L51
 VCg[XNbmZ3cm^F^W6ZeLPJ0
 R11
 32
-R40
+R43
 R13
-R41
+R44
 R15
 R16
 !s100 9<_UN<?M4ZdBc3gPmz@i62
 !i10b 1
 Efull_adder_8bit
-Z43 w1382155310
+Z46 w1382155310
 R5
 R6
 R7
 R8
-Z44 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
-Z45 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+Z47 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
+Z48 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd
 l0
 L13
 Vl]mSZb2@0i?N^kWKTOFA;0
 R11
 32
-Z46 !s108 1382155311.144459
+Z49 !s108 1382155311.144459
 R13
-Z47 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
+Z50 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct.vhd|
 R15
 R16
 !s100 ^^oi:ojUEkTSE12cM?62:2
@@ -321,9 +321,9 @@ L62
 V7kFOOVXg^mDmZ7N_DQ38a3
 R11
 32
-R46
+R49
 R13
-R47
+R50
 R15
 R16
 !s100 m7C;eB<b7geoM6Uo0m<WK3
@@ -334,8 +334,8 @@ R5
 R6
 R7
 R8
-Z48 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
-Z49 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
+Z51 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
+Z52 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_bus_struct.vhd
 l0
 L13
 V=WNWWAX?lZTA7RlJG^@h92
@@ -373,7 +373,7 @@ DAx4 work 10 full_adder 6 struct 22 Cg[XNbmZ3cm^F^W6ZeLPJ0
 R5
 R6
 R7
-R42
+R45
 w1382117871
 R8
 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_struct_config.vhd
@@ -391,21 +391,21 @@ R16
 !s108 1382120528.317835
 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_8bit_struct_config.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/full_adder_struct_config.vhd|
 Einv_and_add1_bus
-R4
+R35
 R5
 R6
 R7
 R8
-Z50 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
-Z51 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
+Z53 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
+Z54 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/inv_and_add1_bus_struct.vhd
 l0
 L13
 VimJIZ2n=4mPE;W1_VHQO<1
 R11
 32
-R12
+R38
 R13
-R14
+R39
 R15
 R16
 !s100 V47JIjU`R4Wo?:fX:oFFO3
@@ -421,29 +421,29 @@ L38
 Vj>M3b^gjoLbijHRNm]`^B2
 R11
 32
-R12
+R38
 R13
-R14
+R39
 R15
 R16
 !s100 >B6MFl?oZ4f_TM;TYI96E3
 !i10b 1
 Ej1bitcomparator
-Z52 w1381881232
+Z55 w1381881232
 R5
 R6
 R7
 R3
-Z53 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
-Z54 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Z56 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
+Z57 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd
 l0
 L13
 V7Tgd]bm1:O;4@9efE3ehC1
 R11
 32
-Z55 !s108 1381881232.505885
+Z58 !s108 1381881232.505885
 R13
-Z56 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
+Z59 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j1bitcomparator_struct.vhd|
 R15
 R16
 !s100 8L]9f<@aY=g=_mMRHJZTJ2
@@ -458,29 +458,29 @@ L40
 V6iF6Fe8AhSWPL1[cdSLaI3
 R11
 32
-R55
+R58
 R13
-R56
+R59
 R15
 R16
 !s100 Vj^zokS580?bNa0a>3el>1
 !i10b 1
 Ej7bitcomparator
-Z57 w1381939487
+Z60 w1381939487
 R5
 R6
 R7
 R3
-Z58 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
-Z59 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+Z61 8/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
+Z62 F/home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd
 l0
 L13
 VXX7]GdbdRK[?M0j1hnVg:3
 R11
 32
-Z60 !s108 1381939487.548861
+Z63 !s108 1381939487.548861
 R13
-Z61 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|
+Z64 !s107 /home/jschen3/ece290git/ece290/project1/project1_lib/hdl/j7bitcomparator_struct.vhd|
 R15
 R16
 !s100 GDb`Sibg3OQmE>aDLJ>oV1
@@ -496,29 +496,29 @@ L53
 VU>0QfFmJz56GZ8QQCnGjH0
 R11
 32
-R60
+R63
 R13
-R61
+R64
 R15
 R16
 !s100 631KeQATd5FZ=eLh4[iJ43
 !i10b 1
 Esubtract_97_lowercase_shift
-Z62 w1382161345
+Z65 w1382161345
 R5
 R6
 R7
 R8
-Z63 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
-Z64 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
+Z66 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
+Z67 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd
 l0
 L13
 VHKW0CHG[KeSZWDA2jjz1m3
 R11
 32
-Z65 !s108 1382161346.291774
+Z68 !s108 1382161346.291774
 R13
-Z66 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd|
+Z69 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract_97_lowercase_shift_struct.vhd|
 R15
 R16
 !s100 ]JMQhI?GB@?:dVlAEiHI@0
@@ -534,29 +534,29 @@ L53
 VP?=kho7OZ?W2>zOh;ZzK:1
 R11
 32
-R65
+R68
 R13
-R66
+R69
 R15
 R16
 !s100 Yeb;ENRh8W8I_m@XaL=IW0
 !i10b 1
 Ez_ascii_mirror
-R4
+Z70 w1382225380
 R5
 R6
 R7
 R8
-Z67 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
-Z68 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+Z71 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+Z72 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
 l0
 L13
 VL@m?fFgWm]5m><F9?OXh?3
 R11
 32
-R12
+R38
 R13
-R14
+R39
 R15
 R16
 !s100 EfHYb;b0TzfjIhzdn82NH2
@@ -573,13 +573,13 @@ R6
 R7
 l98
 L38
-VHbiG]_n6io[d_O]P@;z9G1
+V>inoagO_8A5N2UKE8bgc@3
 R11
 32
-R12
+R38
 R13
-R14
+R39
 R15
 R16
-!s100 1V]No2T7PHk@k<aV5GKno3
+!s100 e:6A@9fTDN>MH4@@hhdG]0
 !i10b 1

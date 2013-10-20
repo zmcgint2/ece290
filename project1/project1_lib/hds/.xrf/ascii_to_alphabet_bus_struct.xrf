@@ -33,13 +33,13 @@ VIEW struct.bd
 GRAPHIC 0,0 38 2 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 528,0 43 0 
+GRAPHIC 534,0 43 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 508,0 44 0 
+GRAPHIC 536,0 44 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 516,0 45 0 
+GRAPHIC 538,0 45 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
 NO_GRAPHIC 46
@@ -179,34 +179,34 @@ VIEW struct.bd
 GRAPHIC 622,0 107 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 384,0 108 0 
+GRAPHIC 394,0 108 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 398,0 109 0 
+GRAPHIC 408,0 109 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 402,0 110 0 
+GRAPHIC 412,0 110 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 406,0 111 0 
+GRAPHIC 416,0 111 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 410,0 112 0 
+GRAPHIC 420,0 112 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 418,0 113 0 
+GRAPHIC 384,0 113 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 418,0 114 0 
+GRAPHIC 384,0 114 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 384,0 115 0 
+GRAPHIC 394,0 115 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 456,0 116 0 
+GRAPHIC 496,0 116 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
-GRAPHIC 576,0 117 0 
+GRAPHIC 560,0 117 0 
 DESIGN ascii_to_alphabet_bus
 VIEW struct.bd
 GRAPHIC 628,0 118 0 
