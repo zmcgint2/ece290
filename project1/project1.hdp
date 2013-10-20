@@ -5,14 +5,50 @@ project1_lib = $HDS_PROJECT_DIR/project1_lib/work
 [ModelSim_Invoke_Dir]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/sim
 [hdl]
+<<<<<<< HEAD
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
 [hds]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
+=======
+checkcode = /home/cjpatil2/ece290.work/project1/checkcode/checkcode_lib/hdl
+comparator_backup_lib = /home/hkiang2/ece290_super/ece290/comparator_backup/comparator_lib/hdl
+comparator_lib = /home/hkiang2/ece290_super/ece290/comparator/comparator_lib/hdl
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
+PROJECT1_LIB1 = /home/hkiang2/ece290_super/comparator_backup/comparator_lib/hdl
+PROJECT1_LIB2 = /home/hkiang2/Desktop/comparator_backup/comparator_lib/hdl
+railfence = /home/cjpatil2/ece290.work/railfence/railfence_lib/hdl
+[hds]
+checkcode = /home/cjpatil2/ece290.work/project1/checkcode/checkcode_lib/hds
+comparator_backup_lib = /home/hkiang2/ece290_super/ece290/comparator_backup/comparator_lib/hds
+comparator_lib = /home/hkiang2/ece290_super/ece290/comparator/comparator_lib/hds
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
+PROJECT1_LIB1 = $HDS_PROJECT_DIR/PROJECT1_LIB1/hds
+PROJECT1_LIB2 = $HDS_PROJECT_DIR/PROJECT1_LIB2/hds
+railfence = /home/cjpatil2/ece290.work/railfence/railfence_lib/hds
+>>>>>>> dfbd2691e3220a5a3934d3d91846f811a07fc3e7
 [hds_settings]
 default_library = project1_lib
 project_description = encryption project
 version = 2
+<<<<<<< HEAD
 [library_type]
 project1_lib = regular
+=======
+[library_files_inclusion]
+checkcode = all
+comparator_backup_lib = all
+comparator_lib = all
+PROJECT1_LIB1 = all
+PROJECT1_LIB2 = all
+railfence = all
+[library_type]
+checkcode = regular
+comparator_backup_lib = regular
+comparator_lib = regular
+project1_lib = regular
+PROJECT1_LIB1 = regular
+PROJECT1_LIB2 = regular
+railfence = regular
+>>>>>>> dfbd2691e3220a5a3934d3d91846f811a07fc3e7
 [shared]
 others = $HDS_TEAM_HOME/shared.hdp

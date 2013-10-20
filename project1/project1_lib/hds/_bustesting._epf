@@ -1,0 +1,2 @@
+DEFAULT_FILE atom bustesting/struct.bd
+DEFAULT_ARCHITECTURE atom struct

@@ -1,0 +1,11 @@
+[hdl]
+railfence_lib = $HDS_PROJECT_DIR/railfence_lib/hdl
+[hds]
+railfence_lib = $HDS_PROJECT_DIR/railfence_lib/hds
+[hds_settings]
+default_library = railfence_lib
+version = 2
+[library_type]
+railfence_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
