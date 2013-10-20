@@ -219,7 +219,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "17:38:39"
+value "17:58:08"
 )
 (vvPair
 variable "unit"
@@ -990,9 +990,9 @@ uid 156,0
 va (VaSet
 font "courier,8,0"
 )
-xt "54000,7550,60000,8450"
+xt "51000,5550,57000,6450"
 st "mirror_out1"
-blo "54000,8250"
+blo "51000,6250"
 tm "WireNameMgr"
 )
 )
@@ -1022,7 +1022,7 @@ decl (Decl
 n "mirror_out"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 2
+o 3
 suid 2,0
 )
 declText (MLText
@@ -1041,7 +1041,7 @@ decl (Decl
 n "mirror_out1"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 3
+o 2
 suid 3,0
 )
 declText (MLText
@@ -1125,9 +1125,9 @@ uid 168,0
 va (VaSet
 font "courier,8,0"
 )
-xt "27750,7100,37250,8000"
+xt "26000,6100,35500,7000"
 st "mirror_out : (7:0)"
-blo "27750,7800"
+blo "26000,6800"
 tm "WireNameMgr"
 )
 )
@@ -1166,8 +1166,8 @@ va (VaSet
 isHidden 1
 font "courier,8,0"
 )
-xt "49750,7100,59750,8000"
-st "mirror_out1 : (7:0)"
+xt "49750,7100,55750,8000"
+st "mirror_out1"
 blo "49750,7800"
 tm "WireNameMgr"
 )
@@ -1289,11 +1289,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "90,57,1105,747"
-viewArea "0,1848,66528,45612"
+viewArea "4464,1800,61488,37296"
 cachedDiagramExtent "-500,0,69000,51000"
 hasePageBreakOrigin 1
-pageBreakOrigin "0,0"
-lastUid 180,0
+pageBreakOrigin "-69000,0"
+lastUid 203,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -2409,7 +2409,7 @@ decl (Decl
 n "mirror_out"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 2
+o 3
 suid 2,0
 )
 )
@@ -2422,7 +2422,7 @@ decl (Decl
 n "mirror_out1"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 3
+o 2
 suid 3,0
 )
 )
@@ -2486,13 +2486,13 @@ uid 176,0
 )
 *85 (MRCItem
 litem &77
-pos 1
+pos 2
 dimension 20
 uid 178,0
 )
 *86 (MRCItem
 litem &78
-pos 2
+pos 1
 dimension 20
 uid 180,0
 )
