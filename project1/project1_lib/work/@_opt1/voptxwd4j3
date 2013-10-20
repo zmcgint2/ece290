@@ -4,9 +4,9 @@ K3
 cModel Technology
 Z0 d/home/zmcgint2/ece290.work/ece290/project1/project1_lib/work
 T_opt1
-VRe8`mJUkjDhPi0f??hZiM1
+VhV<Jo>_kNo8ARE@o<fRz11
 04 14 6 work z_ascii_mirror struct 1
-=1-005056bd009e-5263711d-46e5b-1318
+=1-2c27d7390f02-526456d0-b125d-737f
 o-quiet +acc -auto_acc_if_foreign -work project1_lib -L project1_lib
 n@_opt1
 OE;O;10.1d;51
@@ -314,7 +314,7 @@ R13
 !s100 >B6MFl?oZ4f_TM;TYI96E3
 !i10b 1
 Esubtract1
-Z36 w1382247772
+Z36 w1382307516
 R2
 R3
 R4
@@ -326,9 +326,9 @@ L13
 V7UZ0Fg;TdTmJmK5^]oZ;W1
 R8
 32
-R22
+Z39 !s108 1382307517.352029
 R10
-R23
+Z40 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd|/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/subtract1_struct.vhd|
 R12
 R13
 !s100 281[X0`jQjgmSN;fC9`VX1
@@ -344,29 +344,29 @@ L39
 VAllzQFIhKBJWoDTCSSO4a3
 R8
 32
-R22
+R39
 R10
-R23
+R40
 R12
 R13
 !s100 Y9j^]JmJPNkc_N:l:GBc>2
 !i10b 1
 Ez_ascii_mirror
-Z39 w1382248714
+R36
 R2
 R3
 R4
 R5
-Z40 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
-Z41 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+Z41 8/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
+Z42 F/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd
 l0
 L13
 VL@m?fFgWm]5m><F9?OXh?3
 R8
 32
-Z42 !s108 1382248715.691022
+R39
 R10
-Z43 !s107 /home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl/z_ascii_mirror_struct.vhd|
+R40
 R12
 R13
 !s100 EfHYb;b0TzfjIhzdn82NH2
@@ -384,13 +384,13 @@ R3
 R4
 l107
 L38
-V]S[24@An]`UL[bBIc97To1
+VJN0[e3XDmD_FfC`@=a5O32
 R8
 32
-R42
+R39
 R10
-R43
+R40
 R12
 R13
-!s100 o:AQBYmd9:@8`Z5=]FM6F3
+!s100 ^DJ5EM:jB;J;>mQ97VNLo1
 !i10b 1

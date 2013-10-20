@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom z_test_encrypt_decrypt_ascii_mirror/struct.bd

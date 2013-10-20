@@ -273,7 +273,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "00:57:47"
+value "00:57:51"
 )
 (vvPair
 variable "unit"
@@ -1995,8 +1995,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,49500,8100"
-st "SIGNAL neg_out          : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL neg_out          : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *59 (Net
@@ -2014,8 +2013,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,8100,49500,9000"
-st "SIGNAL out_plus_13      : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL out_plus_13      : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *60 (Net
@@ -2033,8 +2031,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9900,49500,10800"
-st "SIGNAL s_out1           : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL s_out1           : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *61 (Net
@@ -2052,8 +2049,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,46000,3600"
-st "mirror_out       : std_logic_vector(7 DOWNTO 0)
-"
+st "mirror_out       : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *62 (Net
@@ -2071,8 +2067,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,46000,2700"
-st "mirror_in        : std_logic_vector(7 DOWNTO 0)
-"
+st "mirror_in        : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *63 (MWC
@@ -2282,8 +2277,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,40000,7200"
-st "SIGNAL dout             : std_logic
-"
+st "SIGNAL dout             : std_logic"
 )
 )
 *72 (Net
@@ -2301,8 +2295,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,4500,49500,5400"
-st "SIGNAL alphabet_out     : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL alphabet_out     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *73 (SaComponent
@@ -2518,8 +2511,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9000,49500,9900"
-st "SIGNAL s_out            : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL s_out            : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *81 (Net
@@ -2537,8 +2529,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,49500,6300"
-st "SIGNAL bla_plus_one_out : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL bla_plus_one_out : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *82 (Wire
