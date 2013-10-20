@@ -39,7 +39,7 @@ VIEW struct.bd
 GRAPHIC 2105,0 44 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2183,0 45 0 
+GRAPHIC 2320,0 45 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
 GRAPHIC 2195,0 46 0 
@@ -55,7 +55,7 @@ NO_GRAPHIC 49
 LIBRARY project1_lib
 DESIGN add_13
 VIEW struct
-GRAPHIC 2095,0 51 0 
+GRAPHIC 2310,0 51 0 
 DESIGN add_13
 VIEW symbol.sb
 GRAPHIC 112,0 53 0 
@@ -119,7 +119,7 @@ VIEW struct.bd
 NO_GRAPHIC 86
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2095,0 89 0 
+GRAPHIC 2310,0 89 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
 GRAPHIC 2219,0 90 0 
@@ -143,13 +143,13 @@ VIEW struct.bd
 NO_GRAPHIC 101
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2095,0 103 0 
+GRAPHIC 2310,0 103 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
 GRAPHIC 2107,0 105 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2185,0 106 0 
+GRAPHIC 2322,0 106 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
 GRAPHIC 2219,0 108 0 
@@ -173,10 +173,10 @@ VIEW struct.bd
 GRAPHIC 2143,0 120 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2185,0 122 0 
+GRAPHIC 2326,0 122 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
-GRAPHIC 2189,0 123 0 
+GRAPHIC 2322,0 123 0 
 DESIGN z_ascii_mirror
 VIEW struct.bd
 GRAPHIC 2273,0 124 0 

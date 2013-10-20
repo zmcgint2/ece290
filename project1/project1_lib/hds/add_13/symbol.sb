@@ -455,7 +455,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-26.ews.illinois.edu"
+value "gelib-057-05.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -551,7 +551,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "17:20:03"
+value "19:55:57"
 )
 (vvPair
 variable "unit"
@@ -618,8 +618,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,1800,70500,2700"
-st "input       : IN     std_logic_vector (7 DOWNTO 0) ;
-"
+st "input       : IN     std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 decl (Decl
@@ -665,8 +664,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "44000,2700,69500,3600"
-st "out_plus_13 : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "out_plus_13 : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 m 1
@@ -1384,6 +1382,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 121,0
+lastUid 144,0
 activeModelName "Symbol:CDM"
 )
