@@ -1,0 +1,104 @@
+DESIGN subtract1
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 121,0 14 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 131,0 15 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 116,0 16 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 23
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 41,0 32 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 311,0 43 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 344,0 44 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 46
+LIBRARY project1_lib
+DESIGN full_adder_8bit_bus
+VIEW struct
+GRAPHIC 161,0 48 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 172,0 50 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 177,0 51 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 118,0 52 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 123,0 53 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 182,0 54 0 
+LIBRARY project1_lib
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 161,0 60 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 334,0 65 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 247,0 68 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 161,0 73 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 225,0 75 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 313,0 76 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 346,0 77 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 233,0 78 0 
+DESIGN subtract1
+VIEW struct.bd
+GRAPHIC 221,0 79 0 
+DESIGN subtract1
+VIEW struct.bd
+NO_GRAPHIC 82
