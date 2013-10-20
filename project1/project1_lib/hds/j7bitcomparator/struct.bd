@@ -263,19 +263,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/j7bitcomparator"
 )
 (vvPair
 variable "date"
-value "10/16/13"
+value "10/20/13"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "16"
+value "20"
 )
 (vvPair
 variable "entity_name"
@@ -303,7 +303,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-26.ews.illinois.edu"
+value "evrt-252-17.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -399,7 +399,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "11:24:53"
+value "17:38:52"
 )
 (vvPair
 variable "unit"
@@ -16255,12 +16255,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,2,1928,1088"
-viewArea "-30100,-600,58976,48436"
+windowSize "-6,28,1914,1059"
+viewArea "-30100,-4912,53053,38600"
 cachedDiagramExtent "-48000,-20100,96000,65000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-69000,-51000"
-lastUid 15052,0
+lastUid 15107,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

@@ -291,7 +291,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "00:42:02"
+value "00:42:13"
 )
 (vvPair
 variable "unit"
@@ -1262,8 +1262,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,3600,36500,4500"
-st "cout             : std_logic
-"
+st "cout             : std_logic"
 )
 )
 *33 (Net
@@ -1281,8 +1280,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,49500,6300"
-st "SIGNAL b_in             : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL b_in             : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *34 (Net
@@ -1299,8 +1297,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,40000,7200"
-st "SIGNAL dout             : std_logic
-"
+st "SIGNAL dout             : std_logic"
 )
 )
 *35 (Net
@@ -1318,8 +1315,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,46000,2700"
-st "bla_in           : std_logic_vector(7 DOWNTO 0)
-"
+st "bla_in           : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *36 (Net
@@ -1337,8 +1333,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,46000,3600"
-st "bla_plus_one_out : std_logic_vector(7 DOWNTO 0)
-"
+st "bla_plus_one_out : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *37 (MWC

@@ -7,14 +7,13 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -nopsl -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.z_ascii_mirror(struct) 
-# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
-# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -nopsl -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.z_test_encrypt_decrypt_ascii_mirror(struct) 
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
+# Loading work.z_test_encrypt_decrypt_ascii_mirror(struct)#1
 # Loading work.z_ascii_mirror(struct)#1
 # Loading work.add_13(struct)#1
 # Loading work.full_adder_8bit(struct)#1
@@ -24,13 +23,15 @@
 # Loading work.full_adder_8bit_bus(struct)#1
 # Loading work.inv_and_add1_bus(struct)#1
 # Loading work.subtract1(struct)#1
-do z_ascii_mirror_test.do
+z_test_encrypt_decrypt_ascii_mirror.do
+# invalid command name "z_test_encrypt_decrypt_ascii_mirror.do"
+do z_test_encrypt_decrypt_ascii_mirror.do
 add wave -position insertpoint  \
-sim:/z_ascii_mirror/mirror_in
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_in
 add wave -position insertpoint  \
-sim:/z_ascii_mirror/mirror_out
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_out1
 add wave -position insertpoint  \
-sim:/z_ascii_mirror/alphabet_out
-run 60
-# 0
-# 
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_out
+run 140
+emacs z_test_encrypt_decrypt_ascii_mirror
+emacs z_test_encrypt_decrypt_ascii_mirror.do

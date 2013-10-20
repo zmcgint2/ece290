@@ -447,19 +447,19 @@ value "/home/jschen3/ece290git/ece290/project1/project1_lib/hds/j21mux"
 )
 (vvPair
 variable "date"
-value "10/19/13"
+value "10/20/13"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "19"
+value "20"
 )
 (vvPair
 variable "entity_name"
@@ -487,7 +487,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-05.ews.illinois.edu"
+value "evrt-252-17.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -583,7 +583,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "14:35:49"
+value "17:02:36"
 )
 (vvPair
 variable "unit"

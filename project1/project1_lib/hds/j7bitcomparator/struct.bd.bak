@@ -399,7 +399,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "11:21:20"
+value "11:24:53"
 )
 (vvPair
 variable "unit"
@@ -2934,8 +2934,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-12900,-5000,-12000"
-st "A6          : std_logic
-"
+st "A6          : std_logic"
 )
 )
 *79 (Net
@@ -2952,8 +2951,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-6600,-5000,-5700"
-st "B6          : std_logic
-"
+st "B6          : std_logic"
 )
 )
 *80 (Net
@@ -2970,8 +2968,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-13800,-5000,-12900"
-st "A5          : std_logic
-"
+st "A5          : std_logic"
 )
 )
 *81 (Net
@@ -2988,8 +2985,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-7500,-5000,-6600"
-st "B5          : std_logic
-"
+st "B5          : std_logic"
 )
 )
 *82 (Net
@@ -3006,8 +3002,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-14700,-5000,-13800"
-st "A4          : std_logic
-"
+st "A4          : std_logic"
 )
 )
 *83 (Net
@@ -3024,8 +3019,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-8400,-5000,-7500"
-st "B4          : std_logic
-"
+st "B4          : std_logic"
 )
 )
 *84 (Net
@@ -3042,8 +3036,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-15600,-5000,-14700"
-st "A3          : std_logic
-"
+st "A3          : std_logic"
 )
 )
 *85 (Net
@@ -3060,8 +3053,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-9300,-5000,-8400"
-st "B3          : std_logic
-"
+st "B3          : std_logic"
 )
 )
 *86 (Net
@@ -3078,8 +3070,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-16500,-5000,-15600"
-st "A2          : std_logic
-"
+st "A2          : std_logic"
 )
 )
 *87 (Net
@@ -3096,8 +3087,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-10200,-5000,-9300"
-st "B2          : std_logic
-"
+st "B2          : std_logic"
 )
 )
 *88 (Net
@@ -3114,8 +3104,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-17400,-5000,-16500"
-st "A1          : std_logic
-"
+st "A1          : std_logic"
 )
 )
 *89 (Net
@@ -3132,8 +3121,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-11100,-5000,-10200"
-st "B1          : std_logic
-"
+st "B1          : std_logic"
 )
 )
 *90 (Net
@@ -3150,8 +3138,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-18300,-5000,-17400"
-st "A0          : std_logic
-"
+st "A0          : std_logic"
 )
 )
 *91 (Net
@@ -3168,8 +3155,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-12000,-5000,-11100"
-st "B0          : std_logic
-"
+st "B0          : std_logic"
 )
 )
 *92 (MWC
@@ -3814,8 +3800,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-2100,-1500,-1200"
-st "SIGNAL AequalsB    : std_logic
-"
+st "SIGNAL AequalsB    : std_logic"
 )
 )
 *121 (Net
@@ -3832,8 +3817,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-1200,-1500,-300"
-st "SIGNAL AequalsB1   : std_logic
-"
+st "SIGNAL AequalsB1   : std_logic"
 )
 )
 *122 (Net
@@ -3850,8 +3834,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-300,-1500,600"
-st "SIGNAL AequalsB2   : std_logic
-"
+st "SIGNAL AequalsB2   : std_logic"
 )
 )
 *123 (Net
@@ -3868,8 +3851,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,600,-1500,1500"
-st "SIGNAL AequalsB3   : std_logic
-"
+st "SIGNAL AequalsB3   : std_logic"
 )
 )
 *124 (Net
@@ -3886,8 +3868,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,1500,-1500,2400"
-st "SIGNAL AequalsB4   : std_logic
-"
+st "SIGNAL AequalsB4   : std_logic"
 )
 )
 *125 (Net
@@ -3904,8 +3885,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,2400,-1500,3300"
-st "SIGNAL AequalsB5   : std_logic
-"
+st "SIGNAL AequalsB5   : std_logic"
 )
 )
 *126 (Net
@@ -3922,8 +3902,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,3300,-1500,4200"
-st "SIGNAL AequalsB6   : std_logic
-"
+st "SIGNAL AequalsB6   : std_logic"
 )
 )
 *127 (MWC
@@ -5180,8 +5159,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,15000,-1500,15900"
-st "SIGNAL din6        : std_logic
-"
+st "SIGNAL din6        : std_logic"
 )
 )
 *184 (Net
@@ -5198,8 +5176,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,15900,-1500,16800"
-st "SIGNAL din7        : std_logic
-"
+st "SIGNAL din7        : std_logic"
 )
 )
 *185 (MWC
@@ -5786,8 +5763,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,14100,-1500,15000"
-st "SIGNAL din5        : std_logic
-"
+st "SIGNAL din5        : std_logic"
 )
 )
 *212 (MWC
@@ -6374,8 +6350,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,16800,-1500,17700"
-st "SIGNAL din8        : std_logic
-"
+st "SIGNAL din8        : std_logic"
 )
 )
 *239 (PortIoOut
@@ -6437,8 +6412,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-5700,-5000,-4800"
-st "A7equalsB7  : std_logic
-"
+st "A7equalsB7  : std_logic"
 )
 )
 *241 (MWC
@@ -7491,8 +7465,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,13200,-1500,14100"
-st "SIGNAL din4        : std_logic
-"
+st "SIGNAL din4        : std_logic"
 )
 )
 *290 (Net
@@ -7509,8 +7482,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,4200,-1500,5100"
-st "SIGNAL AgreaterB   : std_logic
-"
+st "SIGNAL AgreaterB   : std_logic"
 )
 )
 *291 (MWC
@@ -7993,8 +7965,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,12300,-1500,13200"
-st "SIGNAL din3        : std_logic
-"
+st "SIGNAL din3        : std_logic"
 )
 )
 *314 (MWC
@@ -8475,8 +8446,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,17700,-1500,18600"
-st "SIGNAL din9        : std_logic
-"
+st "SIGNAL din9        : std_logic"
 )
 )
 *337 (MWC
@@ -8907,8 +8877,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,11400,-1500,12300"
-st "SIGNAL din2        : std_logic
-"
+st "SIGNAL din2        : std_logic"
 )
 )
 *358 (MWC
@@ -9339,8 +9308,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,6900,-1500,7800"
-st "SIGNAL din10       : std_logic
-"
+st "SIGNAL din10       : std_logic"
 )
 )
 *379 (MWC
@@ -9719,8 +9687,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,6000,-1500,6900"
-st "SIGNAL din1        : std_logic
-"
+st "SIGNAL din1        : std_logic"
 )
 )
 *398 (MWC
@@ -10097,8 +10064,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,7800,-1500,8700"
-st "SIGNAL din11       : std_logic
-"
+st "SIGNAL din11       : std_logic"
 )
 )
 *417 (MWC
@@ -10828,8 +10794,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,18600,-1500,19500"
-st "SIGNAL dout        : std_logic
-"
+st "SIGNAL dout        : std_logic"
 )
 )
 *451 (Net
@@ -10846,8 +10811,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,19500,-1500,20400"
-st "SIGNAL dout1       : std_logic
-"
+st "SIGNAL dout1       : std_logic"
 )
 )
 *452 (Net
@@ -10864,8 +10828,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,21300,-1500,22200"
-st "SIGNAL dout2       : std_logic
-"
+st "SIGNAL dout2       : std_logic"
 )
 )
 *453 (Net
@@ -10882,8 +10845,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,8700,-1500,9600"
-st "SIGNAL din12       : std_logic
-"
+st "SIGNAL din12       : std_logic"
 )
 )
 *454 (Net
@@ -10900,8 +10862,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,22200,-1500,23100"
-st "SIGNAL dout3       : std_logic
-"
+st "SIGNAL dout3       : std_logic"
 )
 )
 *455 (Net
@@ -10918,8 +10879,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,23100,-1500,24000"
-st "SIGNAL dout4       : std_logic
-"
+st "SIGNAL dout4       : std_logic"
 )
 )
 *456 (PortIoOut
@@ -10981,8 +10941,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-3900,-5000,-3000"
-st "B7greaterA7 : std_logic
-"
+st "B7greaterA7 : std_logic"
 )
 )
 *458 (Net
@@ -10999,8 +10958,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,9600,-1500,10500"
-st "SIGNAL din13       : std_logic
-"
+st "SIGNAL din13       : std_logic"
 )
 )
 *459 (MWC
@@ -11730,8 +11688,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,24000,-1500,24900"
-st "SIGNAL dout5       : std_logic
-"
+st "SIGNAL dout5       : std_logic"
 )
 )
 *493 (Net
@@ -11748,8 +11705,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,24900,-1500,25800"
-st "SIGNAL dout6       : std_logic
-"
+st "SIGNAL dout6       : std_logic"
 )
 )
 *494 (Net
@@ -11766,8 +11722,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,25800,-1500,26700"
-st "SIGNAL dout7       : std_logic
-"
+st "SIGNAL dout7       : std_logic"
 )
 )
 *495 (Net
@@ -11784,8 +11739,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,26700,-1500,27600"
-st "SIGNAL dout9       : std_logic
-"
+st "SIGNAL dout9       : std_logic"
 )
 )
 *496 (Net
@@ -11802,8 +11756,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,20400,-1500,21300"
-st "SIGNAL dout10      : std_logic
-"
+st "SIGNAL dout10      : std_logic"
 )
 )
 *497 (PortIoOut
@@ -11865,8 +11818,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,5100,-1500,6000"
-st "SIGNAL din0        : std_logic
-"
+st "SIGNAL din0        : std_logic"
 )
 )
 *499 (Net
@@ -11883,8 +11835,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,10500,-1500,11400"
-st "SIGNAL din14       : std_logic
-"
+st "SIGNAL din14       : std_logic"
 )
 )
 *500 (Net
@@ -11901,8 +11852,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "-17000,-4800,-5000,-3900"
-st "A7greaterB7 : std_logic
-"
+st "A7greaterB7 : std_logic"
 )
 )
 *501 (Wire
