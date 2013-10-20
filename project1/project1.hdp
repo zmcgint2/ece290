@@ -3,11 +3,13 @@ project1_lib = $HDS_PROJECT_DIR/project1_lib/work
 [ModelSim_Invoke_Dir]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/sim
 [hdl]
+comparator_backup_lib = /home/hkiang2/ece290_super/ece290/comparator_backup/comparator_lib/hdl
 comparator_lib = /home/hkiang2/ece290_super/ece290/comparator/comparator_lib/hdl
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
 PROJECT1_LIB1 = /home/hkiang2/ece290_super/comparator_backup/comparator_lib/hdl
 PROJECT1_LIB2 = /home/hkiang2/Desktop/comparator_backup/comparator_lib/hdl
 [hds]
+comparator_backup_lib = /home/hkiang2/ece290_super/ece290/comparator_backup/comparator_lib/hds
 comparator_lib = /home/hkiang2/ece290_super/ece290/comparator/comparator_lib/hds
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
 PROJECT1_LIB1 = $HDS_PROJECT_DIR/PROJECT1_LIB1/hds
@@ -17,10 +19,12 @@ default_library = project1_lib
 project_description = encryption project
 version = 2
 [library_files_inclusion]
+comparator_backup_lib = all
 comparator_lib = all
 PROJECT1_LIB1 = all
 PROJECT1_LIB2 = all
 [library_type]
+comparator_backup_lib = regular
 comparator_lib = regular
 project1_lib = regular
 PROJECT1_LIB1 = regular
