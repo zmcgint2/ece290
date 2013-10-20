@@ -8,9 +8,6 @@
 LIBRARY project1_lib;
 CONFIGURATION z_ascii_mirror_struct_config OF z_ascii_mirror IS
    FOR struct
-      FOR ALL : add1
-         USE CONFIGURATION project1_lib.add1_struct_config;
-      END FOR;
       FOR ALL : add_13
          USE CONFIGURATION project1_lib.add_13_struct_config;
       END FOR;

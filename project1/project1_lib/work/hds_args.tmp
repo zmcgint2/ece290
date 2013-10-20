@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.function_cipher_decrypt(struct)
-=======
- -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.jceasarshiftdecode(struct)
->>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
-=======
  -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays -nopsl project1_lib.z_ascii_mirror(struct)
->>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f

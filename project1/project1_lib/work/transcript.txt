@@ -7,64 +7,14 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-<<<<<<< HEAD
-<<<<<<< HEAD
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.function_cipher_decrypt(struct) 
-=======
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.jceasarshiftdecode(struct) 
-=======
 # vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -nopsl -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.z_ascii_mirror(struct) 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
-# ** Note: (vsim-3812) Design is being optimized...
-=======
 # ** Note: (vsim-3813) Design is being optimized due to module recompilation...
->>>>>>> 22e983e2b3ca688b007b937a050567d78ee2fdc3
 # ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
->>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
->>>>>>> f1b97a854b07ebd72d308634e5ea47732edc904d
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Loading work.function_cipher_decrypt(struct)#1
-# Loading work.add_97_lowercase_shift(struct)#1
-# Loading work.full_adder_8bit(struct)#1
-# Loading work.full_adder(struct)#1
-add wave -position insertpoint  \
-sim:/function_cipher_decrypt/a \
-sim:/function_cipher_decrypt/a1 \
-sim:/function_cipher_decrypt/a2 \
-sim:/function_cipher_decrypt/a3 \
-sim:/function_cipher_decrypt/a4 \
-sim:/function_cipher_decrypt/a5 \
-sim:/function_cipher_decrypt/a6 \
-sim:/function_cipher_decrypt/a7 \
-sim:/function_cipher_decrypt/out0 \
-sim:/function_cipher_decrypt/out1 \
-sim:/function_cipher_decrypt/out2 \
-sim:/function_cipher_decrypt/out3 \
-sim:/function_cipher_decrypt/out4 \
-sim:/function_cipher_decrypt/out5 \
-sim:/function_cipher_decrypt/out6 \
-sim:/function_cipher_decrypt/out7
-emacs function_cipher_decrypt.do
-do function_cipher_decrypt.do
-run 40
-=======
-# Loading work.jceasarshiftdecode(struct)#1
-# Loading work.full_adder_8bit(struct)#1
-# Loading work.full_adder(struct)#1
-# Loading work.j21mux(struct)#1
-# Loading work.j7bitcomparator(struct)#1
-# Loading work.j1bitcomparator(struct)#1
->>>>>>> f5e30d81319a42f97fbebc45cf9c05136ab7621e
-=======
 # Loading work.z_ascii_mirror(struct)#1
 # Loading work.add_13(struct)#1
 # Loading work.full_adder_8bit(struct)#1
@@ -73,15 +23,7 @@ run 40
 # Loading work.ascii_to_alphabet_bus(struct)#1
 # Loading work.full_adder_8bit_bus(struct)#1
 # Loading work.inv_and_add1_bus(struct)#1
-<<<<<<< HEAD
-=======
-emacs z_ascii_mirror_test.do
-<<<<<<< HEAD
-# Break key hit 
-# The connection to HDS has been closed 
->>>>>>> 36cafe8a3e96ca1dc26baeb9c257e839525a182f
-=======
->>>>>>> f1b97a854b07ebd72d308634e5ea47732edc904d
+# Loading work.subtract1(struct)#1
 do z_ascii_mirror_test.do
 add wave -position insertpoint  \
 sim:/z_ascii_mirror/mirror_in
@@ -89,22 +31,6 @@ add wave -position insertpoint  \
 sim:/z_ascii_mirror/mirror_out
 add wave -position insertpoint  \
 sim:/z_ascii_mirror/alphabet_out
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/dout
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/neg_out
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/out_plus_13
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/s_out
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/s_out
-add wave -position insertpoint  \
-sim:/z_ascii_mirror/s_out1
-<<<<<<< HEAD
-run 70
-=======
 run 60
-emacs z_ascii_mirror_test.do
->>>>>>> 22e983e2b3ca688b007b937a050567d78ee2fdc3
->>>>>>> f1b97a854b07ebd72d308634e5ea47732edc904d
+# 0
+# 

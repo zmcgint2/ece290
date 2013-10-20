@@ -415,19 +415,19 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/z_ascii_mirro
 )
 (vvPair
 variable "date"
-value "10/19/13"
+value "10/20/13"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Sun"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Sunday"
 )
 (vvPair
 variable "dd"
-value "19"
+value "20"
 )
 (vvPair
 variable "entity_name"
@@ -551,7 +551,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:15:46"
+value "00:57:51"
 )
 (vvPair
 variable "unit"
@@ -1382,6 +1382,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 678,0
+lastUid 816,0
 activeModelName "Symbol:CDM"
 )
