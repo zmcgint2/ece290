@@ -703,23 +703,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hdl"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb.info"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb.user"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -735,27 +735,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t"
 )
 (vvPair
 variable "d_logical"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/FINALLAYOUT"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/FINALLAYOUT"
 )
 (vvPair
 variable "date"
-value "10/20/13"
+value "10/22/13"
 )
 (vvPair
 variable "day"
-value "Sun"
+value "Tue"
 )
 (vvPair
 variable "day_long"
-value "Sunday"
+value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "20"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -783,7 +783,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "evrt-252-18.ews.illinois.edu"
+value "linux-v1.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -791,7 +791,15 @@ value "VHDL"
 )
 (vvPair
 variable "library"
-value "project1"
+value "project1_lib"
+)
+(vvPair
+variable "library_downstream_ModelSimCompiler"
+value "$HDS_PROJECT_DIR/project1_lib/work"
+)
+(vvPair
+variable "library_downstream_ModelSimSimulator"
+value "$HDS_PROJECT_DIR/project1_lib/sim"
 )
 (vvPair
 variable "mm"
@@ -811,11 +819,11 @@ value "October"
 )
 (vvPair
 variable "p"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/@f@i@n@a@l@l@a@y@o@u@t/symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "/home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds/FINALLAYOUT/symbol.sb"
+value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/FINALLAYOUT/symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -823,7 +831,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "comparator"
+value "project1"
 )
 (vvPair
 variable "series"
@@ -839,7 +847,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "/software/mentor/ModelSim-SE-10.1d/modeltech/bin"
+value "<TBD>"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -847,7 +855,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_PrecisionRTLPath"
-value "/software/mentor/PS2012b/Mgc_home/bin"
+value "<TBD>"
 )
 (vvPair
 variable "task_QuestaSimPath"
@@ -871,7 +879,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "17:55:03"
+value "02:58:25"
 )
 (vvPair
 variable "unit"
@@ -879,7 +887,7 @@ value "FINALLAYOUT"
 )
 (vvPair
 variable "user"
-value "cjpatil2"
+value "zmcgint2"
 )
 (vvPair
 variable "version"
@@ -1865,8 +1873,8 @@ uid 11,0
 va (VaSet
 font "courier,8,1"
 )
-xt "24750,15100,28750,16000"
-st "project1"
+xt "24750,15100,31250,16000"
+st "project1_lib"
 blo "24750,15800"
 )
 second (Text
@@ -2214,7 +2222,7 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "32200,49050,46200,49950"
+xt "32200,49050,48200,49950"
 st "
 %library/%unit/%view
 "
@@ -2550,6 +2558,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 599,0
+lastUid 622,0
 activeModelName "Symbol:CDM"
 )
