@@ -1,1 +1,1 @@
- -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays -nopsl project1_lib.z_test_encrypt_decrypt_ascii_mirror(struct)
+ -L project1_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays project1_lib.FINALLAYOUT(struct)
