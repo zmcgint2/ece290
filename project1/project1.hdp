@@ -15,6 +15,7 @@ default_library = project1_lib
 project_description = encryption project
 version = 2
 [library_files_inclusion]
+project1_lib = specify
 PROJECT1_LIB1 = all
 PROJECT1_LIB2 = all
 [library_type]
