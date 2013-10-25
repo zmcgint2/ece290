@@ -1,0 +1,18 @@
+[DesignChecker]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/designcheck
+[ModelSim]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/work
+[ModelSim_Invoke_Dir]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/sim
+[hdl]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
+[hds]
+project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
+[hds_settings]
+default_library = project1_lib
+project_description = encryption project
+version = 2
+[library_type]
+project1_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

@@ -1,0 +1,278 @@
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 41,0 31 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 707,0 42 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 689,0 43 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 705,0 44 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 709,0 45 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 679,0 46 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 719,0 47 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 723,0 48 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 695,0 49 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 711,0 50 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 725,0 51 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 715,0 52 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 54
+LIBRARY project1_lib
+DESIGN full_adder_8bit
+VIEW struct
+GRAPHIC 341,0 56 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 215,0 58 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 225,0 59 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 235,0 60 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 245,0 61 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 255,0 62 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 265,0 63 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 275,0 64 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 285,0 65 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 210,0 66 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 220,0 67 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 230,0 68 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 240,0 69 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 250,0 70 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 260,0 71 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 270,0 72 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 280,0 73 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 205,0 74 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 160,0 75 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 165,0 76 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 170,0 77 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 175,0 78 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 180,0 79 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 185,0 80 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 190,0 81 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 195,0 82 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 200,0 83 0 
+LIBRARY project1_lib
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 341,0 89 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 92
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 322,0 94 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 109,0 97 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 205,0 100 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 181,0 103 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 277,0 106 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 133,0 109 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 229,0 112 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 157,0 115 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 253,0 118 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 301,0 121 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 124
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 341,0 126 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 595,0 128 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 631,0 129 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 559,0 130 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 621,0 131 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 555,0 132 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 635,0 133 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 645,0 134 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 671,0 135 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 605,0 136 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 527,0 137 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 531,0 138 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 535,0 139 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 539,0 140 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 543,0 141 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 547,0 142 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 551,0 143 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 509,0 144 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 657,0 145 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 617,0 146 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 613,0 147 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 649,0 148 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 609,0 149 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 653,0 150 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 575,0 151 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 661,0 152 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+GRAPHIC 591,0 153 0 
+DESIGN inv_and_add1_bus
+VIEW struct.bd
+NO_GRAPHIC 156
