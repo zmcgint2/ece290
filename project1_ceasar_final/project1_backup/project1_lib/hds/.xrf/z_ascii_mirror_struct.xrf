@@ -1,0 +1,239 @@
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+GRAPHIC 283,0 14 0 
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+GRAPHIC 147,0 15 0 
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN z_ascii_mirror
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 41,0 31 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3061,0 42 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3111,0 43 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2956,0 44 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2867,0 45 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2873,0 46 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3105,0 47 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2885,0 48 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 50
+LIBRARY project1_lib
+DESIGN add_13
+VIEW struct
+GRAPHIC 2741,0 52 0 
+DESIGN add_13
+VIEW symbol.sb
+GRAPHIC 112,0 54 0 
+DESIGN add_13
+VIEW symbol.sb
+GRAPHIC 117,0 55 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2845,0 58 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 119,0 60 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 124,0 61 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 114,0 62 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2671,0 65 0 
+DESIGN ascii_to_alphabet_bus
+VIEW symbol.sb
+GRAPHIC 119,0 67 0 
+DESIGN ascii_to_alphabet_bus
+VIEW symbol.sb
+GRAPHIC 124,0 68 0 
+DESIGN ascii_to_alphabet_bus
+VIEW symbol.sb
+GRAPHIC 114,0 69 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2771,0 72 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 172,0 74 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 177,0 75 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 118,0 76 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 123,0 77 0 
+DESIGN full_adder_8bit_bus
+VIEW symbol.sb
+GRAPHIC 182,0 78 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2723,0 81 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 112,0 83 0 
+DESIGN inv_and_add1_bus
+VIEW symbol.sb
+GRAPHIC 117,0 84 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3095,0 87 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 186,0 89 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 191,0 90 0 
+DESIGN subtract1
+VIEW symbol.sb
+GRAPHIC 131,0 91 0 
+LIBRARY project1_lib
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 94
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2741,0 97 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2845,0 98 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2671,0 99 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2771,0 100 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2723,0 101 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3095,0 102 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 105
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2946,0 107 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 110
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2741,0 112 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2869,0 114 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2875,0 115 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2845,0 117 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3113,0 119 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2911,0 120 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2671,0 123 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2689,0 125 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3063,0 126 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2771,0 129 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2879,0 131 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2875,0 132 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2962,0 133 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2887,0 135 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2781,0 137 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2887,0 139 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3073,0 140 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2958,0 141 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3107,0 143 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2723,0 145 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3063,0 147 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 2869,0 148 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3095,0 150 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3107,0 152 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+GRAPHIC 3113,0 153 0 
+DESIGN z_ascii_mirror
+VIEW struct.bd
+NO_GRAPHIC 157

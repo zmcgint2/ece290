@@ -1,26 +1,31 @@
 [ModelSim]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/work
+projectceasar = /home/jschen3/ece290git/ece290/project1_ceasar_final/projectceasar/work
 [ModelSim_Invoke_Dir]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/sim
 [hdl]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hdl
 PROJECT1_LIB1 = /home/hkiang2/ece290_super/comparator_backup/comparator_lib/hdl
 PROJECT1_LIB2 = /home/hkiang2/Desktop/comparator_backup/comparator_lib/hdl
+projectceasar = /home/jschen3/ece290git/ece290/project1_ceasar_final/project1_lib/hdl
 [hds]
 project1_lib = $HDS_PROJECT_DIR/project1_lib/hds
 PROJECT1_LIB1 = $HDS_PROJECT_DIR/PROJECT1_LIB1/hds
 PROJECT1_LIB2 = $HDS_PROJECT_DIR/PROJECT1_LIB2/hds
+projectceasar = /home/jschen3/ece290git/ece290/project1_ceasar_final/project1_lib/hds
 [hds_settings]
-default_library = project1_lib
+default_library = projectceasar
 project_description = encryption project
 version = 2
 [library_files_inclusion]
 project1_lib = specify
 PROJECT1_LIB1 = all
 PROJECT1_LIB2 = all
+projectceasar = all
 [library_type]
 project1_lib = regular
 PROJECT1_LIB1 = regular
 PROJECT1_LIB2 = regular
+projectceasar = regular
 [shared]
 others = $HDS_TEAM_HOME/shared.hdp
