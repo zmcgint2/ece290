@@ -8,6 +8,12 @@
 LIBRARY project1_lib;
 CONFIGURATION FINALLAYOUT_struct_config OF FINALLAYOUT IS
    FOR struct
+      FOR ALL : function_cipher
+         USE CONFIGURATION project1_lib.function_cipher_struct_config;
+      END FOR;
+      FOR ALL : function_cipher_decrypt
+         USE CONFIGURATION project1_lib.function_cipher_decrypt_struct_config;
+      END FOR;
       FOR ALL : xor_encode
          USE CONFIGURATION project1_lib.xor_encode_struct_config;
       END FOR;
