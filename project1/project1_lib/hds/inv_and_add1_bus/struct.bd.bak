@@ -300,7 +300,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "17:08:02"
+value "18:17:47"
 )
 (vvPair
 variable "unit"
@@ -725,7 +725,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -799,7 +799,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 21
+o 13
 )
 )
 )
@@ -969,7 +969,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -1043,7 +1043,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 25
+o 9
 )
 )
 )
@@ -1213,7 +1213,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -1287,7 +1287,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 3
+o 7
 )
 )
 )
@@ -1457,7 +1457,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -1531,7 +1531,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 19
+o 11
 )
 )
 )
@@ -1701,7 +1701,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -1775,7 +1775,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 26
+o 12
 )
 )
 )
@@ -1945,7 +1945,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -2019,7 +2019,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 23
+o 8
 )
 )
 )
@@ -2189,7 +2189,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -2263,7 +2263,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 18
+o 6
 )
 )
 )
@@ -2433,7 +2433,7 @@ thePort (LogicalPort
 decl (Decl
 n "din"
 t "std_logic"
-o 20
+o 1
 )
 )
 )
@@ -2507,7 +2507,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 11
+o 10
 )
 )
 )
@@ -2680,7 +2680,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 16
+o 5
 )
 )
 )
@@ -2893,7 +2893,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 8
+o 4
 )
 )
 )
@@ -4016,7 +4016,7 @@ uid 679,0
 decl (Decl
 n "dout3"
 t "std_logic"
-o 3
+o 7
 suid 3,0
 )
 declText (MLText
@@ -4034,7 +4034,7 @@ uid 689,0
 decl (Decl
 n "dout"
 t "std_logic"
-o 8
+o 4
 suid 8,0
 )
 declText (MLText
@@ -4052,7 +4052,7 @@ uid 695,0
 decl (Decl
 n "dout6"
 t "std_logic"
-o 11
+o 10
 suid 11,0
 )
 declText (MLText
@@ -4070,7 +4070,7 @@ uid 705,0
 decl (Decl
 n "dout1"
 t "std_logic"
-o 16
+o 5
 suid 16,0
 )
 declText (MLText
@@ -4088,7 +4088,7 @@ uid 707,0
 decl (Decl
 n "cout"
 t "std_logic"
-o 17
+o 3
 suid 17,0
 )
 declText (MLText
@@ -4106,7 +4106,7 @@ uid 709,0
 decl (Decl
 n "dout2"
 t "std_logic"
-o 18
+o 6
 suid 18,0
 )
 declText (MLText
@@ -4124,7 +4124,7 @@ uid 711,0
 decl (Decl
 n "dout7"
 t "std_logic"
-o 19
+o 11
 suid 19,0
 )
 declText (MLText
@@ -4142,7 +4142,7 @@ uid 715,0
 decl (Decl
 n "dout9"
 t "std_logic"
-o 21
+o 13
 suid 21,0
 )
 declText (MLText
@@ -4160,7 +4160,7 @@ uid 719,0
 decl (Decl
 n "dout4"
 t "std_logic"
-o 23
+o 8
 suid 23,0
 )
 declText (MLText
@@ -4178,7 +4178,7 @@ uid 723,0
 decl (Decl
 n "dout5"
 t "std_logic"
-o 25
+o 9
 suid 25,0
 )
 declText (MLText
@@ -4196,7 +4196,7 @@ uid 725,0
 decl (Decl
 n "dout8"
 t "std_logic"
-o 26
+o 12
 suid 26,0
 )
 declText (MLText
@@ -4306,7 +4306,7 @@ decl (Decl
 n "pos_in"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 20
+o 1
 suid 30,0
 )
 declText (MLText
@@ -4325,7 +4325,7 @@ decl (Decl
 n "neg_out"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 21
+o 2
 suid 31,0
 )
 declText (MLText
@@ -6208,12 +6208,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "623,164,1638,854"
-viewArea "-7980,0,71820,43764"
+windowSize "617,166,1632,856"
+viewArea "-8000,0,56944,42722"
 cachedDiagramExtent "-3000,0,69000,114045"
 hasePageBreakOrigin 1
-pageBreakOrigin "0,0"
-lastUid 856,0
+pageBreakOrigin "-69000,0"
+lastUid 885,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -7316,7 +7316,7 @@ m 4
 decl (Decl
 n "dout3"
 t "std_logic"
-o 3
+o 7
 suid 3,0
 )
 )
@@ -7328,7 +7328,7 @@ m 4
 decl (Decl
 n "dout"
 t "std_logic"
-o 8
+o 4
 suid 8,0
 )
 )
@@ -7340,7 +7340,7 @@ m 4
 decl (Decl
 n "dout6"
 t "std_logic"
-o 11
+o 10
 suid 11,0
 )
 )
@@ -7352,7 +7352,7 @@ m 4
 decl (Decl
 n "dout1"
 t "std_logic"
-o 16
+o 5
 suid 16,0
 )
 )
@@ -7364,7 +7364,7 @@ m 4
 decl (Decl
 n "cout"
 t "std_logic"
-o 17
+o 3
 suid 17,0
 )
 )
@@ -7376,7 +7376,7 @@ m 4
 decl (Decl
 n "dout2"
 t "std_logic"
-o 18
+o 6
 suid 18,0
 )
 )
@@ -7388,7 +7388,7 @@ m 4
 decl (Decl
 n "dout7"
 t "std_logic"
-o 19
+o 11
 suid 19,0
 )
 )
@@ -7400,7 +7400,7 @@ m 4
 decl (Decl
 n "dout9"
 t "std_logic"
-o 21
+o 13
 suid 21,0
 )
 )
@@ -7412,7 +7412,7 @@ m 4
 decl (Decl
 n "dout4"
 t "std_logic"
-o 23
+o 8
 suid 23,0
 )
 )
@@ -7424,7 +7424,7 @@ m 4
 decl (Decl
 n "dout5"
 t "std_logic"
-o 25
+o 9
 suid 25,0
 )
 )
@@ -7436,7 +7436,7 @@ m 4
 decl (Decl
 n "dout8"
 t "std_logic"
-o 26
+o 12
 suid 26,0
 )
 )
@@ -7448,7 +7448,7 @@ decl (Decl
 n "pos_in"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 20
+o 1
 suid 30,0
 )
 )
@@ -7461,7 +7461,7 @@ decl (Decl
 n "neg_out"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 21
+o 2
 suid 31,0
 )
 )
@@ -7519,79 +7519,79 @@ uid 72,0
 )
 *275 (MRCItem
 litem &257
-pos 0
+pos 2
 dimension 20
 uid 832,0
 )
 *276 (MRCItem
 litem &258
-pos 1
+pos 3
 dimension 20
 uid 834,0
 )
 *277 (MRCItem
 litem &259
-pos 2
+pos 4
 dimension 20
 uid 836,0
 )
 *278 (MRCItem
 litem &260
-pos 3
+pos 5
 dimension 20
 uid 838,0
 )
 *279 (MRCItem
 litem &261
-pos 4
+pos 6
 dimension 20
 uid 840,0
 )
 *280 (MRCItem
 litem &262
-pos 5
+pos 7
 dimension 20
 uid 842,0
 )
 *281 (MRCItem
 litem &263
-pos 6
+pos 8
 dimension 20
 uid 844,0
 )
 *282 (MRCItem
 litem &264
-pos 7
+pos 9
 dimension 20
 uid 846,0
 )
 *283 (MRCItem
 litem &265
-pos 8
+pos 10
 dimension 20
 uid 848,0
 )
 *284 (MRCItem
 litem &266
-pos 9
+pos 11
 dimension 20
 uid 850,0
 )
 *285 (MRCItem
 litem &267
-pos 10
+pos 12
 dimension 20
 uid 852,0
 )
 *286 (MRCItem
 litem &268
-pos 11
+pos 0
 dimension 20
 uid 854,0
 )
 *287 (MRCItem
 litem &269
-pos 12
+pos 1
 dimension 20
 uid 856,0
 )

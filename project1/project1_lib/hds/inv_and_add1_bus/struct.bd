@@ -164,19 +164,19 @@ value "/home/zmcgint2/ece290.work/ece290/project1/project1_lib/hds/inv_and_add1_
 )
 (vvPair
 variable "date"
-value "10/19/13"
+value "11/01/13"
 )
 (vvPair
 variable "day"
-value "Sat"
+value "Fri"
 )
 (vvPair
 variable "day_long"
-value "Saturday"
+value "Friday"
 )
 (vvPair
 variable "dd"
-value "19"
+value "01"
 )
 (vvPair
 variable "entity_name"
@@ -204,7 +204,7 @@ value "ews"
 )
 (vvPair
 variable "host"
-value "gelib-057-26.ews.illinois.edu"
+value "linux-v1.ews.illinois.edu"
 )
 (vvPair
 variable "language"
@@ -224,7 +224,7 @@ value "$HDS_PROJECT_DIR/project1_lib/sim"
 )
 (vvPair
 variable "mm"
-value "10"
+value "11"
 )
 (vvPair
 variable "module_name"
@@ -232,11 +232,11 @@ value "inv_and_add1_bus"
 )
 (vvPair
 variable "month"
-value "Oct"
+value "Nov"
 )
 (vvPair
 variable "month_long"
-value "October"
+value "November"
 )
 (vvPair
 variable "p"
@@ -300,7 +300,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "18:17:47"
+value "13:48:17"
 )
 (vvPair
 variable "unit"
@@ -481,9 +481,12 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "49200,47200,60200,48100"
+xt "49200,47200,66200,50800"
 st "
-<enter comments here>
+Inverts, or negates input number 
+and then add's 1 after that, 
+according to the process of
+converting to negative numbers
 "
 tm "CommentText"
 wrapOption 3
@@ -512,9 +515,9 @@ fg "0,0,32768"
 bg "0,0,32768"
 font "courier,8,0"
 )
-xt "53200,46050,57200,46950"
+xt "53200,46050,59700,46950"
 st "
-%project_name
+inv_and_add1
 "
 tm "CommentText"
 wrapOption 3
@@ -542,9 +545,11 @@ uid 31,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "34000,46500,43000,47500"
+xt "31000,46000,46000,48000"
 st "
-<company name>
+Invert and Add 1
+2's compemeent converter
+by Zach McGinty
 "
 ju 0
 tm "CommentText"
@@ -4025,8 +4030,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,8100,35500,9000"
-st "SIGNAL dout3   : std_logic
-"
+st "SIGNAL dout3   : std_logic"
 )
 )
 *140 (Net
@@ -4043,8 +4047,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,5400,35500,6300"
-st "SIGNAL dout    : std_logic
-"
+st "SIGNAL dout    : std_logic"
 )
 )
 *141 (Net
@@ -4061,8 +4064,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,10800,35500,11700"
-st "SIGNAL dout6   : std_logic
-"
+st "SIGNAL dout6   : std_logic"
 )
 )
 *142 (Net
@@ -4079,8 +4081,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,6300,35500,7200"
-st "SIGNAL dout1   : std_logic
-"
+st "SIGNAL dout1   : std_logic"
 )
 )
 *143 (Net
@@ -4097,8 +4098,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,4500,35500,5400"
-st "SIGNAL cout    : std_logic
-"
+st "SIGNAL cout    : std_logic"
 )
 )
 *144 (Net
@@ -4115,8 +4115,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,7200,35500,8100"
-st "SIGNAL dout2   : std_logic
-"
+st "SIGNAL dout2   : std_logic"
 )
 )
 *145 (Net
@@ -4133,8 +4132,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,11700,35500,12600"
-st "SIGNAL dout7   : std_logic
-"
+st "SIGNAL dout7   : std_logic"
 )
 )
 *146 (Net
@@ -4151,8 +4149,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,13500,35500,14400"
-st "SIGNAL dout9   : std_logic
-"
+st "SIGNAL dout9   : std_logic"
 )
 )
 *147 (Net
@@ -4169,8 +4166,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9000,35500,9900"
-st "SIGNAL dout4   : std_logic
-"
+st "SIGNAL dout4   : std_logic"
 )
 )
 *148 (Net
@@ -4187,8 +4183,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,9900,35500,10800"
-st "SIGNAL dout5   : std_logic
-"
+st "SIGNAL dout5   : std_logic"
 )
 )
 *149 (Net
@@ -4205,8 +4200,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,12600,35500,13500"
-st "SIGNAL dout8   : std_logic
-"
+st "SIGNAL dout8   : std_logic"
 )
 )
 *150 (PortIoIn
@@ -4315,8 +4309,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,1800,41500,2700"
-st "pos_in  : std_logic_vector(7 DOWNTO 0)
-"
+st "pos_in  : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *153 (Net
@@ -4334,8 +4327,7 @@ va (VaSet
 font "courier,8,0"
 )
 xt "22000,2700,41500,3600"
-st "neg_out : std_logic_vector(7 DOWNTO 0)
-"
+st "neg_out : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *154 (Wire
@@ -6208,12 +6200,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "617,166,1632,856"
-viewArea "-8000,0,56944,42722"
+windowSize "-8,25,1928,1208"
+viewArea "-8000,-14560,111910,58240"
 cachedDiagramExtent "-3000,0,69000,114045"
 hasePageBreakOrigin 1
 pageBreakOrigin "-69000,0"
-lastUid 885,0
+lastUid 914,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

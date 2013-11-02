@@ -7,13 +7,28 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.FINALLAYOUT(struct) 
-# ** Note: (vsim-3812) Design is being optimized...
-# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -nopsl -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.z_test_encrypt_decrypt_ascii_mirror(struct) 
 # Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.std_logic_arith(body)
-# Loading work.finallayout(struct)#1
-# Loading work.xor_encode(struct)#1
+# Loading work.z_test_encrypt_decrypt_ascii_mirror(struct)#1
+# Loading work.z_ascii_mirror(struct)#1
+# Loading work.add_13(struct)#1
+# Loading work.full_adder_8bit(struct)#1
+# Loading work.full_adder(struct)#1
+# Loading work.alphabet_to_ascii_bus(struct)#1
+# Loading work.ascii_to_alphabet_bus(struct)#1
+# Loading work.full_adder_8bit_bus(struct)#1
+# Loading work.inv_and_add1_bus(struct)#1
+# Loading work.subtract1(struct)#1
+do z_ascii_mirror_test.do
+add wave -position insertpoint  \
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_in
+add wave -position insertpoint  \
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_out1
+add wave -position insertpoint  \
+sim:/z_test_encrypt_decrypt_ascii_mirror/mirror_out
+run 90
+# Causality operation skipped due to absense of debug database file
