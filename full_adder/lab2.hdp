@@ -1,0 +1,13 @@
+[ModelSim]
+lab2_lib = $HDS_PROJECT_DIR/lab2_lib/work
+[hdl]
+lab2_lib = $HDS_PROJECT_DIR/lab2_lib/hdl
+[hds]
+lab2_lib = $HDS_PROJECT_DIR/lab2_lib/hds
+[hds_settings]
+default_library = lab2_lib
+version = 2
+[library_type]
+lab2_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

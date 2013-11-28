@@ -1,0 +1,12 @@
+[hdl]
+lab4_lib = $HDS_PROJECT_DIR/lab4_lib/hdl
+[hds]
+lab4_lib = $HDS_PROJECT_DIR/lab4_lib/hds
+[hds_settings]
+default_library = lab4_lib
+project_description = lab4
+version = 2
+[library_type]
+lab4_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

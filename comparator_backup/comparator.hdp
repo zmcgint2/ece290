@@ -1,0 +1,18 @@
+[ModelSim]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/work
+[hdl]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/hdl
+project1 = /home/cjpatil2/ece290.work/ece290/project1/project1_lib/hdl
+[hds]
+comparator_lib = $HDS_PROJECT_DIR/comparator_lib/hds
+project1 = /home/cjpatil2/ece290.work/ece290/project1/project1_lib/hds
+[hds_settings]
+default_library = comparator_lib
+version = 2
+[library_files_inclusion]
+project1 = all
+[library_type]
+comparator_lib = regular
+project1 = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

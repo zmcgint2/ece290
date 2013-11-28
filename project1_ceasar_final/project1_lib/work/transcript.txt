@@ -1,0 +1,23 @@
+# //  ModelSim SE 10.1d Nov  1 2012 Linux 2.6.32-220.23.1.el6.engrit1.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.jceasarshiftdecode(struct) 
+# Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.jceasarshiftdecode(struct)#1
+# Loading work.full_adder_8bit(struct)#1
+# Loading work.full_adder(struct)#1
+# Loading work.j21mux(struct)#1
+# Loading work.j7bitcomparator(struct)#1
+# Loading work.j1bitcomparator(struct)#1
+do jceasarshiftdecode.do
+run 3

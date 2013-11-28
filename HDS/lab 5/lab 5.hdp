@@ -1,0 +1,11 @@
+[hdl]
+lab_5_lib = $HDS_PROJECT_DIR/lab_5_lib/hdl
+[hds]
+lab_5_lib = $HDS_PROJECT_DIR/lab_5_lib/hds
+[hds_settings]
+default_library = lab_5_lib
+version = 2
+[library_type]
+lab_5_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

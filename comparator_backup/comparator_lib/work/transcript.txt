@@ -1,0 +1,44 @@
+# //  ModelSim SE 10.1d Nov  1 2012 Linux 2.6.32-220.23.1.el6.engrit1.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L comparator_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} comparator_lib.signed_2s_complement_8_bit_comparator(struct) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.signed_2s_complement_8_bit_comparator(struct)#1
+emacs 2s_comparator_8_bit.do
+do 2s_comparator_8_bit.do
+add wave -position insertpoint  \
+sim:/signed_2s_complement_8_bit_comparator/a0 \
+sim:/signed_2s_complement_8_bit_comparator/a1 \
+sim:/signed_2s_complement_8_bit_comparator/a2 \
+sim:/signed_2s_complement_8_bit_comparator/a3 \
+sim:/signed_2s_complement_8_bit_comparator/a4 \
+sim:/signed_2s_complement_8_bit_comparator/a5 \
+sim:/signed_2s_complement_8_bit_comparator/a6 \
+sim:/signed_2s_complement_8_bit_comparator/b0 \
+sim:/signed_2s_complement_8_bit_comparator/b1 \
+sim:/signed_2s_complement_8_bit_comparator/b2 \
+sim:/signed_2s_complement_8_bit_comparator/b3 \
+sim:/signed_2s_complement_8_bit_comparator/b4 \
+sim:/signed_2s_complement_8_bit_comparator/b5 \
+sim:/signed_2s_complement_8_bit_comparator/b6 \
+sim:/signed_2s_complement_8_bit_comparator/signbit_a \
+sim:/signed_2s_complement_8_bit_comparator/signbit_b \
+sim:/signed_2s_complement_8_bit_comparator/out_equal \
+sim:/signed_2s_complement_8_bit_comparator/out_greater \
+sim:/signed_2s_complement_8_bit_comparator/out_less \
+sim:/signed_2s_complement_8_bit_comparator/a_equal_b_unsigned \
+sim:/signed_2s_complement_8_bit_comparator/a_greater_b_unsigned \
+sim:/signed_2s_complement_8_bit_comparator/a_less_b_unsigned
+run 40

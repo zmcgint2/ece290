@@ -1,0 +1,230 @@
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 119,0 14 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 124,0 15 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 114,0 16 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN alphabet_to_ascii_bus
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 23
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 41,0 32 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 483,0 43 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 513,0 44 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 46
+LIBRARY project1_lib
+DESIGN full_adder_8bit
+VIEW struct
+GRAPHIC 197,0 48 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 215,0 50 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 225,0 51 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 235,0 52 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 245,0 53 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 255,0 54 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 265,0 55 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 275,0 56 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 285,0 57 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 210,0 58 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 220,0 59 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 230,0 60 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 240,0 61 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 250,0 62 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 260,0 63 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 270,0 64 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 280,0 65 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 205,0 66 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 160,0 67 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 165,0 68 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 170,0 69 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 175,0 70 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 180,0 71 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 185,0 72 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 190,0 73 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 195,0 74 0 
+DESIGN full_adder_8bit
+VIEW symbol.sb
+GRAPHIC 200,0 75 0 
+LIBRARY project1_lib
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 78
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 197,0 81 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 84
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 109,0 86 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 128,0 89 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 92
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 197,0 94 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 549,0 96 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 555,0 97 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 561,0 98 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 567,0 99 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 573,0 100 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 579,0 101 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 585,0 102 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 591,0 103 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 365,0 104 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 411,0 105 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 407,0 106 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 403,0 107 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 399,0 108 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 377,0 109 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 373,0 110 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 387,0 111 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 381,0 112 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 653,0 113 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 597,0 114 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 603,0 115 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 609,0 116 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 615,0 117 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 621,0 118 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 627,0 119 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 633,0 120 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+GRAPHIC 639,0 121 0 
+DESIGN alphabet_to_ascii_bus
+VIEW struct.bd
+NO_GRAPHIC 124

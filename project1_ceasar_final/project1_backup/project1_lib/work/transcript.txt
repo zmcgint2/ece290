@@ -1,0 +1,32 @@
+# //  ModelSim SE 10.1d Nov  1 2012 Linux 2.6.32-220.23.1.el6.engrit1.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L project1_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli {"/software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll"} project1_lib.jceasarshiftdecode(struct) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-3865) Due to PLI being present, full design access is being specified.
+# Loading /software/mentor/HDS_2012.1/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.jceasarshiftdecode(struct)#1
+# Loading work.full_adder_8bit(struct)#1
+# Loading work.full_adder(struct)#1
+# Loading work.j21mux(struct)#1
+# Loading work.j7bitcomparator(struct)#1
+# Loading work.j1bitcomparator(struct)#1
+# internal error on MenuItemCan 
+# m is .mBar.activewindowx label is Show state is normal 
+#  Trace back:  
+#    <4: ::Vsimmenu::MenuItemCan .mBar.activewindowx Show normal 
+#    <3: ::QStructure::Action .main_pane.structure SetMenuState {{can_view_declaration {::Vsimmenu::MenuItemCan .mBar.activewindowx {View Declaration}}} {can_view_instantiation {::Vsimmenu::MenuItemCan .mBar.activewindowx {View Instantiation}}} {can_create_wave {::Vsimmenu::MenuItemCan .mBar.activewindowx {Create Wave}}} {can_coverage {::Vsimmenu::MenuItemCan .mBar.activewindowx {Code Coverage}}} {can_testanalysis {::Vsimmenu::MenuItemCan .mBar.activewindowx {Test Analysis}}} {can_xmlimporthint {::Vsimmenu::MenuItemCan .mBar.activewindowx {XML Import Hint}}} {can_externaledit {::Vsimmenu::MenuItemCan .mBar.activewindowx {Open in external editor}}} {can_filter {::Vsimmenu::MenuItemCan .mBar.activewindowx Show}}} 
+#    >2: ::.vcop Action SetMenuState {{can_view_declaration {::Vsimmenu::MenuItemCan .mBar.activewindowx {View Declaration}}} {can_view_instantiation {::Vsimmenu::MenuItemCan .mBar.activewindowx {View Instantiation}}} {can_create_wave {::Vsimmenu::MenuItemCan .mBar.activewindowx {Create Wave}}} {can_coverage {::Vsimmenu::MenuItemCan .mBar.activewindowx {Code Coverage}}} {can_testanalysis {::Vsimmenu::MenuItemCan .mBar.activewindowx {Test Analysis}}} {can_xmlimporthint {::Vsimmenu::MenuItemCan .mBar.activewindowx {XML Import Hint}}} {can_externaledit {::Vsimmenu::MenuItemCan .mBar.activewindowx {Open in external editor}}} {can_filter {::Vsimmenu::MenuItemCan .mBar.activewindowx Show}}} 
+#    <1: ::Vsimmenu::DefaultMenuPostCmd .mBar.activewindowx {.vcop Action active_window_menu .mBar.activewindowx} SetMenuState 
+do jceasarshiftdecode.do
+run 3

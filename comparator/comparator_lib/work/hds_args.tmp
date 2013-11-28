@@ -1,0 +1,1 @@
+ -L comparator_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays comparator_lib.signed_2s_compl_compare(struct)

@@ -1,0 +1,2 @@
+DEFAULT_FILE atom signed_2s_complement_8_bit_comparator/struct.bd
+DEFAULT_ARCHITECTURE atom struct

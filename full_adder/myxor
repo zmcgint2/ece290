@@ -1,0 +1,461 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%BoundingBox: 0 0 612 792
+%%Creator: IlogViews Dump module
+%%Date: Sat Sep 14 00:17:31 2013
+%%Pages: (atend)
+%%BeginProlog
+80 dict begin
+/ilvlw true def
+/bd{bind def}bind def/ld{load def}bd/x/exch ld
+/t/translate ld/G/gsave ld/g/grestore ld/M/moveto ld
+/L/lineto ld/rM/rmoveto ld/rL/rlineto ld
+/r/roll ld/n/newpath ld/sc/gsave ld/c/closepath ld
+/slw/setlinewidth ld
+/s{ilvlw{stroke}{matrix currentmatrix imtrx
+   setmatrix stroke setmatrix}ifelse}bd
+/rc{currentrgbcolor currentlinewidth currentdash
+currentfont grestore setfont setdash slw setrgbcolor}bd
+/fillpat{flattenpath pathbbox G 5 -1 r
+    {eoclip}{clip}ifelse 3 -1 r dup 0 x t sub
+    3 1 r x dup 0 t sub 4 -1 r dup 3 1 r div ceiling
+    cvi 1 add 4 2 r 1 index div ceiling cvi 1 add
+    {3 copy pop G{4 index exec dup 0 t}repeat
+     g pop dup 0 x t}repeat g 4{pop}repeat}bd
+/rect{M dup 0 x rL x 0 rL neg 0 x rL c}bd
+/ilvshow{
+  {pop pop currentpoint round x round x M}x kshow}bd
+/readpattern{
+ mul string currentfile /ASCII85Decode filter  x readstring pop /p x def } bd
+/imtrx matrix currentmatrix def
+/Latin1Encoding [
+    [8#202/quotesinglbase][8#203/florin]
+    [8#204/quotedblbase][8#205/ellipsis]
+    [8#206/dagger][8#207/daggerdbl]
+    [8#210/circumflex][8#211/perthousand]
+    [8#212/Scaron][8#213/guilsinglleft]
+    [8#214/OE][8#221/quoteleft]
+    [8#222/quoteright][8#223/quotedblleft]
+    [8#224/quotedblright][8#225/bullet]
+    [8#226/endash][8#227/emdash]
+    [8#230/tilde][8#232/scaron]
+    [8#233/guilsinglright][8#234/oe]
+    [8#237/Ydieresis][8#240/space]
+    [8#241/exclamdown][8#242/cent]
+    [8#243/sterling][8#244/currency]
+    [8#245/yen][8#246/bar]
+    [8#247/section][8#250/dieresis]
+    [8#252/ordfeminine][8#253/guillemotleft]
+    [8#255/hyphen][8#257/macron]
+    [8#260/ring][8#264/acute]
+    [8#266/paragraph][8#267/periodcentered]
+    [8#270/cedilla][8#272/ordmasculine]
+    [8#273/guillemotright][8#277/questiondown]
+    [8#300/Agrave][8#301/Aacute]
+    [8#302/Acircumflex][8#303/Atilde]
+    [8#304/Adieresis][8#305/Aring]
+    [8#306/AE][8#307/Ccedilla]
+    [8#310/Egrave][8#311/Eacute]
+    [8#312/Ecircumflex][8#313/Edieresis]
+    [8#314/Igrave][8#315/Iacute]
+    [8#316/Icircumflex][8#317/Idieresis]
+    [8#321/Ntilde][8#322/Ograve]
+    [8#323/Oacute][8#324/Ocircumflex]
+    [8#325/Otilde][8#326/Odieresis]
+    [8#330/Oslash][8#331/Ugrave]
+    [8#332/Uacute][8#333/Ucircumflex]
+    [8#334/Udieresis][8#335/Yacute]
+    [8#337/germandbls][8#340/agrave]
+    [8#341/aacute][8#342/acircumflex]
+    [8#343/atilde][8#344/adieresis]
+    [8#345/aring][8#346/ae]
+    [8#347/ccedilla][8#350/egrave]
+    [8#351/eacute][8#352/ecircumflex]
+    [8#353/edieresis][8#354/igrave]
+    [8#355/iacute][8#356/icircumflex]
+    [8#357/idieresis][8#361/ntilde]
+    [8#362/ograve][8#363/oacute]
+    [8#364/ocircumflex][8#365/otilde]
+    [8#366/odieresis][8#367/divide]
+    [8#370/oslash][8#371/ugrave]
+    [8#372/uacute][8#373/ucircumflex]
+    [8#374/udieresis][8#375/yacute]
+    [8#377/ydieresis]
+] def
+/ilvreencode{exch dup systemdict/findfont get exec dup
+ length dict
+    begin{1 index/FID ne{def}{pop pop}ifelse} forall
+    exch /Encoding exch Encoding dup length array copy
+    exch{aload pop 2 index 3 1 roll put}forall def
+    currentdict end definefont}bd
+/ilvsf{Latin1Encoding ilvreencode
+       exch scalefont setfont}bd
+/ilvjsf {findfont exch scalefont setfont}bd
+/strip{ newpath gsave translate
+        dup -1 scale dup 1 exch 8 exch[exch 0 0 -1 0 1]
+        currentfile /ASCII85Decode filter         } bd
+/rectclip where
+{ pop }
+{ /rectclip 
+{ 4 -2 roll M dup 0 x rL x 0 rL neg 0 x rL c } bd } ifelse
+/rectfill where
+{ pop }
+{ /rectfill
+{ 4 -2 roll M dup 0 x rL x 0 rL neg 0 x rL c fill } bd } ifelse
+/rectstroke where
+{ pop }
+{ /rectstroke 
+{ 4 -2 roll M dup 0 x rL x 0 rL neg 0 x rL c stroke } bd } ifelse
+%%EndProlog
+%%Page: 1 1
+%%BeginPageSetup
+[{
+%%BeginFeature: *PageRegion 
+  2 dict
+  dup /PageSize [612 792] put
+  dup /ImagingBBox null put
+  setpagedevice
+%%EndFeature
+} stopped cleartomark
+/realmatrix { [1 0 0 -1 0 792] imtrx matrix concatmatrix } bd
+realmatrix setmatrix
+/Courier findfont setfont
+%%EndPageSetup
+initclip 612 792 0 0 rect clip
+ sc
+realmatrix setmatrix 
+[0 -1 1 0 50 741] concat
+ rc sc realmatrix setmatrix 
+[0 -1 1 0 50 741] concat
+ n 690 510 0 0 rect clip
+12/Helvetica ilvsf
+[] 0 setdash
+0 setgray
+0 slw
+n 350 200 M s
+n 350 160 M s
+0.654902 setgray
+
+n 370 200 M 350 200 L  350 160 L  370 160 L  370 200 L  
+ eofill
+0.40235 setgray
+
+n 370 200 M 350 200 L 350 160 L 370 160 L s
+0.654902 setgray
+
+n matrix currentmatrix 370 180 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix
+ eofill
+0.40235 setgray
+
+n matrix currentmatrix 370 180 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix s
+0 setgray
+
+n 350 410 M s
+n 350 370 M s
+0.654902 setgray
+
+n 370 410 M 350 410 L  350 370 L  370 370 L  370 410 L  
+ eofill
+0.40235 setgray
+
+n 370 410 M 350 410 L 350 370 L 370 370 L s
+0.654902 setgray
+
+n matrix currentmatrix 370 390 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix
+ eofill
+0.40235 setgray
+
+n matrix currentmatrix 370 390 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix s
+0 setgray
+
+n 180 300 M s
+n 180 260 M s
+0.654902 setgray
+
+n 200 300 M 180 300 L  180 260 L  200 260 L  200 300 L  
+ eofill
+0.40235 setgray
+
+n 200 300 M 180 300 L 180 260 L 200 260 L s
+0.654902 setgray
+
+n matrix currentmatrix 200 280 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix
+ eofill
+0.40235 setgray
+
+n matrix currentmatrix 200 280 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix s
+0 setgray
+
+n 500 300 M s
+n 500 260 M s
+0.654902 setgray
+
+n 520 300 M 500 300 L  500 260 L  520 260 L  520 300 L  
+ eofill
+0.40235 setgray
+
+n 520 300 M 500 300 L 500 260 L 520 260 L s
+0.654902 setgray
+
+n matrix currentmatrix 520 280 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix
+ eofill
+0.40235 setgray
+
+n matrix currentmatrix 520 280 t 20 20 scale 1 -1 scale  0 0 1 -90 90 arc setmatrix s
+0.952941 setgray
+
+n 170 10 320 500 rect  eofill
+0 setgray
+
+320 500 170 10 rectstroke
+0.952941 setgray
+
+n 40 10 490 460 rect  eofill
+0 setgray
+
+490 460 40 10 rectstroke
+0.952941 setgray
+
+n 170 10 320 480 rect  eofill
+0 setgray
+
+320 480 170 10 rectstroke
+0.952941 setgray
+
+n 40 10 280 480 rect  eofill
+0 setgray
+
+280 480 40 10 rectstroke
+0.952941 setgray
+
+n 200 40 490 470 rect  eofill
+0 setgray
+
+490 470 200 40 rectstroke
+0.952941 setgray
+
+n 160 10 530 460 rect  eofill
+0 setgray
+
+530 460 160 10 rectstroke
+0.952941 setgray
+
+n 210 20 280 460 rect  eofill
+0 setgray
+
+280 460 210 20 rectstroke
+0.952941 setgray
+
+n 40 10 280 490 rect  eofill
+0 setgray
+
+280 490 40 10 rectstroke
+0.952941 setgray
+
+n 40 10 280 500 rect  eofill
+0 setgray
+
+280 500 40 10 rectstroke
+0.952941 setgray
+
+n 170 10 320 490 rect  eofill
+0 setgray
+
+320 490 170 10 rectstroke
+0.0784314 setgray
+
+n 90 166 M 100 166 L  105 170 L  100 174 L  90 174 L  90 166 L  
+ eofill
+0 setgray
+
+n 90 166 M 100 166 L 105 170 L 100 174 L 90 174 L 90 166 L s
+0.0784314 setgray
+
+n 90 166 M 100 166 L  105 170 L  100 174 L  90 174 L  90 166 L  
+ eofill
+0 setgray
+
+n 90 166 M 100 166 L 105 170 L 100 174 L 90 174 L 90 166 L s
+n 105 170 M 110 170 L s
+0.0784314 setgray
+
+n 90 396 M 100 396 L  105 400 L  100 404 L  90 404 L  90 396 L  
+ eofill
+0 setgray
+
+n 90 396 M 100 396 L 105 400 L 100 404 L 90 404 L 90 396 L s
+0.0784314 setgray
+
+n 90 396 M 100 396 L  105 400 L  100 404 L  90 404 L  90 396 L  
+ eofill
+0 setgray
+
+n 90 396 M 100 396 L 105 400 L 100 404 L 90 404 L 90 396 L s
+n 105 400 M 110 400 L s
+0.0784314 setgray
+
+n 635 276 M 645 276 L  650 280 L  645 284 L  635 284 L  635 276 L  
+ eofill
+0 setgray
+
+n 635 276 M 645 276 L 650 280 L 645 284 L 635 284 L 635 276 L s
+0.0784314 setgray
+
+n 635 276 M 645 276 L  650 280 L  645 284 L  635 284 L  635 276 L  
+ eofill
+0 setgray
+
+n 635 276 M 645 276 L 650 280 L 645 284 L 635 284 L 635 276 L s
+n 630 280 M 635 280 L s
+0.0784314 setgray
+
+n 635 276 M 645 276 L  650 280 L  645 284 L  635 284 L  635 276 L  
+ eofill
+0 setgray
+
+n 635 276 M 645 276 L 650 280 L 645 284 L 635 284 L 635 276 L s
+0.0784314 setgray
+
+n 635 276 M 645 276 L  650 280 L  645 284 L  635 284 L  635 276 L  
+ eofill
+0 setgray
+
+n 635 276 M 645 276 L 650 280 L 645 284 L 635 284 L 635 276 L s
+n 630 280 M 635 280 L s
+n 105 170 M 110 170 L s
+n 105 400 M 110 400 L s
+n 630 280 M 635 280 L s
+n 630 280 M 635 280 L s
+n 110 170 M 340 170 L s
+n 170 270 M 160 270 L 160 170 L s
+n 110 400 M 340 400 L s
+n 170 290 M 160 290 L 160 400 L s
+n 340 190 M 310 190 L 310 280 L 230 280 L s
+n 310 280 M 310 380 L 340 380 L s
+n 400 390 M 490 390 L 490 290 L s
+n 550 280 M 630 280 L s
+n 400 180 M 490 180 L 490 270 L s
+n 400 180 M 399 180 L s
+1 setgray
+
+n matrix currentmatrix 394 180 t 4 5 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+0 setgray
+
+n matrix currentmatrix 394 180 t 4 5 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n 340 170 M 350 170 L s
+n 340 190 M 350 190 L s
+n 400 390 M 399 390 L s
+1 setgray
+
+n matrix currentmatrix 394 390 t 4 5 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+0 setgray
+
+n matrix currentmatrix 394 390 t 4 5 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n 340 380 M 350 380 L s
+n 340 400 M 350 400 L s
+n 230 280 M 229 280 L s
+1 setgray
+
+n matrix currentmatrix 224 280 t 4 5 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+0 setgray
+
+n matrix currentmatrix 224 280 t 4 5 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n 170 270 M 180 270 L s
+n 170 290 M 180 290 L s
+n 550 280 M 549 280 L s
+1 setgray
+
+n matrix currentmatrix 544 280 t 4 5 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+0 setgray
+
+n matrix currentmatrix 544 280 t 4 5 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n 490 270 M 500 270 L s
+n 490 290 M 500 290 L s
+n matrix currentmatrix 160 170 t 4 4 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+n matrix currentmatrix 160 170 t 4 4 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n matrix currentmatrix 160 400 t 4 4 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+n matrix currentmatrix 160 400 t 4 4 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+n matrix currentmatrix 310 280 t 4 4 scale 0 0 M 1 -1 scale  0 0 1 0 360 arc setmatrix
+ eofill
+n matrix currentmatrix 310 280 t 4 4 scale 1 -1 scale  0 0 1 0 360 arc setmatrix s
+8/Courier ilvsf
+
+G 220 61 M 1 -1 scale(SIGNAL din2  : std_logic)ilvshow g
+G 220 70 M 1 -1 scale(SIGNAL dout  : std_logic)ilvshow g
+G 220 79 M 1 -1 scale(SIGNAL dout1 : std_logic)ilvshow g
+G 220 25 M 1 -1 scale(X     : std_logic)ilvshow g
+G 220 34 M 1 -1 scale(Y     : std_logic)ilvshow g
+G 220 43 M 1 -1 scale(f     : std_logic)ilvshow g
+0.0784314 setgray
+
+G 282 487 M 1 -1 scale(Title:)ilvshow g
+G 282 497 M 1 -1 scale(Path:)ilvshow g
+G 282 507 M 1 -1 scale(Edited:)ilvshow g
+8/Courier-Bold ilvsf
+0 setgray
+
+G 0 7 M 1 -1 scale(Package List)ilvshow g
+8/Courier ilvsf
+
+G 0 16 M 1 -1 scale(LIBRARY ieee;)ilvshow g
+G 0 25 M 1 -1 scale(USE ieee.std_logic_1164.all;)ilvshow g
+G 0 34 M 1 -1 scale(USE ieee.std_logic_arith.all;)ilvshow g
+8/Courier-Bold ilvsf
+
+G 200 7 M 1 -1 scale(Declarations)ilvshow g
+G 200 16 M 1 -1 scale(Ports:)ilvshow g
+G 200 52 M 1 -1 scale(Diagram Signals:)ilvshow g
+8/Courier ilvsf
+
+G 80 172 M 1 -1 scale(X)dup stringwidth pop -1 mul 0 rM ilvshow g
+G 355 202 M 1 -1 scale(nand)ilvshow g
+G 355 211 M 1 -1 scale(U_0)ilvshow g
+G 185 302 M 1 -1 scale(nand)ilvshow g
+G 185 311 M 1 -1 scale(U_2)ilvshow g
+G 80 402 M 1 -1 scale(Y)dup stringwidth pop -1 mul 0 rM ilvshow g
+G 140 268 M 1 -1 scale(X)ilvshow g
+G 140 288 M 1 -1 scale(Y)ilvshow g
+G 355 412 M 1 -1 scale(nand)ilvshow g
+G 355 421 M 1 -1 scale(U_1)ilvshow g
+G 505 302 M 1 -1 scale(nand)ilvshow g
+G 505 311 M 1 -1 scale(U_3)ilvshow g
+G 310 378 M 1 -1 scale(din2)ilvshow g
+0.0784314 setgray
+
+G 492 479 M 1 -1 scale(the XOR circuit)ilvshow g
+G 322 507 M 1 -1 scale(by hkiang2 on 14 Sep 2013)ilvshow g
+G 492 467 M 1 -1 scale(Project:)ilvshow g
+G 322 487 M 1 -1 scale(myXOR circuit)ilvshow g
+G 532 467 M 1 -1 scale(lab2)ilvshow g
+10/Courier ilvsf
+0.172549 setgray
+
+G 385 473 M 1 -1 scale(Harrison Kiang AD5)dup stringwidth pop -2 div 0 rM ilvshow g
+8/Courier ilvsf
+0.0784314 setgray
+
+G 322 497 M 1 -1 scale(lab2_lib/myxor/struct)ilvshow g
+0 setgray
+
+G 660 282 M 1 -1 scale(f)ilvshow g
+realmatrix setmatrix 
+[0 -1 1 0 0 792] concat
+ rc sc
+realmatrix setmatrix 
+[0 -1 1 0 0 792] concat
+10/Courier-Bold ilvsf
+0 setgray
+
+G 333 45 M 1 -1 scale(lab2_lib/myxor/struct)ilvshow g
+G 676 575 M 1 -1 scale(Page 1 of 1)ilvshow g
+G 50 575 M 1 -1 scale(Printed by hkiang2 on 09/14/13 at 00:17:31)ilvshow g
+showpage
+%%Trailer
+end
+%%Pages: 1
+%%EOF

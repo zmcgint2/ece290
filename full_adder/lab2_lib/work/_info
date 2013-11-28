@@ -1,0 +1,95 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/hkiang2/ece290/lab2/lab2_lib/work
+T_opt
+VSaHR551?V^GXWRe0Lj;2F3
+04 5 6 work myxor struct 1
+=1-005056bd009e-5233f568-75f2c-6359
+Z1 o-quiet +acc -auto_acc_if_foreign -work lab2_lib -L lab2_lib
+n@_opt
+Z2 OE;O;10.1d;51
+Z3 d/home/hkiang2/ece290/lab2/lab2_lib/work
+T_opt1
+VfEn4e_VPB@cG`Y_KoOC<P2
+04 10 6 work full_adder struct 1
+=1-005056bd009e-5233f77d-88e98-7467
+R1
+n@_opt1
+R2
+Efull_adder
+Z4 w1379137392
+Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R3
+Z8 8/home/hkiang2/ece290/lab2/lab2_lib/hdl/full_adder_struct.vhd
+Z9 F/home/hkiang2/ece290/lab2/lab2_lib/hdl/full_adder_struct.vhd
+l0
+L13
+V[JncKdMZ@9A=V@58LllQk0
+Z10 OE;C;10.1d;51
+32
+Z11 !s108 1379137393.683961
+Z12 !s90 -work|lab2_lib|-nologo|-f|/tmp/Files0|
+Z13 !s107 /home/hkiang2/ece290/lab2/lab2_lib/hdl/full_adder_struct.vhd|
+Z14 o-work lab2_lib -nologo
+Z15 tExplicit 1
+!s100 g6[Fi<MnYQ@nh3nAgo_jm1
+!i10b 1
+Astruct
+DEx8 lab2_lib 5 myxor 0 22 7T0iaHTKGKLT>ZAc`Eao92
+DEx4 work 10 full_adder 0 22 [JncKdMZ@9A=V@58LllQk0
+R5
+R6
+R7
+l66
+L41
+VjX>TSWWEXzVVl5W27[BKn2
+R10
+32
+R11
+R12
+R13
+R14
+R15
+!s100 olSjHzJ>^SIiA4132da7e2
+!i10b 1
+Emyxor
+Z16 w1379136840
+R5
+R6
+R7
+R3
+Z17 8/home/hkiang2/ece290/lab2/lab2_lib/hdl/myxor_struct.vhd
+Z18 F/home/hkiang2/ece290/lab2/lab2_lib/hdl/myxor_struct.vhd
+l0
+L13
+V7T0iaHTKGKLT>ZAc`Eao92
+R10
+32
+Z19 !s108 1379136841.656812
+R12
+Z20 !s107 /home/hkiang2/ece290/lab2/lab2_lib/hdl/myxor_struct.vhd|
+R14
+R15
+!s100 Lkogd66zJ:DnU0OZhffGL0
+!i10b 1
+Astruct
+DEx4 work 5 myxor 0 22 7T0iaHTKGKLT>ZAc`Eao92
+R5
+R6
+R7
+l49
+L38
+VB366432DL3DjLk4mn87e83
+R10
+32
+R19
+R12
+R20
+R14
+R15
+!s100 zlXSICL7nl:_?DlV=jh^U1
+!i10b 1

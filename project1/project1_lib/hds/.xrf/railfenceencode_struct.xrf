@@ -1,0 +1,335 @@
+DESIGN railfenceencode
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 182,0 14 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 142,0 15 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 147,0 16 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 152,0 17 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 157,0 18 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 162,0 19 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 167,0 20 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 172,0 21 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 177,0 22 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 187,0 23 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 192,0 24 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 197,0 25 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 207,0 26 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 212,0 27 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 217,0 28 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 254,0 29 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 259,0 30 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 1,0 33 0 
+DESIGN railfenceencode
+VIEW symbol.sb
+GRAPHIC 1,0 34 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 37
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 41,0 46 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 0,0 52 2 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 643,0 57 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1146,0 58 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 807,0 59 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 819,0 60 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 825,0 61 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 831,0 62 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 669,0 63 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 675,0 64 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 681,0 65 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 687,0 66 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 693,0 67 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 699,0 68 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 795,0 69 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 801,0 70 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 815,0 73 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 839,0 74 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 76
+LIBRARY project1_lib
+DESIGN railfenceencode
+VIEW struct
+GRAPHIC 1008,0 78 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 87
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 193,0 89 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 100
+LIBRARY project1_lib
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 102
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1008,0 105 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 193,0 106 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 109
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 111
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1008,0 113 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 797,0 115 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 803,0 116 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 809,0 117 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 815,0 118 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 845,0 119 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 851,0 120 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 857,0 121 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1054,0 123 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 821,0 125 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 827,0 126 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 833,0 127 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 839,0 128 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 869,0 129 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 875,0 130 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 881,0 131 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 193,0 133 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 741,0 135 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 537,0 136 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 543,0 137 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 549,0 138 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 555,0 139 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 645,0 140 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1148,0 141 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 671,0 142 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 677,0 143 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 203,0 145 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 735,0 147 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 561,0 148 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 567,0 149 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 573,0 150 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 579,0 151 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 683,0 152 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 689,0 153 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 695,0 154 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 701,0 155 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 359,0 157 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 725,0 159 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 645,0 160 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 671,0 161 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 689,0 162 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 701,0 163 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 797,0 164 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 803,0 165 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 809,0 166 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 815,0 167 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 405,0 169 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 729,0 171 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 1148,0 172 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 677,0 173 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 683,0 174 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 695,0 175 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 821,0 176 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 827,0 177 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 833,0 178 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 839,0 179 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 815,0 183 0 
+DESIGN railfenceencode
+VIEW struct.bd
+GRAPHIC 839,0 184 0 
+DESIGN railfenceencode
+VIEW struct.bd
+NO_GRAPHIC 186

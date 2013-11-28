@@ -1,0 +1,45 @@
+DESIGN alphabet_5bit_decoder
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN alphabet_5bit_decoder
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN alphabet_5bit_decoder
+VIEW symbol.sb
+GRAPHIC 110,0 14 0 
+DESIGN alphabet_5bit_decoder
+VIEW symbol.sb
+GRAPHIC 1,0 17 0 
+DESIGN alphabet_5bit_decoder
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 21
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+GRAPHIC 41,0 30 0 
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 33
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+GRAPHIC 0,0 35 2 
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 40
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 42
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+GRAPHIC 180,0 44 0 
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN alphabet_5bit_decoder
+VIEW struct.bd
+NO_GRAPHIC 49

@@ -1,0 +1,11 @@
+[hdl]
+simple_substitution_lib = $HDS_PROJECT_DIR/simple_substitution_lib/hdl
+[hds]
+simple_substitution_lib = $HDS_PROJECT_DIR/simple_substitution_lib/hds
+[hds_settings]
+default_library = simple_substitution_lib
+version = 2
+[library_type]
+simple_substitution_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
