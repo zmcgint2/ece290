@@ -1,0 +1,11 @@
+[hdl]
+Diffe_Hellman_lib = $HDS_PROJECT_DIR/Diffe_Hellman_lib/hdl
+[hds]
+Diffe_Hellman_lib = $HDS_PROJECT_DIR/Diffe_Hellman_lib/hds
+[hds_settings]
+default_library = Diffe_Hellman_lib
+version = 2
+[library_type]
+Diffe_Hellman_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
